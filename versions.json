@@ -1,0 +1,7 @@
+"sections": {
+"Aptitude": { "version": 1, "path": "questions/2025-10-01/aptitude.json" },
+"Reasoning": { "version": 1, "path": "questions/2025-10-01/reasoning.json" },
+"English": { "version": 1, "path": "questions/2025-10-01/english.json" },
+"General Awareness": { "version": 1, "path": "questions/2025-10-01/general_awareness.json" }
+}
+}
