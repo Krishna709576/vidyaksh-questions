@@ -1,3 +1,5 @@
+{
+"activeDate": "2025-10-01",
 "sections": {
 "Aptitude": { "version": 1, "path": "questions/2025-10-01/aptitude.json" },
 "Reasoning": { "version": 1, "path": "questions/2025-10-01/reasoning.json" },
