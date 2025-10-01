@@ -1,0 +1,252 @@
+[
+    {
+      "question": "Who is the first Law Officer of the Government of India?",
+      "options": {
+        "A": "Chief Justice of India",
+        "B": "Union Law Minister",
+        "C": "Attorney General of India",
+        "D": "Solicitor General of India"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "The famous rock garden is located in which city?",
+      "options": {
+        "A": "Jaipur",
+        "B": "Lucknow",
+        "C": "Shimla",
+        "D": "Chandigarh"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Which of the following is not a greenhouse gas?",
+      "options": {
+        "A": "Methane",
+        "B": "Nitrous oxide",
+        "C": "Carbon dioxide",
+        "D": "Nitrogen"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "The instrument used to measure blood pressure is:",
+      "options": {
+        "A": "Sphygmomanometer",
+        "B": "Barometer",
+        "C": "Hygrometer",
+        "D": "Thermometer"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following is the largest gland in the human body?",
+      "options": {
+        "A": "Thymus",
+        "B": "Liver",
+        "C": "Pancreas",
+        "D": "Spleen"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "The 'Dandi March' was started by Mahatma Gandhi in which year?",
+      "options": {
+        "A": "1928",
+        "B": "1930",
+        "C": "1931",
+        "D": "1932"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is a classical dance of North India?",
+      "options": {
+        "A": "Bharatanatyam",
+        "B": "Kuchipudi",
+        "C": "Kathak",
+        "D": "Kathakali"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "The book 'An Area of Darkness' is written by:",
+      "options": {
+        "A": "V. S. Naipaul",
+        "B": "Arundhati Roy",
+        "C": "Salman Rushdie",
+        "D": "Vikram Seth"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "The headquarters of the International Court of Justice is at:",
+      "options": {
+        "A": "Geneva",
+        "B": "The Hague",
+        "C": "New York",
+        "D": "Paris"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the chemical name of Vitamin C?",
+      "options": {
+        "A": "Retinol",
+        "B": "Ascorbic acid",
+        "C": "Calciferol",
+        "D": "Tocopherol"
+      },
+      "answer": "B"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": {
+            "A": "Venus",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Saturn"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "The study of insects is known as:",
+        "options": {
+            "A": "Entomology",
+            "B": "Ornithology",
+            "C": "Ichthyology",
+            "D": "Herpetology"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "The first battle of Panipat was fought between:",
+        "options": {
+            "A": "Babur and Ibrahim Lodi",
+            "B": "Akbar and Hemu",
+            "C": "Humayun and Sher Shah Suri",
+            "D": "Ahmed Shah Abdali and the Marathas"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following rivers is known as the 'Sorrow of Bengal'?",
+        "options": {
+            "A": "Ganges",
+            "B": "Brahmaputra",
+            "C": "Damodar",
+            "D": "Hooghly"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The Parliament of India consists of:",
+        "options": {
+            "A": "Lok Sabha and Rajya Sabha",
+            "B": "President, Lok Sabha and Rajya Sabha",
+            "C": "Lok Sabha, Rajya Sabha and the Prime Minister",
+            "D": "President, Vice President, Lok Sabha and Rajya Sabha"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Who was the first Indian woman to climb Mount Everest?",
+        "options": {
+            "A": "Bachendri Pal",
+            "B": "Santosh Yadav",
+            "C": "Premlata Agarwal",
+            "D": "Arunima Sinha"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": {
+            "A": "China",
+            "B": "South Korea",
+            "C": "Japan",
+            "D": "Thailand"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The currency of Bangladesh is:",
+        "options": {
+            "A": "Rupee",
+            "B": "Taka",
+            "C": "Kyat",
+            "D": "Riel"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": {
+            "A": "Thomas Edison",
+            "B": "Alexander Graham Bell",
+            "C": "Guglielmo Marconi",
+            "D": "John Logie Baird"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "The National Stock Exchange of India is located in:",
+        "options": {
+            "A": "New Delhi",
+            "B": "Mumbai",
+            "C": "Kolkata",
+            "D": "Chennai"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Argon",
+            "C": "Nitrogen",
+            "D": "Carbon Dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The capital of Australia is:",
+        "options": {
+            "A": "Sydney",
+            "B": "Melbourne",
+            "C": "Canberra",
+            "D": "Perth"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is the hardest substance known?",
+        "options": {
+            "A": "Gold",
+            "B": "Iron",
+            "C": "Diamond",
+            "D": "Platinum"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The Right to Education Act was enacted in which year?",
+        "options": {
+            "A": "2005",
+            "B": "2009",
+            "C": "2012",
+            "D": "2014"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Jawaharlal Nehru",
+            "C": "Sardar Vallabhbhai Patel",
+            "D": "Dr. B. R. Ambedkar"
+        },
+        "answer": "D"
+    }
+  ]
