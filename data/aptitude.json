@@ -1,0 +1,252 @@
+[
+    {
+      "question": "If a boat goes 100 km downstream in 10 hours and 75 km upstream in 15 hours, then the speed of the stream is:",
+      "options": {
+        "A": "2 km/hr",
+        "B": "2.5 km/hr",
+        "C": "3 km/hr",
+        "D": "5 km/hr"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "The average of first 50 natural numbers is:",
+      "options": {
+        "A": "25.30",
+        "B": "25.5",
+        "C": "25.00",
+        "D": "12.25"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "A man buys a cycle for 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+      "options": {
+        "A": "1090",
+        "B": "1160",
+        "C": "1190",
+        "D": "1202"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the value of sin(30°) + cos(60°)?",
+      "options": {
+        "A": "1/2",
+        "B": "1",
+        "C": "sqrt(3)/2",
+        "D": "0"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "The ratio of two numbers is 3:4 and their HCF is 4. Their LCM is:",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "24",
+        "D": "48"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "If 2A = 3B = 4C, then A:B:C is:",
+      "options": {
+        "A": "2:3:4",
+        "B": "4:3:2",
+        "C": "6:4:3",
+        "D": "3:4:6"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "A can do a piece of work in 10 days, and B can do it in 15 days. In how many days will they do the same work together?",
+      "options": {
+        "A": "5 days",
+        "B": "6 days",
+        "C": "8 days",
+        "D": "9 days"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "The simple interest on a certain sum for 2 years at 10% per annum is 90. The corresponding compound interest is:",
+      "options": {
+        "A": "94.50",
+        "B": "95.60",
+        "C": "97.50",
+        "D": "100"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "The area of a square is 144 sq cm. The perimeter of the square is:",
+      "options": {
+        "A": "12 cm",
+        "B": "24 cm",
+        "C": "36 cm",
+        "D": "48 cm"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "If the price of sugar is increased by 25%, by how much percent must a householder reduce the consumption of sugar so as not to increase the expenditure?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "16.66%",
+        "D": "15%"
+      },
+      "answer": "A"
+    },
+    {
+        "question": "A train 150 m long is running at a speed of 68 km/hr. In what time will it pass a man who is running at 8 km/hr in the same direction in which the train is going?",
+        "options": {
+            "A": "8 seconds",
+            "B": "9 seconds",
+            "C": "10 seconds",
+            "D": "12 seconds"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "The value of (1001)^3 is:",
+        "options": {
+            "A": "1003003001",
+            "B": "1003003011",
+            "C": "100303001",
+            "D": "1003301"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "A number when divided by 119 leaves a remainder of 19. If the same number is divided by 17, the remainder will be:",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "In a triangle ABC, if angle A = 90 degrees, and AB = 5 cm, AC = 12 cm, then the length of BC is:",
+        "options": {
+            "A": "13 cm",
+            "B": "15 cm",
+            "C": "17 cm",
+            "D": "10 cm"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the smallest number that must be added to 1000 to make it a perfect square?",
+        "options": {
+            "A": "14",
+            "B": "24",
+            "C": "34",
+            "D": "44"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "The diagonal of a cube is 4√3 cm. Its volume is:",
+        "options": {
+            "A": "16 cm^3",
+            "B": "27 cm^3",
+            "C": "64 cm^3",
+            "D": "81 cm^3"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages was 34. The ages of the son and the father are respectively:",
+        "options": {
+            "A": "6 and 39",
+            "B": "7 and 38",
+            "C": "9 and 36",
+            "D": "11 and 34"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the third proportional to 16 and 36?",
+        "options": {
+            "A": "64",
+            "B": "81",
+            "C": "91",
+            "D": "101"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "The difference between 78% of a number and 59% of the same number is 323. What is 62% of that number?",
+        "options": {
+            "A": "1054",
+            "B": "1154",
+            "C": "1254",
+            "D": "1354"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "If x + 1/x = 2, then the value of x^3 + 1/x^3 is:",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Two successive discounts of 20% and 15% are equivalent to a single discount of:",
+        "options": {
+            "A": "32%",
+            "B": "35%",
+            "C": "34%",
+            "D": "30%"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "The marked price of an article is 10% higher than the cost price. A discount of 10% is given on the marked price. In this kind of sale, the seller:",
+        "options": {
+            "A": "bears no loss, no gain",
+            "B": "gains 1%",
+            "C": "loses 1%",
+            "D": "loses 5%"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "If tanθ = 4/3, then the value of (3sinθ + 2cosθ) / (3sinθ - 2cosθ) is:",
+        "options": {
+            "A": "0.5",
+            "B": " -0.5",
+            "C": "3.0",
+            "D": "-3.0"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "The area of the largest triangle that can be inscribed in a semicircle of radius 'r' is:",
+        "options": {
+            "A": "r^2",
+            "B": "2r^2",
+            "C": "r^3",
+            "D": "2r^3"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "A sum of money at simple interest amounts to 815 in 3 years and to 854 in 4 years. The sum is:",
+        "options": {
+            "A": "650",
+            "B": "690",
+            "C": "698",
+            "D": "700"
+        },
+        "answer": "C"
+    }
+  ]
