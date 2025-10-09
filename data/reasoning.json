@@ -1,252 +1,152 @@
 [
-    {
-      "question": "Select the related word/letters/number from the given alternatives. **Car : Garage :: Aeroplane : ?**",
-      "options": {
-        "A": "Port",
-        "B": "Depot",
-        "C": "Hangar",
-        "D": "Harbour"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "Select the odd word/letters/number from the given alternatives.",
-      "options": {
-        "A": "A",
-        "B": "I",
-        "C": "D",
-        "D": "E"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. **3, 7, 16, 35, ?**",
-      "options": {
-        "A": "70",
-        "B": "72",
-        "C": "74",
-        "D": "78"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "Pointing to a photograph, a man said, \"I have no brother or sister but that man's father is my father's son.\" Whose photograph was it?",
-      "options": {
-        "A": "His own",
-        "B": "His son's",
-        "C": "His father's",
-        "D": "His nephew's"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "From the given alternatives, select the word which cannot be formed using the letters of the given word. **'CONSTITUTIONAL'**",
-      "options": {
-        "A": "TALENT",
-        "B": "LOCATION",
-        "C": "TUTION",
-        "D": "CONSULT"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "If 'A' is coded as 2, 'B' as 4, 'C' as 6 and so on, what is the code for 'F'?",
-      "options": {
-        "A": "10",
-        "B": "12",
-        "C": "14",
-        "D": "16"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "Which one of the given responses would be a meaningful order of the following? **1. Police 2. Punishment 3. Crime 4. Judge 5. Judgement**",
-      "options": {
-        "A": "3, 1, 4, 5, 2",
-        "B": "3, 1, 2, 4, 5",
-        "C": "1, 2, 3, 4, 5",
-        "D": "5, 4, 3, 2, 1"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Which of the following diagrams indicates the best relation between **Travellers, Train and Bus**?",
-      "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Select the missing number from the given responses. **9, 17, 33, 65, ?**",
-      "options": {
-        "A": "117",
-        "B": "129",
-        "C": "131",
-        "D": "133"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "Ravi is 7 ranks ahead of Sumit in a class of 39. If Sumit's rank is seventeenth from the last, what is Ravi's rank from the start?",
-      "options": {
-        "A": "14th",
-        "B": "15th",
-        "C": "16th",
-        "D": "17th"
-      },
-      "answer": "C"
-    },
-    {
-        "question": "Choose the correct alternative from the given ones that will complete the series. **AZ, BY, CX, ?**",
-        "options": {
-            "A": "DW",
-            "B": "DX",
-            "C": "DV",
-            "D": "DU"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "If 'South-East' becomes 'North', 'North-East' becomes 'West' and so on. What will 'West' become?",
-        "options": {
-            "A": "North-East",
-            "B": "South-East",
-            "C": "North",
-            "D": "South"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the related number from the given alternatives. **8 : 28 :: 27 : ?**",
-        "options": {
-            "A": "55",
-            "B": "64",
-            "C": "65",
-            "D": "28"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which figure will complete the pattern in the question figure?",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": "A"
-    },
-    {
-        "question": "From the given answer figures, select the one in which the question figure is hidden/embedded.",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": "A"
-    },
-    {
-        "question": "A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened.",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": "A"
-    },
-    {
-        "question": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": "A"
-    },
-    {
-        "question": "In a certain code language, 'COMPUTER' is written as 'RFUVQNPC'. How will 'MEDICINE' be written in that code?",
-        "options": {
-            "A": "EOJDEJFM",
-            "B": "EOJDJEFM",
-            "C": "MFEDJJOE",
-            "D": "MFEDJJJO"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Statements: 1. Some actors are singers. 2. All singers are dancers. Conclusions: I. Some actors are dancers. II. No singer is an actor.",
-        "options": {
-            "A": "Only (I) conclusion follows",
-            "B": "Only (II) conclusion follows",
-            "C": "Either (I) or (II) follows",
-            "D": "Neither (I) nor (II) follows"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Find the odd one out.",
-        "options": {
-            "A": "2-4",
-            "B": "4-8",
-            "C": "6-18",
-            "D": "8-32"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Arrange the following words as per order in the dictionary. **1. Scenery 2. Science 3. Scandal 4. School 5. Scatter**",
-        "options": {
-            "A": "3, 5, 1, 4, 2",
-            "B": "3, 5, 4, 1, 2",
-            "C": "5, 3, 1, 4, 2",
-            "D": "5, 3, 4, 1, 2"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
-        "options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "E"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Select the missing number from the given responses. **5, 6, 9, 14, 21, ?**",
-        "options": {
-            "A": "28",
-            "B": "30",
-            "C": "31",
-            "D": "29"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "If '+' means '÷', '÷' means '–', '–' means '×' and '×' means '+', what will be the value of 8 + 6 ÷ 4 – 7 × 3?",
-        "options": {
-            "A": "-71/3",
-            "B": "-23/2",
-            "C": "12",
-            "D": "14"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which set of letters when sequentially placed at the gaps in the given letter series shall complete it? **_b_ca_b_ca_b_c**",
-        "options": {
-            "A": "acacab",
-            "B": "ababac",
-            "C": "acabab",
-            "D": "ababca"
-        },
-        "answer": "C"
-    }
-  ]
+  {
+    "question": "If all roses are flowers and some flowers are red, can we conclude that some roses are red?",
+    "options": ["Yes", "No", "Cannot be determined", "Partially yes"],
+    "correctAnswer": 2,
+    "explanation": "We cannot determine because not all flowers that are red might be roses"
+  },
+  {
+    "question": "Find the odd one out: Dog, Cat, Cow, Table",
+    "options": ["Dog", "Cat", "Cow", "Table"],
+    "correctAnswer": 3,
+    "explanation": "Table is not a living thing, while the others are animals"
+  },
+  {
+    "question": "If 'BOOK' is coded as 'CPPL', how is 'PAGE' coded?",
+    "options": ["QBHF", "QBGF", "OBDF", "PAHF"],
+    "correctAnswer": 0,
+    "explanation": "Each letter is shifted by +1: P→Q, A→B, G→H, E→F"
+  },
+  {
+    "question": "Complete the series: 5, 10, 20, 40, ?",
+    "options": ["60", "80", "100", "120"],
+    "correctAnswer": 1,
+    "explanation": "Each number is multiplied by 2: 40 × 2 = 80"
+  },
+  {
+    "question": "If A is the brother of B, B is the brother of C, and C is the father of D, how is A related to D?",
+    "options": ["Father", "Uncle", "Brother", "Grandfather"],
+    "correctAnswer": 1,
+    "explanation": "A is the brother of D's father (C), making A the uncle of D"
+  },
+  {
+    "question": "Which number does not belong: 2, 4, 6, 9, 10?",
+    "options": ["2", "4", "9", "10"],
+    "correctAnswer": 2,
+    "explanation": "9 is the only odd number in the sequence"
+  },
+  {
+    "question": "If South-East becomes North, what will West become?",
+    "options": ["North-East", "South-West", "South", "East"],
+    "correctAnswer": 0,
+    "explanation": "Each direction rotates 45° clockwise: West becomes North-East"
+  },
+  {
+    "question": "Find the missing number: 3, 6, 11, 18, ?",
+    "options": ["25", "27", "29", "31"],
+    "correctAnswer": 1,
+    "explanation": "Pattern: +3, +5, +7, +9. So 18 + 9 = 27"
+  },
+  {
+    "question": "If CAT = 24, what is DOG?",
+    "options": ["26", "28", "30", "32"],
+    "correctAnswer": 0,
+    "explanation": "Sum of positions: C(3)+A(1)+T(20)=24, D(4)+O(15)+G(7)=26"
+  },
+  {
+    "question": "Which word is different: Run, Jump, Walk, Think?",
+    "options": ["Run", "Jump", "Walk", "Think"],
+    "correctAnswer": 3,
+    "explanation": "Think is a mental action, others are physical actions"
+  },
+  {
+    "question": "If all doctors are teachers and some teachers are engineers, what can be concluded?",
+    "options": ["All doctors are engineers", "Some doctors are engineers", "Some teachers are doctors", "Cannot be determined"],
+    "correctAnswer": 3,
+    "explanation": "No definite conclusion can be drawn from the given statements"
+  },
+  {
+    "question": "Complete: ACE, BDF, CEG, ?",
+    "options": ["DFH", "DGH", "EFH", "DFI"],
+    "correctAnswer": 0,
+    "explanation": "Each letter shifts by +1: D, F, H"
+  },
+  {
+    "question": "Mirror image of WATER is:",
+    "options": ["RETAW", "WATЭЯ", "ЯƎƬAW", "ЯƎTAW"],
+    "correctAnswer": 3,
+    "explanation": "Mirror reverses left to right and flips letters"
+  },
+  {
+    "question": "If 2 = 4, 3 = 9, 4 = 16, then 5 = ?",
+    "options": ["20", "25", "30", "15"],
+    "correctAnswer": 1,
+    "explanation": "Pattern: square of number. 5² = 25"
+  },
+  {
+    "question": "Find odd one: Apple, Mango, Orange, Potato",
+    "options": ["Apple", "Mango", "Orange", "Potato"],
+    "correctAnswer": 3,
+    "explanation": "Potato is a vegetable, others are fruits"
+  },
+  {
+    "question": "If Monday is 2 days before Wednesday, what day is 3 days after Friday?",
+    "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "correctAnswer": 1,
+    "explanation": "Friday + 3 days = Monday"
+  },
+  {
+    "question": "Blood relation: A's mother is B's sister. What is B to A?",
+    "options": ["Uncle/Aunt", "Father", "Mother", "Brother"],
+    "correctAnswer": 0,
+    "explanation": "B is the sibling of A's mother, so B is A's uncle or aunt"
+  },
+  {
+    "question": "Complete: Z1, Y3, X5, ?",
+    "options": ["W7", "W8", "V7", "V8"],
+    "correctAnswer": 0,
+    "explanation": "Letters go backwards, numbers increase by 2: W, 7"
+  },
+  {
+    "question": "If FRIEND is coded as GSJFOE, how is ENEMY coded?",
+    "options": ["FOFNZ", "DMDLX", "FOFNX", "FNFMZ"],
+    "correctAnswer": 0,
+    "explanation": "Each letter shifts by +1: E→F, N→O, E→F, M→N, Y→Z"
+  },
+  {
+    "question": "Which number comes next: 1, 4, 9, 16, 25, ?",
+    "options": ["30", "36", "35", "49"],
+    "correctAnswer": 1,
+    "explanation": "Perfect squares: 1², 2², 3², 4², 5², 6² = 36"
+  },
+  {
+    "question": "If a clock shows 3:15, what is the angle between hour and minute hands?",
+    "options": ["0°", "7.5°", "15°", "22.5°"],
+    "correctAnswer": 1,
+    "explanation": "Hour hand moves 0.5° per minute. At 3:15, angle = 7.5°"
+  },
+  {
+    "question": "Find the odd one: Square, Rectangle, Triangle, Circle",
+    "options": ["Square", "Rectangle", "Triangle", "Circle"],
+    "correctAnswer": 3,
+    "explanation": "Circle has no corners or straight sides"
+  },
+  {
+    "question": "If P × Q means P is mother of Q, P ÷ Q means P is father of Q, then A × B ÷ C means:",
+    "options": ["A is grandmother of C", "A is grandfather of C", "A is mother of C", "A is father of C"],
+    "correctAnswer": 0,
+    "explanation": "A is mother of B, B is father of C, so A is grandmother of C"
+  },
+  {
+    "question": "Complete: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "37", "39", "41"],
+    "correctAnswer": 1,
+    "explanation": "Pattern: +3, +5, +7, +9, +11. So 26 + 11 = 37"
+  },
+  {
+    "question": "If bat : cricket, then racket : ?",
+    "options": ["Football", "Tennis", "Hockey", "Swimming"],
+    "correctAnswer": 1,
+    "explanation": "Bat is used in cricket, racket is used in tennis"
+  }
+]

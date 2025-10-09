@@ -1,252 +1,152 @@
 [
-    {
-      "question": "Select the most appropriate synonym of the given word: **Pensive**",
-      "options": {
-        "A": "Thoughtful",
-        "B": "Happy",
-        "C": "Careless",
-        "D": "Angry"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Select the most appropriate antonym of the given word: **Frugal**",
-      "options": {
-        "A": "Economical",
-        "B": "Extravagant",
-        "C": "Miserly",
-        "D": "Simple"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "Select the correctly spelt word.",
-      "options": {
-        "A": "Believe",
-        "B": "Beleive",
-        "C": "Beliive",
-        "D": "Beleef"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Select the most appropriate meaning of the given idiom: **To be in hot water**",
-      "options": {
-        "A": "To be in trouble",
-        "B": "To be in a comfortable position",
-        "C": "To take a warm bath",
-        "D": "To enjoy oneself"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Improve the bracketed part of the sentence: The doctor **(has adviced)** him to take rest.",
-      "options": {
-        "A": "has advised",
-        "B": "have advised",
-        "C": "had adviced",
-        "D": "No improvement"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Select the most appropriate word to fill in the blank: He is ______ to his country.",
-      "options": {
-        "A": "loyal",
-        "B": "royal",
-        "C": "lawful",
-        "D": "legal"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "Select the alternative which is the best substitute of the phrase: **A person who can speak two languages**",
-      "options": {
-        "A": "Monolingual",
-        "B": "Bilingual",
-        "C": "Multilingual",
-        "D": "Linguist"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "Identify the segment in the sentence which contains the grammatical error: **The number of guests invited to the party are one hundred.**",
-      "options": {
-        "A": "The number of guests",
-        "B": "invited to the party",
-        "C": "are one hundred",
-        "D": "No error"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’. **I am looking forward to meet you.**",
-      "options": {
-        "A": "looking forward to meeting you",
-        "B": "looking forward for meeting you",
-        "C": "looking forward to meet with you",
-        "D": "No substitution"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "In the following question, a sentence has been given in Active/Passive voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice. **The cat is chasing the mouse.**",
-      "options": {
-        "A": "The mouse is being chased by the cat.",
-        "B": "The mouse was being chased by the cat.",
-        "C": "The mouse is chased by the cat.",
-        "D": "The mouse has been chased by the cat."
-      },
-      "answer": "A"
-    },
-    {
-        "question": "Select the most appropriate synonym of the given word: **Abundant**",
-        "options": {
-            "A": "Scarce",
-            "B": "Plentiful",
-            "C": "Limited",
-            "D": "Rare"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the most appropriate antonym of the given word: **Ancient**",
-        "options": {
-            "A": "Old",
-            "B": "Modern",
-            "C": "Aged",
-            "D": "Past"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the correctly spelt word.",
-        "options": {
-            "A": "Embarass",
-            "B": "Embarrass",
-            "C": "Embaras",
-            "D": "Embarras"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the most appropriate meaning of the given idiom: **To add fuel to the fire**",
-        "options": {
-            "A": "To calm down a situation",
-            "B": "To make a bad situation worse",
-            "C": "To prevent a fire",
-            "D": "To start a fire"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Improve the bracketed part of the sentence: He is **(one of the tallest boy)** in the class.",
-        "options": {
-            "A": "one of the taller boy",
-            "B": "one of the tallest boys",
-            "C": "one of tallest boy",
-            "D": "No improvement"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the most appropriate word to fill in the blank: The meeting was ______ by the chairman.",
-        "options": {
-            "A": "presided",
-            "B": "proceeded",
-            "C": "predicted",
-            "D": "prevented"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Select the alternative which is the best substitute of the phrase: **A place where birds are kept**",
-        "options": {
-            "A": "Aquarium",
-            "B": "Apiary",
-            "C": "Aviary",
-            "D": "Zoo"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Identify the segment in the sentence which contains the grammatical error: **Each of the students have done their homework.**",
-        "options": {
-            "A": "Each of the students",
-            "B": "have done",
-            "C": "their homework",
-            "D": "No error"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’. **He is used to work hard.**",
-        "options": {
-            "A": "used to working hard",
-            "B": "used to work hardly",
-            "C": "use to work hard",
-            "D": "No substitution"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech. **He said to me, \"What are you doing?\"**",
-        "options": {
-            "A": "He asked me what I was doing.",
-            "B": "He asked me what I am doing.",
-            "C": "He asked me that what I was doing.",
-            "D": "He asked me what was I doing."
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Select the most appropriate synonym of the given word: **Conspicuous**",
-        "options": {
-            "A": "Hidden",
-            "B": "Obvious",
-            "C": "Concealed",
-            "D": "Secret"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Select the most appropriate antonym of the given word: **Benevolent**",
-        "options": {
-            "A": "Kind",
-            "B": "Generous",
-            "C": "Malevolent",
-            "D": "Friendly"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Select the correctly spelt word.",
-        "options": {
-            "A": "Accomodate",
-            "B": "Acommodate",
-            "C": "Accommodate",
-            "D": "Acomodate"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Select the most appropriate meaning of the given idiom: **To get cold feet**",
-        "options": {
-            "A": "To become nervous or frightened",
-            "B": "To feel cold",
-            "C": "To wear new shoes",
-            "D": "To be brave"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Improve the bracketed part of the sentence: I wish I **(was)** a bird.",
-        "options": {
-            "A": "am",
-            "B": "were",
-            "C": "have been",
-            "D": "No improvement"
-        },
-        "answer": "B"
-    }
-  ]
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": ["Occassion", "Occasion", "Ocasion", "Occation"],
+    "correctAnswer": 1,
+    "explanation": "The correct spelling is 'Occasion' with double 'c' and single 's'"
+  },
+  {
+    "question": "What is the antonym of 'difficult'?",
+    "options": ["Hard", "Easy", "Complex", "Tough"],
+    "correctAnswer": 1,
+    "explanation": "Antonym means opposite, and the opposite of difficult is easy"
+  },
+  {
+    "question": "Choose the correct form: 'She ___ to the market yesterday.'",
+    "options": ["go", "went", "goes", "going"],
+    "correctAnswer": 1,
+    "explanation": "'Yesterday' indicates past tense, so 'went' is correct"
+  },
+  {
+    "question": "What is the synonym of 'happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "correctAnswer": 1,
+    "explanation": "Synonym means similar meaning, and joyful is similar to happy"
+  },
+  {
+    "question": "Identify the noun in: 'The cat runs quickly.'",
+    "options": ["runs", "cat", "quickly", "the"],
+    "correctAnswer": 1,
+    "explanation": "'Cat' is a noun (a person, place, or thing)"
+  },
+  {
+    "question": "Choose the correct article: '___ apple a day keeps the doctor away.'",
+    "options": ["A", "An", "The", "No article"],
+    "correctAnswer": 1,
+    "explanation": "'An' is used before words starting with vowel sounds"
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "options": ["Childs", "Children", "Childes", "Childrens"],
+    "correctAnswer": 1,
+    "explanation": "The irregular plural of child is children"
+  },
+  {
+    "question": "Choose the correct preposition: 'She is good ___ mathematics.'",
+    "options": ["in", "at", "on", "with"],
+    "correctAnswer": 1,
+    "explanation": "'Good at' is the correct phrase for skills or subjects"
+  },
+  {
+    "question": "What is the past participle of 'eat'?",
+    "options": ["ate", "eaten", "eating", "eats"],
+    "correctAnswer": 1,
+    "explanation": "The past participle of eat is eaten (used with have/has/had)"
+  },
+  {
+    "question": "Identify the adjective: 'The beautiful garden has many flowers.'",
+    "options": ["garden", "beautiful", "has", "flowers"],
+    "correctAnswer": 1,
+    "explanation": "'Beautiful' describes the garden, making it an adjective"
+  },
+  {
+    "question": "Choose the correct form: 'If I ___ rich, I would travel the world.'",
+    "options": ["am", "were", "was", "be"],
+    "correctAnswer": 1,
+    "explanation": "In conditional sentences, 'were' is used for all subjects"
+  },
+  {
+    "question": "What is the meaning of 'abundant'?",
+    "options": ["Scarce", "Plentiful", "Small", "Rare"],
+    "correctAnswer": 1,
+    "explanation": "Abundant means existing in large quantities; plentiful"
+  },
+  {
+    "question": "Choose the correct punctuation: 'What time is it___'",
+    "options": [".", "?", "!", ","],
+    "correctAnswer": 1,
+    "explanation": "Question marks are used for interrogative sentences"
+  },
+  {
+    "question": "What is the opposite of 'accept'?",
+    "options": ["Except", "Reject", "Receive", "Take"],
+    "correctAnswer": 1,
+    "explanation": "Reject means to refuse to accept something"
+  },
+  {
+    "question": "Identify the verb: 'They quickly finished their homework.'",
+    "options": ["They", "quickly", "finished", "homework"],
+    "correctAnswer": 2,
+    "explanation": "'Finished' is the action word (verb)"
+  },
+  {
+    "question": "Choose the correct form: 'She has ___ there for five years.'",
+    "options": ["live", "lived", "living", "lives"],
+    "correctAnswer": 1,
+    "explanation": "Present perfect tense requires past participle 'lived'"
+  },
+  {
+    "question": "What is a group of lions called?",
+    "options": ["Pack", "Pride", "Herd", "Flock"],
+    "correctAnswer": 1,
+    "explanation": "A group of lions is called a pride"
+  },
+  {
+    "question": "Choose the correct form: 'Neither of them ___ present.'",
+    "options": ["are", "were", "is", "be"],
+    "correctAnswer": 2,
+    "explanation": "'Neither' is singular and takes singular verb 'is'"
+  },
+  {
+    "question": "What is the comparative form of 'good'?",
+    "options": ["Gooder", "Better", "Best", "More good"],
+    "correctAnswer": 1,
+    "explanation": "The irregular comparative of good is better"
+  },
+  {
+    "question": "Identify the pronoun: 'She gave me her book.'",
+    "options": ["gave", "me", "book", "She"],
+    "correctAnswer": 1,
+    "explanation": "'Me' replaces a noun and is a pronoun"
+  },
+  {
+    "question": "Choose the correct form: 'I ___ my homework when you called.'",
+    "options": ["do", "did", "was doing", "have done"],
+    "correctAnswer": 2,
+    "explanation": "Past continuous tense 'was doing' shows action in progress"
+  },
+  {
+    "question": "What is the meaning of 'diligent'?",
+    "options": ["Lazy", "Hardworking", "Careless", "Slow"],
+    "correctAnswer": 1,
+    "explanation": "Diligent means showing care and effort; hardworking"
+  },
+  {
+    "question": "Choose the correct article: 'He is ___ honest man.'",
+    "options": ["a", "an", "the", "no article"],
+    "correctAnswer": 1,
+    "explanation": "'An' is used before 'honest' because 'h' is silent"
+  },
+  {
+    "question": "What is the superlative form of 'bad'?",
+    "options": ["Badder", "Worse", "Worst", "More bad"],
+    "correctAnswer": 2,
+    "explanation": "The irregular superlative of bad is worst"
+  },
+  {
+    "question": "Identify the conjunction: 'I want tea or coffee.'",
+    "options": ["want", "or", "tea", "coffee"],
+    "correctAnswer": 1,
+    "explanation": "'Or' connects two words/phrases and is a conjunction"
+  }
+]

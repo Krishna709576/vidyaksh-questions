@@ -1,252 +1,152 @@
 [
-    {
-      "question": "If a boat goes 100 km downstream in 10 hours and 75 km upstream in 15 hours, then the speed of the stream is:",
-      "options": {
-        "A": "2 km/hr",
-        "B": "2.5 km/hr",
-        "C": "3 km/hr",
-        "D": "5 km/hr"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "The average of first 50 natural numbers is:",
-      "options": {
-        "A": "25.30",
-        "B": "25.5",
-        "C": "25.00",
-        "D": "12.25"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "A man buys a cycle for 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
-      "options": {
-        "A": "1090",
-        "B": "1160",
-        "C": "1190",
-        "D": "1202"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "What is the value of sin(30°) + cos(60°)?",
-      "options": {
-        "A": "1/2",
-        "B": "1",
-        "C": "sqrt(3)/2",
-        "D": "0"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "The ratio of two numbers is 3:4 and their HCF is 4. Their LCM is:",
-      "options": {
-        "A": "12",
-        "B": "16",
-        "C": "24",
-        "D": "48"
-      },
-      "answer": "D"
-    },
-    {
-      "question": "If 2A = 3B = 4C, then A:B:C is:",
-      "options": {
-        "A": "2:3:4",
-        "B": "4:3:2",
-        "C": "6:4:3",
-        "D": "3:4:6"
-      },
-      "answer": "C"
-    },
-    {
-      "question": "A can do a piece of work in 10 days, and B can do it in 15 days. In how many days will they do the same work together?",
-      "options": {
-        "A": "5 days",
-        "B": "6 days",
-        "C": "8 days",
-        "D": "9 days"
-      },
-      "answer": "B"
-    },
-    {
-      "question": "The simple interest on a certain sum for 2 years at 10% per annum is 90. The corresponding compound interest is:",
-      "options": {
-        "A": "94.50",
-        "B": "95.60",
-        "C": "97.50",
-        "D": "100"
-      },
-      "answer": "A"
-    },
-    {
-      "question": "The area of a square is 144 sq cm. The perimeter of the square is:",
-      "options": {
-        "A": "12 cm",
-        "B": "24 cm",
-        "C": "36 cm",
-        "D": "48 cm"
-      },
-      "answer": "D"
-    },
-    {
-      "question": "If the price of sugar is increased by 25%, by how much percent must a householder reduce the consumption of sugar so as not to increase the expenditure?",
-      "options": {
-        "A": "20%",
-        "B": "25%",
-        "C": "16.66%",
-        "D": "15%"
-      },
-      "answer": "A"
-    },
-    {
-        "question": "A train 150 m long is running at a speed of 68 km/hr. In what time will it pass a man who is running at 8 km/hr in the same direction in which the train is going?",
-        "options": {
-            "A": "8 seconds",
-            "B": "9 seconds",
-            "C": "10 seconds",
-            "D": "12 seconds"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The value of (1001)^3 is:",
-        "options": {
-            "A": "1003003001",
-            "B": "1003003011",
-            "C": "100303001",
-            "D": "1003301"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "A number when divided by 119 leaves a remainder of 19. If the same number is divided by 17, the remainder will be:",
-        "options": {
-            "A": "2",
-            "B": "3",
-            "C": "5",
-            "D": "7"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "In a triangle ABC, if angle A = 90 degrees, and AB = 5 cm, AC = 12 cm, then the length of BC is:",
-        "options": {
-            "A": "13 cm",
-            "B": "15 cm",
-            "C": "17 cm",
-            "D": "10 cm"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "What is the smallest number that must be added to 1000 to make it a perfect square?",
-        "options": {
-            "A": "14",
-            "B": "24",
-            "C": "34",
-            "D": "44"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The diagonal of a cube is 4√3 cm. Its volume is:",
-        "options": {
-            "A": "16 cm^3",
-            "B": "27 cm^3",
-            "C": "64 cm^3",
-            "D": "81 cm^3"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages was 34. The ages of the son and the father are respectively:",
-        "options": {
-            "A": "6 and 39",
-            "B": "7 and 38",
-            "C": "9 and 36",
-            "D": "11 and 34"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "What is the third proportional to 16 and 36?",
-        "options": {
-            "A": "64",
-            "B": "81",
-            "C": "91",
-            "D": "101"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The difference between 78% of a number and 59% of the same number is 323. What is 62% of that number?",
-        "options": {
-            "A": "1054",
-            "B": "1154",
-            "C": "1254",
-            "D": "1354"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "If x + 1/x = 2, then the value of x^3 + 1/x^3 is:",
-        "options": {
-            "A": "1",
-            "B": "2",
-            "C": "3",
-            "D": "4"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Two successive discounts of 20% and 15% are equivalent to a single discount of:",
-        "options": {
-            "A": "32%",
-            "B": "35%",
-            "C": "34%",
-            "D": "30%"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The marked price of an article is 10% higher than the cost price. A discount of 10% is given on the marked price. In this kind of sale, the seller:",
-        "options": {
-            "A": "bears no loss, no gain",
-            "B": "gains 1%",
-            "C": "loses 1%",
-            "D": "loses 5%"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "If tanθ = 4/3, then the value of (3sinθ + 2cosθ) / (3sinθ - 2cosθ) is:",
-        "options": {
-            "A": "0.5",
-            "B": " -0.5",
-            "C": "3.0",
-            "D": "-3.0"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The area of the largest triangle that can be inscribed in a semicircle of radius 'r' is:",
-        "options": {
-            "A": "r^2",
-            "B": "2r^2",
-            "C": "r^3",
-            "D": "2r^3"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "A sum of money at simple interest amounts to 815 in 3 years and to 854 in 4 years. The sum is:",
-        "options": {
-            "A": "650",
-            "B": "690",
-            "C": "698",
-            "D": "700"
-        },
-        "answer": "C"
-    }
-  ]
+  {
+    "question": "If a train travels 60 km in 1 hour, how far will it travel in 3 hours at the same speed?",
+    "options": ["120 km", "180 km", "240 km", "300 km"],
+    "correctAnswer": 1,
+    "explanation": "Distance = Speed × Time = 60 km/hr × 3 hours = 180 km"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["15", "20", "30", "40"],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = (15/100) × 200 = 30"
+  },
+  {
+    "question": "A shopkeeper sells an item for Rs. 450 after giving a 10% discount. What was the original price?",
+    "options": ["Rs. 400", "Rs. 500", "Rs. 550", "Rs. 600"],
+    "correctAnswer": 1,
+    "explanation": "Let original price = x. After 10% discount: 0.9x = 450, so x = 500"
+  },
+  {
+    "question": "If the ratio of boys to girls in a class is 3:2 and there are 15 boys, how many girls are there?",
+    "options": ["8", "10", "12", "15"],
+    "correctAnswer": 1,
+    "explanation": "Ratio 3:2 means for every 3 boys there are 2 girls. 15 boys ÷ 3 = 5 groups, so 5 × 2 = 10 girls"
+  },
+  {
+    "question": "What is the average of 10, 20, 30, 40, and 50?",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": 1,
+    "explanation": "Average = (10+20+30+40+50)/5 = 150/5 = 30"
+  },
+  {
+    "question": "A man bought 20 pens for Rs. 200. What is the cost of one pen?",
+    "options": ["Rs. 5", "Rs. 10", "Rs. 15", "Rs. 20"],
+    "correctAnswer": 1,
+    "explanation": "Cost per pen = 200 ÷ 20 = Rs. 10"
+  },
+  {
+    "question": "If x + 5 = 12, what is the value of x?",
+    "options": ["5", "7", "12", "17"],
+    "correctAnswer": 1,
+    "explanation": "x + 5 = 12, so x = 12 - 5 = 7"
+  },
+  {
+    "question": "What is 20% of 500?",
+    "options": ["50", "100", "150", "200"],
+    "correctAnswer": 1,
+    "explanation": "20% of 500 = (20/100) × 500 = 100"
+  },
+  {
+    "question": "The sum of two consecutive numbers is 25. What are the numbers?",
+    "options": ["11 and 14", "12 and 13", "10 and 15", "13 and 12"],
+    "correctAnswer": 1,
+    "explanation": "Let numbers be x and x+1. x + (x+1) = 25, so 2x+1=25, x=12. Numbers are 12 and 13"
+  },
+  {
+    "question": "A car covers 240 km in 4 hours. What is its average speed?",
+    "options": ["40 km/h", "60 km/h", "80 km/h", "100 km/h"],
+    "correctAnswer": 1,
+    "explanation": "Speed = Distance/Time = 240/4 = 60 km/h"
+  },
+  {
+    "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+    "options": ["20", "32", "24", "28"],
+    "correctAnswer": 1,
+    "explanation": "Each number is doubled: 2×2=4, 4×2=8, 8×2=16, 16×2=32"
+  },
+  {
+    "question": "If the cost of 5 books is Rs. 250, what is the cost of 8 books?",
+    "options": ["Rs. 300", "Rs. 400", "Rs. 450", "Rs. 500"],
+    "correctAnswer": 1,
+    "explanation": "Cost per book = 250/5 = 50. Cost of 8 books = 50 × 8 = Rs. 400"
+  },
+  {
+    "question": "What is 30% of 90?",
+    "options": ["21", "27", "30", "33"],
+    "correctAnswer": 1,
+    "explanation": "30% of 90 = (30/100) × 90 = 27"
+  },
+  {
+    "question": "A rectangle has length 10 cm and width 5 cm. What is its area?",
+    "options": ["30 sq cm", "50 sq cm", "15 sq cm", "25 sq cm"],
+    "correctAnswer": 1,
+    "explanation": "Area = length × width = 10 × 5 = 50 sq cm"
+  },
+  {
+    "question": "If 3x = 21, what is x?",
+    "options": ["5", "7", "9", "11"],
+    "correctAnswer": 1,
+    "explanation": "3x = 21, so x = 21/3 = 7"
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": ["18", "81", "72", "90"],
+    "correctAnswer": 1,
+    "explanation": "Square of 9 = 9 × 9 = 81"
+  },
+  {
+    "question": "A man earns Rs. 30,000 per month. He spends 40% of his income. How much does he save?",
+    "options": ["Rs. 12,000", "Rs. 18,000", "Rs. 20,000", "Rs. 24,000"],
+    "correctAnswer": 1,
+    "explanation": "Spending = 40% of 30,000 = 12,000. Savings = 30,000 - 12,000 = Rs. 18,000"
+  },
+  {
+    "question": "What is the LCM of 4 and 6?",
+    "options": ["10", "12", "18", "24"],
+    "correctAnswer": 1,
+    "explanation": "Multiples of 4: 4,8,12,16... Multiples of 6: 6,12,18... LCM = 12"
+  },
+  {
+    "question": "If a = 5 and b = 3, what is a² + b²?",
+    "options": ["25", "34", "64", "30"],
+    "correctAnswer": 1,
+    "explanation": "a² + b² = 5² + 3² = 25 + 9 = 34"
+  },
+  {
+    "question": "What is the perimeter of a square with side 7 cm?",
+    "options": ["14 cm", "28 cm", "49 cm", "21 cm"],
+    "correctAnswer": 1,
+    "explanation": "Perimeter of square = 4 × side = 4 × 7 = 28 cm"
+  },
+  {
+    "question": "The product of two numbers is 48 and their sum is 14. What are the numbers?",
+    "options": ["4 and 12", "6 and 8", "3 and 16", "2 and 24"],
+    "correctAnswer": 1,
+    "explanation": "6 × 8 = 48 and 6 + 8 = 14"
+  },
+  {
+    "question": "What is 50% of 80?",
+    "options": ["30", "40", "50", "60"],
+    "correctAnswer": 1,
+    "explanation": "50% of 80 = (50/100) × 80 = 40"
+  },
+  {
+    "question": "If the price of an item increases from Rs. 100 to Rs. 120, what is the percentage increase?",
+    "options": ["10%", "20%", "15%", "25%"],
+    "correctAnswer": 1,
+    "explanation": "Increase = 120-100 = 20. Percentage = (20/100) × 100 = 20%"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": ["6", "27", "9", "81"],
+    "correctAnswer": 1,
+    "explanation": "Cube of 3 = 3 × 3 × 3 = 27"
+  },
+  {
+    "question": "If 2x + 3 = 11, what is x?",
+    "options": ["2", "4", "5", "7"],
+    "correctAnswer": 1,
+    "explanation": "2x + 3 = 11, so 2x = 8, x = 4"
+  }
+]
