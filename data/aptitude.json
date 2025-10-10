@@ -1,152 +1,152 @@
 [
   {
-    "question": "If 3x + 5 = 20, what is x?",
-    "options": ["3", "4", "5", "6"],
-    "correctAnswer": 2,
-    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5"
+    "question": "If 2x + 3 = 11, what is x?",
+    "options": ["2", "4", "5", "7"],
+    "correctAnswer": 1,
+    "explanation": "2x + 3 = 11 → 2x = 8 → x = 4"
   },
   {
     "question": "A man buys a pen for ₹50 and sells it for ₹70. What is his profit percentage?",
     "options": ["20%", "30%", "35%", "40%"],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Profit = 20, Profit% = (20/50)*100 = 40%"
   },
   {
-    "question": "The average of 10, 20, 30, 40, and 50 is?",
-    "options": ["25", "30", "35", "40"],
-    "correctAnswer": 2,
-    "explanation": "Sum = 150 → Average = 150/5 = 30"
-  },
-  {
-    "question": "Simplify: 15 ÷ 3 + 2 × 4",
-    "options": ["9", "11", "13", "14"],
-    "correctAnswer": 3,
-    "explanation": "15 ÷ 3 = 5, 2×4=8 → 5+8=13"
-  },
-  {
-    "question": "Find the simple interest on ₹1000 at 5% per annum for 2 years.",
-    "options": ["₹50", "₹75", "₹100", "₹150"],
-    "correctAnswer": 2,
-    "explanation": "SI = (1000×5×2)/100 = ₹100"
-  },
-  {
-    "question": "If the cost price is ₹80 and selling price is ₹100, find the profit percentage.",
-    "options": ["20%", "25%", "30%", "40%"],
+    "question": "A train 120 m long crosses a pole in 10 seconds. What is its speed?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
     "correctAnswer": 1,
-    "explanation": "Profit = 20 → Profit% = (20/80)*100 = 25%"
+    "explanation": "Speed = Distance/Time = 120/10 = 12 m/s"
+  },
+  {
+    "question": "The ratio of ages of A and B is 3:5. If A is 15 years old, what is B’s age?",
+    "options": ["20", "22", "25", "30"],
+    "correctAnswer": 2,
+    "explanation": "3/5 = 15/B → B = (15×5)/3 = 25"
+  },
+  {
+    "question": "Simple interest on ₹1000 at 10% per annum for 2 years is?",
+    "options": ["₹100", "₹150", "₹200", "₹250"],
+    "correctAnswer": 2,
+    "explanation": "SI = (P×R×T)/100 = (1000×10×2)/100 = ₹200"
+  },
+  {
+    "question": "If the cost price is ₹250 and selling price is ₹200, find the loss percentage.",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": 2,
+    "explanation": "Loss% = (Loss/CP)×100 = (50/250)×100 = 20%"
+  },
+  {
+    "question": "If 5 men can complete a work in 20 days, how long will 10 men take?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": 1,
+    "explanation": "Work ∝ 1/men → 5×20 = 10×x → x = 10 days"
+  },
+  {
+    "question": "The average of 6, 8, 10, 12 is?",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": 2,
+    "explanation": "Average = (6+8+10+12)/4 = 36/4 = 9"
+  },
+  {
+    "question": "The sum of the first 10 natural numbers is?",
+    "options": ["45", "50", "55", "60"],
+    "correctAnswer": 2,
+    "explanation": "Sum = n(n+1)/2 = 10×11/2 = 55"
+  },
+  {
+    "question": "If the perimeter of a square is 40 cm, find its area.",
+    "options": ["80", "100", "120", "160"],
+    "correctAnswer": 1,
+    "explanation": "Side = 40/4 = 10 → Area = 10² = 100"
+  },
+  {
+    "question": "A car covers 300 km in 5 hours. Its speed is?",
+    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+    "correctAnswer": 2,
+    "explanation": "Speed = 300/5 = 60 km/h"
+  },
+  {
+    "question": "If 12 men can do a work in 8 days, how many days will 6 men take?",
+    "options": ["8", "12", "14", "16"],
+    "correctAnswer": 3,
+    "explanation": "Work ∝ 1/men → 12×8 = 6×x → x = 16 days"
+  },
+  {
+    "question": "Find the compound interest on ₹1000 at 10% per annum for 2 years.",
+    "options": ["₹200", "₹210", "₹220", "₹230"],
+    "correctAnswer": 1,
+    "explanation": "CI = P(1 + R/100)^T - P = 1000(1.1)^2 - 1000 = 210"
+  },
+  {
+    "question": "The difference between simple and compound interest on ₹1200 at 10% for 2 years is?",
+    "options": ["₹10", "₹12", "₹15", "₹20"],
+    "correctAnswer": 1,
+    "explanation": "Difference = P(R/100)^2 = 1200(10/100)^2 = 12"
+  },
+  {
+    "question": "A person walks 5 km east, then 12 km north. What is the shortest distance from start?",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": 1,
+    "explanation": "Distance = √(5² + 12²) = 13 km"
   },
   {
     "question": "What is 25% of 240?",
-    "options": ["50", "55", "60", "65"],
-    "correctAnswer": 2,
-    "explanation": "25% of 240 = (25/100)*240 = 60"
-  },
-  {
-    "question": "The ratio of 2:3 is equivalent to?",
-    "options": ["4:5", "6:9", "8:10", "10:15"],
-    "correctAnswer": 3,
-    "explanation": "Multiply both sides by 5 → 2×5:3×5 = 10:15"
-  },
-  {
-    "question": "A train runs 120 km in 2 hours. Find its speed.",
-    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
-    "correctAnswer": 2,
-    "explanation": "Speed = Distance/Time = 120/2 = 60 km/h"
-  },
-  {
-    "question": "Find the HCF of 12 and 18.",
-    "options": ["2", "3", "6", "9"],
-    "correctAnswer": 2,
-    "explanation": "Factors of 12 (1,2,3,4,6,12); 18 (1,2,3,6,9,18) → HCF=6"
-  },
-  {
-    "question": "Find the LCM of 8 and 12.",
-    "options": ["16", "20", "24", "36"],
-    "correctAnswer": 2,
-    "explanation": "Multiples: 8→24, 12→24 → LCM=24"
-  },
-  {
-    "question": "If 5 workers can complete a task in 10 days, how many days will 10 workers take?",
-    "options": ["2", "4", "5", "6"],
-    "correctAnswer": 2,
-    "explanation": "More workers → fewer days → (5×10)/(10) = 5 days"
-  },
-  {
-    "question": "A car travels 150 km in 3 hours. Find the speed.",
-    "options": ["40 km/h", "45 km/h", "50 km/h", "55 km/h"],
-    "correctAnswer": 2,
-    "explanation": "Speed = 150/3 = 50 km/h"
-  },
-  {
-    "question": "What is the square of 15?",
-    "options": ["200", "210", "215", "225"],
-    "correctAnswer": 3,
-    "explanation": "15×15 = 225"
-  },
-  {
-    "question": "If x = 3, find the value of 2x² + 3x.",
-    "options": ["15", "18", "21", "27"],
-    "correctAnswer": 2,
-    "explanation": "2×9 + 9 = 27"
-  },
-  {
-    "question": "Simplify: (6 + 2) × (5 - 3)",
-    "options": ["8", "10", "12", "16"],
+    "options": ["50", "60", "70", "80"],
     "correctAnswer": 1,
-    "explanation": "(6+2)=8, (5-3)=2 → 8×2=16"
+    "explanation": "25% = 25/100 × 240 = 60"
   },
   {
-    "question": "If the perimeter of a square is 40 cm, find the length of one side.",
-    "options": ["8 cm", "10 cm", "12 cm", "14 cm"],
-    "correctAnswer": 1,
-    "explanation": "Perimeter = 4×side → side=40/4=10 cm"
+    "question": "A number is increased by 20% and then decreased by 20%. Net change is?",
+    "options": ["0%", "2% decrease", "4% decrease", "4% increase"],
+    "correctAnswer": 2,
+    "explanation": "Net change = (x×(1.2×0.8)) - x = 0.96x → 4% decrease"
   },
   {
-    "question": "A man walks 3 km north and then 4 km east. What is the shortest distance to the start?",
-    "options": ["5 km", "6 km", "7 km", "8 km"],
+    "question": "The average of first 5 odd numbers is?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "explanation": "Numbers = 1,3,5,7,9 → Average = 25/5 = 5"
+  },
+  {
+    "question": "If a = 3, b = 4, find √(a² + b²).",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": 2,
+    "explanation": "√(3² + 4²) = √25 = 5"
+  },
+  {
+    "question": "If selling price = ₹120 and profit = 20%, find cost price.",
+    "options": ["₹80", "₹90", "₹100", "₹110"],
+    "correctAnswer": 2,
+    "explanation": "SP = 1.2 × CP → CP = 120/1.2 = 100"
+  },
+  {
+    "question": "Find the simple interest on ₹1500 at 8% for 3 years.",
+    "options": ["₹320", "₹340", "₹360", "₹380"],
+    "correctAnswer": 2,
+    "explanation": "SI = (1500×8×3)/100 = ₹360"
+  },
+  {
+    "question": "If 10 workers build a wall in 15 days, how many days for 5 workers?",
+    "options": ["15", "20", "25", "30"],
+    "correctAnswer": 3,
+    "explanation": "10×15 = 5×x → x = 30 days"
+  },
+  {
+    "question": "The LCM of 8 and 12 is?",
+    "options": ["12", "16", "20", "24"],
+    "correctAnswer": 3,
+    "explanation": "LCM of 8, 12 = 24"
+  },
+  {
+    "question": "If a man’s salary is ₹20000 and increased by 10%, new salary is?",
+    "options": ["₹21000", "₹21500", "₹22000", "₹22500"],
     "correctAnswer": 0,
-    "explanation": "By Pythagoras: √(3²+4²)=5 km"
+    "explanation": "New salary = 20000 + 10% of 20000 = 22000"
   },
   {
-    "question": "If a number is increased by 20% and then decreased by 20%, the net change is?",
-    "options": ["No change", "Increase", "Decrease", "Depends on number"],
-    "correctAnswer": 2,
-    "explanation": "Net effect = (1.2×0.8 - 1)×100 = -4% decrease"
-  },
-  {
-    "question": "What is 12% of 250?",
-    "options": ["25", "30", "35", "40"],
+    "question": "If perimeter of rectangle = 40 and length = 12, find breadth.",
+    "options": ["6", "8", "10", "12"],
     "correctAnswer": 1,
-    "explanation": "12% of 250 = 30"
-  },
-  {
-    "question": "Find the next number in the series: 2, 4, 8, 16, ?",
-    "options": ["18", "20", "24", "32"],
-    "correctAnswer": 3,
-    "explanation": "Each term doubles → 16×2=32"
-  },
-  {
-    "question": "The sum of angles in a triangle is?",
-    "options": ["90°", "120°", "180°", "360°"],
-    "correctAnswer": 2,
-    "explanation": "Sum of triangle angles = 180°"
-  },
-  {
-    "question": "What is the cube of 4?",
-    "options": ["16", "32", "64", "128"],
-    "correctAnswer": 2,
-    "explanation": "4³ = 64"
-  },
-  {
-    "question": "Find the missing term: 3, 6, 9, 12, ?",
-    "options": ["13", "14", "15", "16"],
-    "correctAnswer": 2,
-    "explanation": "Difference is +3 → next = 15"
-  },
-  {
-    "question": "If 8 men can do a work in 12 days, how many men can do it in 8 days?",
-    "options": ["10", "11", "12", "14"],
-    "correctAnswer": 2,
-    "explanation": "Men × Days = Constant → 8×12=96 → 96/8=12 men"
+    "explanation": "2(l+b)=40 → b=8"
   }
 ]
