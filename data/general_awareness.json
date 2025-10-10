@@ -1,152 +1,152 @@
 [
   {
-    "question": "Who is known as the Father of the Indian Constitution?",
-    "options": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
-    "correctAnswer": 1,
-    "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution"
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhash Chandra Bose"],
+    "correctAnswer": 0,
+    "explanation": "Mahatma Gandhi is known as the Father of the Nation."
   },
   {
     "question": "What is the capital of India?",
     "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
     "correctAnswer": 1,
-    "explanation": "New Delhi is the capital city of India"
+    "explanation": "The capital of India is New Delhi."
   },
   {
-    "question": "When did India gain independence?",
-    "options": ["1945", "1947", "1950", "1952"],
-    "correctAnswer": 1,
-    "explanation": "India gained independence on August 15, 1947"
+    "question": "Who wrote the National Anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subhas Chandra Bose", "Sarojini Naidu"],
+    "correctAnswer": 0,
+    "explanation": "‘Jana Gana Mana’ was written by Rabindranath Tagore."
   },
   {
-    "question": "Who was the first Prime Minister of India?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Indira Gandhi", "Dr. Rajendra Prasad"],
+    "question": "Which is the largest planet in our Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
     "correctAnswer": 1,
-    "explanation": "Jawaharlal Nehru was the first Prime Minister of India"
+    "explanation": "Jupiter is the largest planet in the Solar System."
+  },
+  {
+    "question": "Who was the first President of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "V. V. Giri"],
+    "correctAnswer": 0,
+    "explanation": "Dr. Rajendra Prasad served as the first President of India."
   },
   {
     "question": "Which planet is known as the Red Planet?",
-    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-    "correctAnswer": 1,
-    "explanation": "Mars is called the Red Planet due to iron oxide on its surface"
-  },
-  {
-    "question": "What is the currency of India?",
-    "options": ["Dollar", "Rupee", "Pound", "Euro"],
-    "correctAnswer": 1,
-    "explanation": "The currency of India is the Indian Rupee (₹)"
-  },
-  {
-    "question": "Who wrote the Indian National Anthem?",
-    "options": ["Mahatma Gandhi", "Rabindranath Tagore", "Bankim Chandra", "Subhash Bose"],
-    "correctAnswer": 1,
-    "explanation": "Rabindranath Tagore wrote Jana Gana Mana, India's National Anthem"
-  },
-  {
-    "question": "Which is the largest state in India by area?",
-    "options": ["Uttar Pradesh", "Rajasthan", "Maharashtra", "Madhya Pradesh"],
-    "correctAnswer": 1,
-    "explanation": "Rajasthan is the largest state in India by area"
-  },
-  {
-    "question": "Who is the President of India (as of 2025)?",
-    "options": ["Ram Nath Kovind", "Droupadi Murmu", "APJ Abdul Kalam", "Pranab Mukherjee"],
-    "correctAnswer": 1,
-    "explanation": "Droupadi Murmu is the current President of India"
-  },
-  {
-    "question": "What is the full form of CPU?",
-    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Computer Processing Utility"],
+    "options": ["Mars", "Venus", "Mercury", "Earth"],
     "correctAnswer": 0,
-    "explanation": "CPU stands for Central Processing Unit"
-  },
-  {
-    "question": "Which river is known as the Ganga of the South?",
-    "options": ["Krishna", "Godavari", "Kaveri", "Narmada"],
-    "correctAnswer": 2,
-    "explanation": "Kaveri river is known as the Ganga of the South"
-  },
-  {
-    "question": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
-    "correctAnswer": 1,
-    "explanation": "Alexander Graham Bell invented the telephone in 1876"
+    "explanation": "Mars is called the Red Planet due to its iron oxide surface."
   },
   {
     "question": "What is the national animal of India?",
-    "options": ["Lion", "Tiger", "Elephant", "Peacock"],
+    "options": ["Lion", "Tiger", "Elephant", "Leopard"],
     "correctAnswer": 1,
-    "explanation": "The Bengal Tiger is the national animal of India"
+    "explanation": "Bengal Tiger is the national animal of India."
   },
   {
-    "question": "Which gas do plants absorb from the atmosphere?",
-    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "question": "Which is the smallest continent in the world?",
+    "options": ["Europe", "Australia", "Antarctica", "South America"],
     "correctAnswer": 1,
-    "explanation": "Plants absorb carbon dioxide for photosynthesis"
+    "explanation": "Australia is the smallest continent."
   },
   {
-    "question": "Who discovered gravity?",
-    "options": ["Albert Einstein", "Isaac Newton", "Galileo", "Stephen Hawking"],
-    "correctAnswer": 1,
-    "explanation": "Isaac Newton discovered the law of gravity"
-  },
-  {
-    "question": "What is the largest ocean in the world?",
-    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
-    "correctAnswer": 1,
-    "explanation": "The Pacific Ocean is the largest ocean on Earth"
-  },
-  {
-    "question": "Which vitamin is produced by the human body when exposed to sunlight?",
-    "options": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
-    "correctAnswer": 1,
-    "explanation": "Vitamin D is produced when skin is exposed to sunlight"
-  },
-  {
-    "question": "What is the national sport of India?",
-    "options": ["Cricket", "Hockey", "Football", "Kabaddi"],
-    "correctAnswer": 1,
-    "explanation": "Hockey is recognized as the national sport of India"
-  },
-  {
-    "question": "Who wrote the book 'Discovery of India'?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhash Bose"],
-    "correctAnswer": 1,
-    "explanation": "Jawaharlal Nehru wrote 'The Discovery of India'"
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "James Watt", "Isaac Newton"],
+    "correctAnswer": 0,
+    "explanation": "Telephone was invented by Alexander Graham Bell."
   },
   {
     "question": "Which is the longest river in the world?",
-    "options": ["Amazon", "Nile", "Ganges", "Yangtze"],
+    "options": ["Amazon", "Nile", "Ganga", "Yangtze"],
     "correctAnswer": 1,
-    "explanation": "The Nile is traditionally considered the longest river"
+    "explanation": "Nile River in Africa is the longest river in the world."
   },
   {
-    "question": "What is the boiling point of water?",
-    "options": ["90°C", "100°C", "110°C", "120°C"],
-    "correctAnswer": 1,
-    "explanation": "Water boils at 100°C (212°F) at sea level"
-  },
-  {
-    "question": "Who is known as the Missile Man of India?",
-    "options": ["Vikram Sarabhai", "APJ Abdul Kalam", "Homi Bhabha", "CV Raman"],
-    "correctAnswer": 1,
-    "explanation": "Dr. APJ Abdul Kalam is known as the Missile Man of India"
-  },
-  {
-    "question": "Which organ is responsible for pumping blood?",
-    "options": ["Brain", "Heart", "Liver", "Lungs"],
-    "correctAnswer": 1,
-    "explanation": "The heart pumps blood throughout the body"
+    "question": "Which country is known as the Land of Rising Sun?",
+    "options": ["Japan", "China", "Thailand", "South Korea"],
+    "correctAnswer": 0,
+    "explanation": "Japan is known as the Land of Rising Sun."
   },
   {
     "question": "What is the national flower of India?",
-    "options": ["Rose", "Lotus", "Jasmine", "Sunflower"],
-    "correctAnswer": 1,
-    "explanation": "The Lotus is the national flower of India"
+    "options": ["Lotus", "Rose", "Sunflower", "Lily"],
+    "correctAnswer": 0,
+    "explanation": "Lotus is India’s national flower."
   },
   {
-    "question": "Which country is known as the Land of the Rising Sun?",
-    "options": ["China", "Japan", "Korea", "Thailand"],
+    "question": "In which year did India gain independence?",
+    "options": ["1945", "1947", "1950", "1952"],
     "correctAnswer": 1,
-    "explanation": "Japan is known as the Land of the Rising Sun"
+    "explanation": "India became independent on 15th August 1947."
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Lal Bahadur Shastri"],
+    "correctAnswer": 2,
+    "explanation": "Jawaharlal Nehru was the first Prime Minister of India."
+  },
+  {
+    "question": "Which Indian state is known as the ‘Land of Five Rivers’?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Gujarat"],
+    "correctAnswer": 0,
+    "explanation": "Punjab means the land of five rivers."
+  },
+  {
+    "question": "Which city is known as the Silicon Valley of India?",
+    "options": ["Hyderabad", "Bangalore", "Pune", "Chennai"],
+    "correctAnswer": 1,
+    "explanation": "Bangalore is called India’s Silicon Valley."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Won", "Dollar", "Ringgit"],
+    "correctAnswer": 0,
+    "explanation": "The currency of Japan is Yen."
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": 1,
+    "explanation": "Nitrogen forms about 78% of Earth's atmosphere."
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "correctAnswer": 2,
+    "explanation": "Mercury is the closest planet to the Sun."
+  },
+  {
+    "question": "Who is the current President of India (as of 2025)?",
+    "options": ["Droupadi Murmu", "Ram Nath Kovind", "Pratibha Patil", "A. P. J. Abdul Kalam"],
+    "correctAnswer": 0,
+    "explanation": "Droupadi Murmu has been the President of India since 2022."
+  },
+  {
+    "question": "Where is the Taj Mahal located?",
+    "options": ["Agra", "Delhi", "Jaipur", "Mumbai"],
+    "correctAnswer": 0,
+    "explanation": "The Taj Mahal is located in Agra, Uttar Pradesh."
+  },
+  {
+    "question": "Which is the national sport of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+    "correctAnswer": 1,
+    "explanation": "Field Hockey is considered India’s national sport."
+  },
+  {
+    "question": "Which festival is known as the festival of lights?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "correctAnswer": 0,
+    "explanation": "Diwali is celebrated as the festival of lights."
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Thomas Edison"],
+    "correctAnswer": 0,
+    "explanation": "Isaac Newton discovered gravity."
+  },
+  {
+    "question": "Which country won the ICC Cricket World Cup 2023?",
+    "options": ["Australia", "India", "England", "New Zealand"],
+    "correctAnswer": 0,
+    "explanation": "Australia won the ICC World Cup 2023 held in India."
   }
 ]
