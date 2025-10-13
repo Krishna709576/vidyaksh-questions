@@ -1,152 +1,152 @@
 [
   {
-    "question": "If CAT = 24, BAT = 22, what is HAT?",
-    "options": ["26", "28", "30", "32"],
-    "correctAnswer": 1,
-    "explanation": "C(3)+A(1)+T(20)=24; similarly H(8)+A(1)+T(20)=29 ≈ 28"
-  },
-  {
-    "question": "Find the odd one out: 2, 3, 5, 9, 11",
-    "options": ["2", "3", "5", "9"],
+    "question": "Find the odd one out: 3, 5, 7, 9",
+    "options": ["3", "5", "7", "9"],
     "correctAnswer": 3,
     "explanation": "9 is not a prime number."
   },
   {
-    "question": "If 5 + 3 = 28, 9 + 1 = 810, then 8 + 6 = ?",
-    "options": ["48", "86", "214", "1412"],
-    "correctAnswer": 3,
-    "explanation": "Pattern: multiply and write together → 8×6=48, 8+6=14 → 1412"
-  },
-  {
-    "question": "A is taller than B but shorter than C. Who is tallest?",
-    "options": ["A", "B", "C", "Cannot be determined"],
+    "question": "If CAT = 24, BAT = 14, then RAT = ?",
+    "options": ["25", "26", "27", "28"],
     "correctAnswer": 2,
-    "explanation": "C is taller than A and B."
+    "explanation": "C=3, A=1, T=20 ⇒ 3+1+20=24; Similarly 18+1+20=39→3+9=12."
   },
   {
-    "question": "If SOUTH is coded as 12345 and NORTH as 67845, what does SNOT stand for?",
-    "options": ["1678", "1278", "6274", "1674"],
+    "question": "Which number will complete the series: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "34"],
     "correctAnswer": 1,
-    "explanation": "S=1, N=6, O=7, T=4 → 1674"
+    "explanation": "Pattern: +4, +6, +8, +10 ⇒ next is 30."
   },
   {
-    "question": "Find the next term: 2, 6, 12, 20, 30, ?",
-    "options": ["40", "42", "44", "46"],
-    "correctAnswer": 1,
-    "explanation": "Pattern: n² + n → next = 6²+6=42"
+    "question": "Find the missing term: 4, 16, 36, ?, 100",
+    "options": ["48", "49", "64", "81"],
+    "correctAnswer": 2,
+    "explanation": "Squares of even numbers: 2², 4², 6², 8², 10²."
   },
   {
-    "question": "If ALL = 18 and BALL = 20, what is CALL?",
-    "options": ["21", "22", "23", "24"],
-    "correctAnswer": 1,
-    "explanation": "Each added letter adds 2 → CALL=22"
+    "question": "‘Book’ is related to ‘Reading’ as ‘Fork’ is related to?",
+    "options": ["Drawing", "Writing", "Eating", "Cooking"],
+    "correctAnswer": 2,
+    "explanation": "Book → Reading; Fork → Eating."
   },
   {
-    "question": "Which number does not belong: 4, 9, 16, 20, 25?",
-    "options": ["4", "9", "16", "20"],
+    "question": "If SOUTH = 12345, then THOUS = ?",
+    "options": ["45123", "34512", "51234", "23451"],
+    "correctAnswer": 0,
+    "explanation": "Rearranged mapping as per code."
+  },
+  {
+    "question": "Find the odd one: Apple, Banana, Carrot, Mango",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "correctAnswer": 2,
+    "explanation": "Carrot is a vegetable; others are fruits."
+  },
+  {
+    "question": "Select the correct analogy: 8 : 64 :: 6 : ?",
+    "options": ["36", "42", "48", "216"],
     "correctAnswer": 3,
-    "explanation": "All others are perfect squares except 20."
+    "explanation": "8³=512; 6³=216."
   },
   {
-    "question": "If in a code, CAT = 3120, what does BAT represent?",
-    "options": ["2120", "3119", "2130", "2210"],
+    "question": "If ALL = 25, then BALL = ?",
+    "options": ["27", "28", "30", "29"],
+    "correctAnswer": 2,
+    "explanation": "A=1, L=12 ⇒ 1+12+12=25; Add B=2 ⇒ 27."
+  },
+  {
+    "question": "If ‘PAPER’ is coded as ‘OZODQ’, then ‘PEN’ is coded as?",
+    "options": ["ODM", "ODL", "OEN", "OEM"],
     "correctAnswer": 0,
-    "explanation": "C(3)→B(2), A(1), T(20) → 2120"
+    "explanation": "Each letter shifted back by 1 alphabet."
   },
   {
-    "question": "Find the missing number: 3, 9, 27, ?, 243",
-    "options": ["54", "81", "108", "162"],
+    "question": "Find the next term: A1, B2, C3, D4, ?",
+    "options": ["E4", "E5", "F5", "E6"],
     "correctAnswer": 1,
-    "explanation": "Multiply by 3 each time → next 81."
+    "explanation": "Pattern: next letter and next number ⇒ E5."
   },
   {
-    "question": "If 6 × 2 = 24, 8 × 3 = 48, then 7 × 4 = ?",
-    "options": ["21", "24", "28", "56"],
-    "correctAnswer": 3,
-    "explanation": "It’s normal multiplication: 7×4=28."
-  },
-  {
-    "question": "Which word cannot be made from the word ‘COMPUTER’?",
-    "options": ["COME", "TERM", "CORE", "MORE"],
+    "question": "Which word cannot be formed from ‘COMPUTER’?",
+    "options": ["COME", "CURE", "TERM", "PURE"],
     "correctAnswer": 2,
-    "explanation": "Letter ‘A’ missing; can’t form ‘CORE’."
+    "explanation": "Letter ‘T’ and ‘M’ together not available."
   },
   {
-    "question": "Pointing to a man, Seema said, ‘He is my father’s only son.’ Who is the man?",
-    "options": ["Her brother", "Her father", "Her uncle", "Her cousin"],
-    "correctAnswer": 0,
-    "explanation": "Father’s only son is her brother."
-  },
-  {
-    "question": "If some pens are books and all books are bags, which statement is true?",
-    "options": ["All pens are bags", "All bags are pens", "No pen is bag", "Cannot be determined"],
-    "correctAnswer": 0,
-    "explanation": "All books are bags → pens inside books → all pens are bags."
-  },
-  {
-    "question": "Which one comes next in series: A, C, F, J, O, ?",
-    "options": ["Q", "R", "S", "U"],
-    "correctAnswer": 3,
-    "explanation": "Pattern +1,+2,+3,+4,+5 → next letter U."
-  },
-  {
-    "question": "In a family, father is 5 years older than twice the son’s age. If father is 35, what is son’s age?",
-    "options": ["10", "12", "15", "18"],
+    "question": "If A=1, Z=26, find the sum of letters in ‘CAB’.",
+    "options": ["5", "6", "7", "8"],
     "correctAnswer": 2,
-    "explanation": "35 = 2x + 5 → x = 15"
+    "explanation": "C=3, A=1, B=2 ⇒ total 6."
   },
   {
-    "question": "If WHITE = 23, BLACK = 30, what is GREEN?",
-    "options": ["40", "41", "42", "43"],
+    "question": "If in a code, CAT = DBU, then DOG = ?",
+    "options": ["EPI", "EHP", "EPH", "EOG"],
+    "correctAnswer": 0,
+    "explanation": "Each letter +1 alphabet."
+  },
+  {
+    "question": "Find the missing number: 4, 8, 16, 32, ?",
+    "options": ["48", "60", "64", "80"],
+    "correctAnswer": 2,
+    "explanation": "Each term ×2 ⇒ 64."
+  },
+  {
+    "question": "Which pair is different: (2,4), (3,9), (4,16), (5,25), (6,30)",
+    "options": ["(2,4)", "(3,9)", "(4,16)", "(6,30)"],
+    "correctAnswer": 3,
+    "explanation": "All are squares except (6,30)."
+  },
+  {
+    "question": "Arrange in dictionary order: Apple, Apricot, Ant, Anchor",
+    "options": ["Anchor, Ant, Apple, Apricot", "Ant, Anchor, Apple, Apricot", "Anchor, Apple, Ant, Apricot", "Ant, Apple, Anchor, Apricot"],
+    "correctAnswer": 0,
+    "explanation": "A + n → earliest letters come first."
+  },
+  {
+    "question": "Complete the series: 5, 10, 20, 40, ?",
+    "options": ["50", "60", "70", "80"],
+    "correctAnswer": 3,
+    "explanation": "Each term doubled ⇒ 80."
+  },
+  {
+    "question": "Find the odd letters: ABC, DEF, GHI, JKL, MNO",
+    "options": ["ABC", "DEF", "GHI", "MNO"],
+    "correctAnswer": 3,
+    "explanation": "All groups are consecutive triples; MNO breaks pattern end range."
+  },
+  {
+    "question": "Which number replaces question mark: 9, 16, 25, ?, 49",
+    "options": ["30", "32", "36", "40"],
+    "correctAnswer": 2,
+    "explanation": "Squares: 3²,4²,5²,6²,7²."
+  },
+  {
+    "question": "Find missing letter: ACE, BDF, CEG, DFH, ?",
+    "options": ["EGI", "EHI", "EFG", "FGI"],
     "correctAnswer": 1,
-    "explanation": "Sum of letter positions = 41"
+    "explanation": "Each next starts with next alphabet; middle and last letters follow same increment."
   },
   {
-    "question": "Arrange logically: Seed, Plant, Fruit, Tree, Flower",
-    "options": ["Seed, Plant, Tree, Flower, Fruit", "Plant, Tree, Flower, Fruit, Seed", "Seed, Tree, Plant, Fruit, Flower", "Seed, Fruit, Tree, Flower, Plant"],
+    "question": "Odd one out: Circle, Triangle, Square, Rectangle",
+    "options": ["Circle", "Triangle", "Square", "Rectangle"],
     "correctAnswer": 0,
-    "explanation": "Natural order of growth."
+    "explanation": "Circle has no sides."
   },
   {
-    "question": "Find the odd one: Dog, Cat, Goat, Rose",
-    "options": ["Dog", "Cat", "Goat", "Rose"],
-    "correctAnswer": 3,
-    "explanation": "Rose is a plant, others are animals."
-  },
-  {
-    "question": "If 3x = 15, what is x?",
-    "options": ["3", "4", "5", "6"],
-    "correctAnswer": 2,
-    "explanation": "x = 15/3 = 5"
-  },
-  {
-    "question": "Choose related pair: Knife : Cut :: Pen : ?",
-    "options": ["Write", "Ink", "Paper", "Book"],
+    "question": "If NORTH is coded as MPSUI, how is SOUTH coded?",
+    "options": ["RPTVI", "RPSVI", "RPTUI", "RPTSI"],
     "correctAnswer": 0,
-    "explanation": "Knife used to cut, pen used to write."
+    "explanation": "Each letter +1 alphabet from previous coding pattern."
   },
   {
-    "question": "Find the next term: 1, 4, 9, 16, 25, ?",
-    "options": ["30", "35", "36", "40"],
-    "correctAnswer": 2,
-    "explanation": "Perfect squares: next is 6² = 36."
-  },
-  {
-    "question": "If Monday is coded as 1, Tuesday as 2, then Sunday is?",
-    "options": ["5", "6", "7", "1"],
-    "correctAnswer": 2,
-    "explanation": "Sunday is the 7th day of week."
-  },
-  {
-    "question": "If in a certain code, DOG = 4157, what is CAT?",
-    "options": ["3147", "3157", "3120", "3167"],
+    "question": "Choose the correct mirror image of ‘PQ’.",
+    "options": ["QP", "bQ", "bd", "None"],
     "correctAnswer": 0,
-    "explanation": "Assigning same pattern → CAT = 3147"
+    "explanation": "Mirror swaps left and right positions."
   },
   {
-    "question": "Which direction is opposite to East?",
-    "options": ["North", "South", "West", "South-East"],
-    "correctAnswer": 2,
-    "explanation": "West is opposite to East."
+    "question": "If CLOCK = 40, then WATCH = ?",
+    "options": ["52", "50", "48", "54"],
+    "correctAnswer": 1,
+    "explanation": "Alphabet positions summed to code value."
   }
 ]
