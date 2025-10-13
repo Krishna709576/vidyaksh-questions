@@ -1,152 +1,58 @@
 [
   {
-    "question": "Who is known as the Father of the Nation in India?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhash Chandra Bose"],
-    "correctAnswer": 0,
-    "explanation": "Mahatma Gandhi is known as the Father of the Nation."
-  },
-  {
-    "question": "What is the capital of India?",
-    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
     "correctAnswer": 1,
-    "explanation": "The capital of India is New Delhi."
+    "explanation": "Dr. B. R. Ambedkar was the chairman of the drafting committee."
   },
   {
-    "question": "Who wrote the National Anthem of India?",
-    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subhas Chandra Bose", "Sarojini Naidu"],
-    "correctAnswer": 0,
-    "explanation": "‘Jana Gana Mana’ was written by Rabindranath Tagore."
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 2,
+    "explanation": "Jupiter is the largest planet."
   },
   {
-    "question": "Which is the largest planet in our Solar System?",
-    "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+    "question": "The currency of Japan is:",
+    "options": ["Yuan", "Won", "Yen", "Dollar"],
+    "correctAnswer": 2,
+    "explanation": "Japan uses the Yen."
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Ganga", "Kosi", "Yamuna", "Son"],
     "correctAnswer": 1,
-    "explanation": "Jupiter is the largest planet in the Solar System."
+    "explanation": "The Kosi river causes frequent floods in Bihar."
   },
   {
     "question": "Who was the first President of India?",
-    "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "V. V. Giri"],
+    "options": ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Hussain", "V. V. Giri"],
     "correctAnswer": 0,
-    "explanation": "Dr. Rajendra Prasad served as the first President of India."
+    "explanation": "Dr. Rajendra Prasad was India’s first President."
   },
   {
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Mars", "Venus", "Mercury", "Earth"],
-    "correctAnswer": 0,
-    "explanation": "Mars is called the Red Planet due to its iron oxide surface."
-  },
-  {
-    "question": "What is the national animal of India?",
-    "options": ["Lion", "Tiger", "Elephant", "Leopard"],
-    "correctAnswer": 1,
-    "explanation": "Bengal Tiger is the national animal of India."
-  },
-  {
-    "question": "Which is the smallest continent in the world?",
-    "options": ["Europe", "Australia", "Antarctica", "South America"],
-    "correctAnswer": 1,
-    "explanation": "Australia is the smallest continent."
-  },
-  {
-    "question": "Who invented the telephone?",
-    "options": ["Alexander Graham Bell", "Thomas Edison", "James Watt", "Isaac Newton"],
-    "correctAnswer": 0,
-    "explanation": "Telephone was invented by Alexander Graham Bell."
-  },
-  {
-    "question": "Which is the longest river in the world?",
-    "options": ["Amazon", "Nile", "Ganga", "Yangtze"],
-    "correctAnswer": 1,
-    "explanation": "Nile River in Africa is the longest river in the world."
-  },
-  {
-    "question": "Which country is known as the Land of Rising Sun?",
-    "options": ["Japan", "China", "Thailand", "South Korea"],
-    "correctAnswer": 0,
-    "explanation": "Japan is known as the Land of Rising Sun."
-  },
-  {
-    "question": "What is the national flower of India?",
-    "options": ["Lotus", "Rose", "Sunflower", "Lily"],
-    "correctAnswer": 0,
-    "explanation": "Lotus is India’s national flower."
-  },
-  {
-    "question": "In which year did India gain independence?",
-    "options": ["1945", "1947", "1950", "1952"],
-    "correctAnswer": 1,
-    "explanation": "India became independent on 15th August 1947."
-  },
-  {
-    "question": "Who was the first Prime Minister of India?",
-    "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Lal Bahadur Shastri"],
+    "question": "Where is the headquarters of ISRO located?",
+    "options": ["Mumbai", "Chennai", "Bengaluru", "Hyderabad"],
     "correctAnswer": 2,
-    "explanation": "Jawaharlal Nehru was the first Prime Minister of India."
+    "explanation": "ISRO HQ is in Bengaluru."
   },
   {
-    "question": "Which Indian state is known as the ‘Land of Five Rivers’?",
-    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Gujarat"],
-    "correctAnswer": 0,
-    "explanation": "Punjab means the land of five rivers."
-  },
-  {
-    "question": "Which city is known as the Silicon Valley of India?",
-    "options": ["Hyderabad", "Bangalore", "Pune", "Chennai"],
+    "question": "Which is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Tibia", "Ulna"],
     "correctAnswer": 1,
-    "explanation": "Bangalore is called India’s Silicon Valley."
+    "explanation": "The stapes bone in the ear is the smallest."
   },
   {
-    "question": "What is the currency of Japan?",
-    "options": ["Yen", "Won", "Dollar", "Ringgit"],
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Gujarat", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
     "correctAnswer": 0,
-    "explanation": "The currency of Japan is Yen."
+    "explanation": "Gujarat has the longest coastline."
   },
   {
-    "question": "Which gas is most abundant in the Earth's atmosphere?",
-    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-    "correctAnswer": 1,
-    "explanation": "Nitrogen forms about 78% of Earth's atmosphere."
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "question": "What is the chemical symbol of Gold?",
+    "options": ["Ag", "Gd", "Au", "Go"],
     "correctAnswer": 2,
-    "explanation": "Mercury is the closest planet to the Sun."
+    "explanation": "Gold’s symbol is ‘Au’."
   },
   {
-    "question": "Who is the current President of India (as of 2025)?",
-    "options": ["Droupadi Murmu", "Ram Nath Kovind", "Pratibha Patil", "A. P. J. Abdul Kalam"],
-    "correctAnswer": 0,
-    "explanation": "Droupadi Murmu has been the President of India since 2022."
-  },
-  {
-    "question": "Where is the Taj Mahal located?",
-    "options": ["Agra", "Delhi", "Jaipur", "Mumbai"],
-    "correctAnswer": 0,
-    "explanation": "The Taj Mahal is located in Agra, Uttar Pradesh."
-  },
-  {
-    "question": "Which is the national sport of India?",
-    "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
-    "correctAnswer": 1,
-    "explanation": "Field Hockey is considered India’s national sport."
-  },
-  {
-    "question": "Which festival is known as the festival of lights?",
-    "options": ["Diwali", "Holi", "Eid", "Christmas"],
-    "correctAnswer": 0,
-    "explanation": "Diwali is celebrated as the festival of lights."
-  },
-  {
-    "question": "Who discovered gravity?",
-    "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Thomas Edison"],
-    "correctAnswer": 0,
-    "explanation": "Isaac Newton discovered gravity."
-  },
-  {
-    "question": "Which country won the ICC Cricket World Cup 2023?",
-    "options": ["Australia", "India", "England", "New Zealand"],
-    "correctAnswer": 0,
-    "explanation": "Australia won the ICC World Cup 2023 held in India."
-  }
-]
+    "question": "Who discovered Penicillin?",
+    "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur",
