@@ -3,56 +3,156 @@
     "question": "Who is known as the Father of the Indian Constitution?",
     "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
     "correctAnswer": 1,
-    "explanation": "Dr. B. R. Ambedkar was the chairman of the drafting committee."
+    "explanation": "Dr. B. R. Ambedkar was the chairman of the Drafting Committee of the Indian Constitution."
   },
   {
     "question": "Which is the largest planet in our solar system?",
     "options": ["Earth", "Mars", "Jupiter", "Saturn"],
     "correctAnswer": 2,
-    "explanation": "Jupiter is the largest planet."
+    "explanation": "Jupiter is the largest planet in our solar system."
   },
   {
     "question": "The currency of Japan is:",
     "options": ["Yuan", "Won", "Yen", "Dollar"],
     "correctAnswer": 2,
-    "explanation": "Japan uses the Yen."
+    "explanation": "The official currency of Japan is the Yen (JPY)."
   },
   {
     "question": "Which river is known as the 'Sorrow of Bihar'?",
     "options": ["Ganga", "Kosi", "Yamuna", "Son"],
     "correctAnswer": 1,
-    "explanation": "The Kosi river causes frequent floods in Bihar."
+    "explanation": "The Kosi river frequently floods, earning the title 'Sorrow of Bihar'."
   },
   {
     "question": "Who was the first President of India?",
     "options": ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Hussain", "V. V. Giri"],
     "correctAnswer": 0,
-    "explanation": "Dr. Rajendra Prasad was India’s first President."
+    "explanation": "Dr. Rajendra Prasad served as India's first President from 1950 to 1962."
   },
   {
     "question": "Where is the headquarters of ISRO located?",
     "options": ["Mumbai", "Chennai", "Bengaluru", "Hyderabad"],
     "correctAnswer": 2,
-    "explanation": "ISRO HQ is in Bengaluru."
+    "explanation": "The Indian Space Research Organisation (ISRO) is headquartered in Bengaluru."
   },
   {
     "question": "Which is the smallest bone in the human body?",
     "options": ["Femur", "Stapes", "Tibia", "Ulna"],
     "correctAnswer": 1,
-    "explanation": "The stapes bone in the ear is the smallest."
+    "explanation": "The stapes bone in the middle ear is the smallest human bone."
   },
   {
     "question": "Which Indian state has the longest coastline?",
     "options": ["Gujarat", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
     "correctAnswer": 0,
-    "explanation": "Gujarat has the longest coastline."
+    "explanation": "Gujarat has the longest coastline among Indian states (~1600 km)."
   },
   {
     "question": "What is the chemical symbol of Gold?",
     "options": ["Ag", "Gd", "Au", "Go"],
     "correctAnswer": 2,
-    "explanation": "Gold’s symbol is ‘Au’."
+    "explanation": "The symbol ‘Au’ comes from the Latin word 'Aurum'."
   },
   {
     "question": "Who discovered Penicillin?",
-    "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur",
+    "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+    "correctAnswer": 1,
+    "explanation": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+    "options": ["Article 12 to 35", "Article 36 to 51", "Article 51A", "Article 368"],
+    "correctAnswer": 0,
+    "explanation": "Fundamental Rights are covered under Articles 12 to 35."
+  },
+  {
+    "question": "Which is the national flower of India?",
+    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+    "correctAnswer": 2,
+    "explanation": "Lotus is the national flower of India."
+  },
+  {
+    "question": "Who wrote the national anthem of India?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Subhash Chandra Bose", "Sarojini Naidu"],
+    "correctAnswer": 1,
+    "explanation": "‘Jana Gana Mana’ was written by Rabindranath Tagore."
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "options": ["1945", "1946", "1947", "1948"],
+    "correctAnswer": 2,
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Sushma Swaraj"],
+    "correctAnswer": 0,
+    "explanation": "Indira Gandhi was India’s first woman Prime Minister (1966)."
+  },
+  {
+    "question": "Which state is known as the ‘Land of Five Rivers’?",
+    "options": ["Haryana", "Punjab", "Rajasthan", "Uttar Pradesh"],
+    "correctAnswer": 1,
+    "explanation": "‘Punjab’ literally means the land of five rivers."
+  },
+  {
+    "question": "Which organ purifies the blood in the human body?",
+    "options": ["Heart", "Lungs", "Kidney", "Liver"],
+    "correctAnswer": 2,
+    "explanation": "Kidneys filter and purify blood by removing waste products."
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Gobi", "Sahara", "Thar", "Arabian"],
+    "correctAnswer": 1,
+    "explanation": "The Sahara Desert is the world’s largest hot desert."
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": ["Graham Bell", "Edison", "Newton", "Einstein"],
+    "correctAnswer": 1,
+    "explanation": "Thomas Alva Edison is credited with inventing the practical light bulb."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "correctAnswer": 1,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": ["C. V. Raman", "Amartya Sen", "Rabindranath Tagore", "Mother Teresa"],
+    "correctAnswer": 2,
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913."
+  },
+  {
+    "question": "Where is the Ajanta Caves located?",
+    "options": ["Madhya Pradesh", "Odisha", "Maharashtra", "Gujarat"],
+    "correctAnswer": 2,
+    "explanation": "Ajanta Caves are located in Maharashtra."
+  },
+  {
+    "question": "The Battle of Plassey was fought in which year?",
+    "options": ["1757", "1764", "1857", "1858"],
+    "correctAnswer": 0,
+    "explanation": "The Battle of Plassey was fought in 1757 between the British and Siraj-ud-Daula."
+  },
+  {
+    "question": "Which gas is used in the preparation of soda water?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "correctAnswer": 1,
+    "explanation": "Carbon dioxide is used to carbonate soda water."
+  },
+  {
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Mountbatten", "Rajagopalachari", "Nehru", "Sardar Patel"],
+    "correctAnswer": 0,
+    "explanation": "Lord Mountbatten served as the first Governor-General of independent India."
+  },
+  {
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+    "correctAnswer": 1,
+    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+  }
+]
