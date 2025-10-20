@@ -148,11 +148,5 @@
     "options": ["Mountbatten", "Rajagopalachari", "Nehru", "Sardar Patel"],
     "correctAnswer": 0,
     "explanation": "Lord Mountbatten served as the first Governor-General of independent India."
-  },
-  {
-    "question": "Which Mughal emperor built the Taj Mahal?",
-    "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
-    "correctAnswer": 1,
-    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
   }
 ]
