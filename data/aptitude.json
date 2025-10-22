@@ -11,12 +11,7 @@
     "correctAnswer": 2,
     "explanation": "Men ∝ 1/Time ⇒ 12×8 = x×6 ⇒ x = 16."
   },
-  {
-    "question": "Simplify: (3/5 of 200) + (25% of 80)",
-    "options": ["160", "150", "140", "170"],
-    "correctAnswer": 0,
-    "explanation": "(3/5×200)=120, (25%×80)=20, Total=140."
-  },
+  
   {
     "question": "A sum of ₹5000 amounts to ₹6000 in 2 years at simple interest. Find the rate of interest per annum.",
     "options": ["8%", "9%", "10%", "12%"],
