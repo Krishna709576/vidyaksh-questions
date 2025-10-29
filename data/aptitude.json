@@ -1,462 +1,152 @@
- [
-    {
-      "question": "What is the smallest natural number?",
-      "options": ["0", "1", "2", "-1"],
-      "correctAnswer": 1,
-      "explanation": "Natural numbers start from 1, so 1 is the smallest."
-    },
-    {
-      "question": "Which of the following is a natural number?",
-      "options": ["-3", "0", "1.5", "2"],
-      "correctAnswer": 3,
-      "explanation": "Natural numbers are positive integers starting from 1; 2 qualifies."
-    },
-    {
-      "question": "Is 0 considered a natural number?",
-      "options": ["Yes", "No", "Sometimes", "Only in some countries"],
-      "correctAnswer": 1,
-      "explanation": "Traditionally, natural numbers start from 1, excluding 0."
-    },
-    {
-      "question": "What is the sum of the first three natural numbers?",
-      "options": ["3", "6", "9", "12"],
-      "correctAnswer": 1,
-      "explanation": "1 + 2 + 3 = 6."
-    },
-    {
-      "question": "How many natural numbers are there less than 10?",
-      "options": ["8", "9", "10", "Infinite"],
-      "correctAnswer": 2,
-      "explanation": "From 1 to 9, there are 9 natural numbers less than 10."
-    },
-    {
-      "question": "Are fractions like 1/2 considered natural numbers?",
-      "options": ["Yes", "No", "Only if integer", "Depends on context"],
-      "correctAnswer": 1,
-      "explanation": "Natural numbers are whole positive integers, not fractions."
-    },
-    {
-      "question": "What is the 5th natural number?",
-      "options": ["4", "5", "6", "0"],
-      "correctAnswer": 1,
-      "explanation": "The sequence is 1,2,3,4,5; so 5 is the 5th."
-    },
-    {
-      "question": "What happens when you add two natural numbers?",
-      "options": ["Always a fraction", "Always a natural number", "Sometimes negative", "Undefined"],
-      "correctAnswer": 1,
-      "explanation": "Natural numbers are closed under addition; sum is also a natural number."
-    },
-    {
-      "question": "Can natural numbers be negative?",
-      "options": ["Yes", "No", "Only even ones", "Only odd ones"],
-      "correctAnswer": 1,
-      "explanation": "Natural numbers are positive integers starting from 1."
-    },
-    {
-      "question": "Order the natural numbers: 3, 1, 5, 2 from smallest to largest.",
-      "options": ["1,2,3,5", "5,3,2,1", "3,1,5,2", "2,1,3,5"],
-      "correctAnswer": 0,
-      "explanation": "Ascending order: 1,2,3,5."
-    },
-    {
-      "question": "What is the product of the first two natural numbers?",
-      "options": ["1", "2", "3", "4"],
-      "correctAnswer": 1,
-      "explanation": "1 * 2 = 2."
-    },
-    {
-      "question": "Which set contains only natural numbers?",
-      "options": ["{0,1,2}", "{1,2,3}", "{-1,0,1}", "{1.5,2.5}"],
-      "correctAnswer": 1,
-      "explanation": "{1,2,3} are all positive integers starting from 1."
-    },
-    {
-      "question": "Is every positive integer a natural number?",
-      "options": ["Yes", "No", "Only even", "Only multiples of 3"],
-      "correctAnswer": 0,
-      "explanation": "By definition, natural numbers are positive integers."
-    },
-    {
-      "question": "What is the next natural number after 10?",
-      "options": ["9", "10", "11", "12"],
-      "correctAnswer": 2,
-      "explanation": "Natural numbers increase by 1: 11."
-    },
-    {
-      "question": "Count the natural numbers from 1 to 5 inclusive.",
-      "options": ["4", "5", "6", "0"],
-      "correctAnswer": 1,
-      "explanation": "1,2,3,4,5: five numbers."
-    },
-    {
-      "question": "What is the difference between 5 and 2 in natural numbers?",
-      "options": ["3", "-3", "7", "2"],
-      "correctAnswer": 0,
-      "explanation": "5 - 2 = 3, which is a natural number."
-    },
-    {
-      "question": "Are natural numbers used for counting?",
-      "options": ["Yes", "No", "Only for addition", "Only for subtraction"],
-      "correctAnswer": 0,
-      "explanation": "Natural numbers represent quantities in counting."
-    },
-    {
-      "question": "What is 4 divided by 2 in natural numbers?",
-      "options": ["2", "0.5", "6", "Undefined"],
-      "correctAnswer": 0,
-      "explanation": "4 ÷ 2 = 2, an integer."
-    },
-    {
-      "question": "Is 100 a natural number?",
-      "options": ["Yes", "No", "Only if even", "Depends"],
-      "correctAnswer": 0,
-      "explanation": "100 is a positive integer greater than 1."
-    },
-    {
-      "question": "What is the pattern in natural numbers?",
-      "options": ["Decreasing", "Increasing by 1", "Random", "Even only"],
-      "correctAnswer": 1,
-      "explanation": "They form the sequence 1,2,3,... increasing by 1."
-    },
-    {
-      "question": "Multiply 3 by 4; is the result a natural number?",
-      "options": ["Yes", "No", "Fraction", "Negative"],
-      "correctAnswer": 0,
-      "explanation": "3 * 4 = 12, a natural number."
-    },
-    {
-      "question": "What is the largest natural number less than 20?",
-      "options": ["19", "20", "18", "21"],
-      "correctAnswer": 0,
-      "explanation": "19 is less than 20."
-    },
-    {
-      "question": "Do natural numbers include decimals?",
-      "options": ["Yes", "No", "Sometimes", "Only positive"],
-      "correctAnswer": 1,
-      "explanation": "Natural numbers are integers, no decimals."
-    },
-    {
-      "question": "What is the sum of 1 and 0?",
-      "options": ["0", "1", "2", "-1"],
-      "correctAnswer": 1,
-      "explanation": "1 + 0 = 1, but 0 is not natural; sum is natural."
-    },
-    {
-      "question": "Why are natural numbers infinite?",
-      "options": ["They stop at 100", "No largest number", "Finite set", "Include negatives"],
-      "correctAnswer": 1,
-      "explanation": "You can always add 1 to get a larger one."
-    }
-  ]
-}
-{
-  "topic": "Whole Numbers",
-  "questions": [
-    {
-      "question": "What is the smallest whole number?",
-      "options": ["1", "0", "-1", "2"],
-      "correctAnswer": 1,
-      "explanation": "Whole numbers include 0 and positive integers; 0 is smallest."
-    },
-    {
-      "question": "Is 0 a whole number?",
-      "options": ["Yes", "No", "Only in some definitions", "Negative"],
-      "correctAnswer": 0,
-      "explanation": "Whole numbers are non-negative integers: 0,1,2,..."
-    },
-    {
-      "question": "Which of the following is a whole number?",
-      "options": ["-2", "0", "1.5", "3.2"],
-      "correctAnswer": 1,
-      "explanation": "0 is a non-negative integer."
-    },
-    {
-      "question": "What is the difference between natural and whole numbers?",
-      "options": ["Whole includes negatives", "Whole includes 0", "Same", "Natural includes 0"],
-      "correctAnswer": 1,
-      "explanation": "Whole numbers = natural numbers union {0}."
-    },
-    {
-      "question": "List the first four whole numbers.",
-      "options": ["0,1,2,3", "1,2,3,4", "0,1,2,4", "-1,0,1,2"],
-      "correctAnswer": 0,
-      "explanation": "Starting from 0: 0,1,2,3."
-    },
-    {
-      "question": "Sum of the first three whole numbers?",
-      "options": ["0", "3", "6", "9"],
-      "correctAnswer": 2,
-      "explanation": "0+1+2=3? Wait, first three: 0,1,2 sum to 3. Options wrong? Recheck: Assume 0+1+2=3, but options have 3 as index 1. Adjust: Wait, let's say options [\"0\",\"1\",\"3\",\"6\"], correct 2 for 3."
-    },
-    {
-      "question": "Are all natural numbers whole numbers?",
-      "options": ["Yes", "No", "Only even", "Only odd"],
-      "correctAnswer": 0,
-      "explanation": "Natural numbers are a subset of whole numbers."
-    },
-    {
-      "question": "What is 0 multiplied by 5?",
-      "options": ["5", "0", "Undefined", "10"],
-      "correctAnswer": 1,
-      "explanation": "Any number times 0 is 0."
-    },
-    {
-      "question": "Can whole numbers include decimals?",
-      "options": ["Yes", "No", "Only fractions", "Negative decimals"],
-      "correctAnswer": 1,
-      "explanation": "Whole numbers are integers >=0, no decimals."
-    },
-    {
-      "question": "What is the 1st whole number?",
-      "options": ["0", "1", "2", "-1"],
-      "correctAnswer": 0,
-      "explanation": "Sequence starts with 0."
-    },
-    {
-      "question": "Add two whole numbers; what is the sum?",
-      "options": ["Fraction", "Whole number", "Negative", "Decimal"],
-      "correctAnswer": 1,
-      "explanation": "Closed under addition."
-    },
-    {
-      "question": "Is -1 a whole number?",
-      "options": ["Yes", "No", "Sometimes", "Only if positive"],
-      "correctAnswer": 1,
-      "explanation": "Whole numbers are non-negative."
-    },
-    {
-      "question": "How many whole numbers between 0 and 5 exclusive?",
-      "options": ["4", "5", "6", "3"],
-      "correctAnswer": 3,
-      "explanation": "1,2,3,4: four? Wait, exclusive: 1,2,3,4 yes 4, index 0. Adjust options [\"3\",\"4\",\"5\",\"6\"], correct 1."
-    },
-    {
-      "question": "What operation gives 0 when multiplying whole numbers?",
-      "options": ["Addition", "Subtraction", "Multiplication by 0", "Division"],
-      "correctAnswer": 2,
-      "explanation": "Multiplying by 0 yields 0."
-    },
-    {
-      "question": "Order whole numbers: 0,4,1,3,2.",
-      "options": ["0,1,2,3,4", "4,3,2,1,0", "0,4,1,3,2", "1,0,2,3,4"],
-      "correctAnswer": 0,
-      "explanation": "Ascending: 0,1,2,3,4."
-    },
-    {
-      "question": "Is every integer a whole number?",
-      "options": ["Yes", "No", "Only positive", "Only zero"],
-      "correctAnswer": 1,
-      "explanation": "Negatives are integers but not whole."
-    },
-    {
-      "question": "Example of whole number not natural?",
-      "options": ["1", "0", "2", "-1"],
-      "correctAnswer": 1,
-      "explanation": "0 is whole but not natural."
-    },
-    {
-      "question": "What is 10 divided by 2?",
-      "options": ["5", "0.5", "20", "Undefined"],
-      "correctAnswer": 0,
-      "explanation": "10 ÷ 2 = 5, whole number."
-    },
-    {
-      "question": "Set notation for whole numbers?",
-      "options": ["ℕ", "ℤ", "W or ℕ₀", "ℝ"],
-      "correctAnswer": 2,
-      "explanation": "Often denoted as W or ℕ ∪ {0}."
-    },
-    {
-      "question": "Subtract 3 from 7; result?",
-      "options": ["4", "-4", "10", "0"],
-      "correctAnswer": 0,
-      "explanation": "7-3=4, whole."
-    },
-    {
-      "question": "Why include 0 in whole numbers?",
-      "options": ["For counting nothing", "To make negative", "For fractions", "Irrelevant"],
-      "correctAnswer": 0,
-      "explanation": "0 represents absence or zero quantity."
-    },
-    {
-      "question": "Is 2.0 a whole number?",
-      "options": ["Yes, as 2", "No", "Fraction", "Decimal"],
-      "correctAnswer": 0,
-      "explanation": "2.0 equals 2, an integer."
-    },
-    {
-      "question": "Sum of 0 and 0?",
-      "options": ["0", "1", "2", "-0"],
-      "correctAnswer": 0,
-      "explanation": "0+0=0."
-    },
-    {
-      "question": "Whole numbers under addition are closed?",
-      "options": ["Yes", "No", "Only even", "Only odd"],
-      "correctAnswer": 0,
-      "explanation": "Sum of two whole is whole."
-    },
-    {
-      "question": "Count whole numbers <=3.",
-      "options": ["3", "4", "2", "5"],
-      "correctAnswer": 1,
-      "explanation": "0,1,2,3: four."
-    }
-  ]
-}
-{
-  "topic": "Integers",
-  "questions": [
-    {
-      "question": "What are integers?",
-      "options": ["Positive only", "All whole numbers", "Positive, negative, zero", "Fractions"],
-      "correctAnswer": 2,
-      "explanation": "Integers: ...,-2,-1,0,1,2,... "
-    },
-    {
-      "question": "Is 0 an integer?",
-      "options": ["Yes", "No", "Positive", "Fraction"],
-      "correctAnswer": 0,
-      "explanation": "0 is an integer."
-    },
-    {
-      "question": "Which are integers: 2, -3, 1.7, 0?",
-      "options": ["All", "2,-3,0", "Only 2", "None"],
-      "correctAnswer": 1,
-      "explanation": "2, -3, 0 are integers; 1.7 is not."
-    },
-    {
-      "question": "Difference between whole numbers and integers?",
-      "options": ["Whole include negatives", "Integers include negatives", "Same", "Whole have decimals"],
-      "correctAnswer": 1,
-      "explanation": "Integers include negatives, whole do not."
-    },
-    {
-      "question": "Add -2 and 3?",
-      "options": ["1", "-5", "5", "-1"],
-      "correctAnswer": 0,
-      "explanation": "-2 + 3 = 1."
-    },
-    {
-      "question": "Subtract -5 from 2?",
-      "options": ["-7", "7", "-3", "7"],
-      "correctAnswer": 1,
-      "explanation": "2 - (-5) = 2 + 5 = 7."
-    },
-    {
-      "question": "Multiply -4 by -1?",
-      "options": ["-4", "4", "5", "-5"],
-      "correctAnswer": 1,
-      "explanation": "Negative times negative is positive: 4."
-    },
-    {
-      "question": "Divide 6 by -2?",
-      "options": ["-3", "3", "-4", "4"],
-      "correctAnswer": 0,
-      "explanation": "6 ÷ -2 = -3."
-    },
-    {
-      "question": "Order: -1,3,0,-4,2.",
-      "options": ["-4,-1,0,2,3", "3,2,0,-1,-4", "-1,3,0,-4,2", "0,2,3,-1,-4"],
-      "correctAnswer": 0,
-      "explanation": "Ascending: -4,-1,0,2,3."
-    },
-    {
-      "question": "Additive inverse of 7?",
-      "options": ["7", "-7", "0", "14"],
-      "correctAnswer": 1,
-      "explanation": "The number that adds to 0: -7."
-    },
-    {
-      "question": "Are all whole numbers integers?",
-      "options": ["Yes", "No", "Only positives", "Only zero"],
-      "correctAnswer": 0,
-      "explanation": "Whole numbers are a subset of integers."
-    },
-    {
-      "question": "Example of integer not whole?",
-      "options": ["1", "0", "-1", "2"],
-      "correctAnswer": 2,
-      "explanation": "-1 is integer but negative, not whole."
-    },
-    {
-      "question": "Absolute value of -9?",
-      "options": ["9", "-9", "0", "18"],
-      "correctAnswer": 0,
-      "explanation": "|-9| = 9."
-    },
-    {
-      "question": "How many integers between -2 and 2 exclusive?",
-      "options": ["3", "4", "5", "2"],
-      "correctAnswer": 2,
-      "explanation": "-1,0,1: three? Wait, exclusive -2< x <2: -1,0,1 yes 3, index 0? Options adjust: [\"2\",\"3\",\"4\",\"5\"], correct 1 for 3."
-    },
-    {
-      "question": "Is 2.5 an integer?",
-      "options": ["Yes", "No", "Positive", "Whole"],
-      "correctAnswer": 1,
-      "explanation": "Not a whole number, has decimal."
-    },
-    {
-      "question": "Sum of -10 and 10?",
-      "options": ["0", "20", "-20", "1"],
-      "correctAnswer": 0,
-      "explanation": "-10 + 10 = 0."
-    },
-    {
-      "question": "Product of three negative integers sign?",
-      "options": ["Positive", "Negative", "Zero", "Undefined"],
-      "correctAnswer": 1,
-      "explanation": "Odd number of negatives: negative."
-    },
-    {
-      "question": "Set of all integers denoted by?",
-      "options": ["ℕ", "ℝ", "ℤ", "W"],
-      "correctAnswer": 2,
-      "explanation": "ℤ for integers."
-    },
-    {
-      "question": "Smallest integer greater than -5?",
-      "options": ["-5", "-4", "-6", "0"],
-      "correctAnswer": 1,
-      "explanation": "Next integer: -4."
-    },
-    {
-      "question": "Why integers for temperatures?",
-      "options": ["Always positive", "Include negatives and zero", "Only fractions", "Decimals only"],
-      "correctAnswer": 1,
-      "explanation": "Can be below zero (Celsius)."
-    },
-    {
-      "question": "What is -3 + (-2)?",
-      "options": ["-5", "5", "-1", "1"],
-      "correctAnswer": 0,
-      "explanation": "-3 -2 = -5."
-    },
-    {
-      "question": "Is every rational a integer?",
-      "options": ["Yes", "No", "Only integers", "Fractions no"],
-      "correctAnswer": 1,
-      "explanation": "Rationals include fractions like 1/2."
-    },
-    {
-      "question": "Multiply 0 by -5?",
-      "options": ["0", "5", "-5", "Undefined"],
-      "correctAnswer": 0,
-      "explanation": "0 times anything is 0."
-    },
-    {
-      "question": "Integers on number line?",
-      "options": ["Continuous", "Dots at whole positions", "Only positives", "Curved"],
-      "correctAnswer": 1,
-      "explanation": "Marked at every whole number position."
-    },
-    {
-      "question": "Properties under subtraction?",
-      "options": ["Closed", "Not closed always", "Only addition", "Multiplication"],
-      "correctAnswer": 0,
-      "explanation": "Difference of integers is integer."
-    }
-  ]
+[
+  {
+    "question": "Which of the following is the smallest natural number?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": 1,
+    "explanation": "The set of natural numbers starts from 1, so 1 is the smallest natural number."
+  },
+  {
+    "question": "Which of the following numbers is NOT a natural number?",
+    "options": ["5", "0", "12", "25"],
+    "correctAnswer": 1,
+    "explanation": "Natural numbers start from 1, so 0 is not a natural number."
+  },
+  {
+    "question": "What is the smallest whole number?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": 0,
+    "explanation": "Whole numbers start from 0 and include all natural numbers."
+  },
+  {
+    "question": "Which of the following represents the set of whole numbers?",
+    "options": ["{1,2,3,...}", "{0,1,2,3,...}", "{-1,0,1,2,...}", "{-3,-2,-1,0,1,...}"],
+    "correctAnswer": 1,
+    "explanation": "Whole numbers include 0 and all natural numbers."
+  },
+  {
+    "question": "Which number is an integer but not a whole number?",
+    "options": ["2", "0", "-3", "4"],
+    "correctAnswer": 2,
+    "explanation": "Negative numbers like -3 are integers but not whole numbers."
+  },
+  {
+    "question": "The set of integers includes:",
+    "options": ["Only positive numbers", "Positive and negative numbers including 0", "Only negative numbers", "Only whole numbers"],
+    "correctAnswer": 1,
+    "explanation": "Integers include positive numbers, negative numbers, and zero."
+  },
+  {
+    "question": "Which of the following is NOT an integer?",
+    "options": ["-2", "0", "3.5", "7"],
+    "correctAnswer": 2,
+    "explanation": "3.5 is not an integer because it is a decimal number."
+  },
+  {
+    "question": "Which symbol represents the set of integers?",
+    "options": ["N", "W", "Z", "Q"],
+    "correctAnswer": 2,
+    "explanation": "The letter Z is used to denote the set of integers."
+  },
+  {
+    "question": "What is the successor of 99?",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": 2,
+    "explanation": "Successor of a number means the next number, so 99 + 1 = 100."
+  },
+  {
+    "question": "What is the predecessor of 350?",
+    "options": ["349", "351", "352", "348"],
+    "correctAnswer": 0,
+    "explanation": "Predecessor means the number before it, so 350 - 1 = 349."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": ["Every whole number is a natural number", "Every natural number is a whole number", "Every integer is a natural number", "All negative numbers are whole numbers"],
+    "correctAnswer": 1,
+    "explanation": "All natural numbers are included in whole numbers, but 0 makes whole numbers larger."
+  },
+  {
+    "question": "Which of the following is a negative integer?",
+    "options": ["0", "3", "-5", "5"],
+    "correctAnswer": 2,
+    "explanation": "Negative integers are less than zero, such as -5."
+  },
+  {
+    "question": "Which integer lies between -2 and 0?",
+    "options": ["-1", "1", "2", "-3"],
+    "correctAnswer": 0,
+    "explanation": "-1 is between -2 and 0 on the number line."
+  },
+  {
+    "question": "The sum of two negative integers is always:",
+    "options": ["Positive", "Negative", "Zero", "Undefined"],
+    "correctAnswer": 1,
+    "explanation": "Adding two negative integers results in a negative integer."
+  },
+  {
+    "question": "The additive inverse of 7 is:",
+    "options": ["-7", "7", "0", "1"],
+    "correctAnswer": 0,
+    "explanation": "The additive inverse of a number is its negative."
+  },
+  {
+    "question": "The additive inverse of -12 is:",
+    "options": ["-12", "0", "12", "1"],
+    "correctAnswer": 2,
+    "explanation": "The additive inverse of -12 is 12, because -12 + 12 = 0."
+  },
+  {
+    "question": "Which of the following is true for every integer n?",
+    "options": ["n + 0 = 0", "n + 0 = n", "n - n = n", "0 - n = n"],
+    "correctAnswer": 1,
+    "explanation": "Adding zero to any integer gives the same integer."
+  },
+  {
+    "question": "Which of the following is NOT a property of addition of integers?",
+    "options": ["Closure", "Commutativity", "Associativity", "Division"],
+    "correctAnswer": 3,
+    "explanation": "Division is not a property of addition."
+  },
+  {
+    "question": "If you multiply a negative number by a positive number, the result is:",
+    "options": ["Positive", "Negative", "Zero", "Undefined"],
+    "correctAnswer": 1,
+    "explanation": "Product of a negative and a positive number is negative."
+  },
+  {
+    "question": "Which integer is neither positive nor negative?",
+    "options": ["1", "0", "-1", "2"],
+    "correctAnswer": 1,
+    "explanation": "Zero is neither positive nor negative."
+  },
+  {
+    "question": "What is the result of (-8) + 5?",
+    "options": ["13", "-3", "3", "-13"],
+    "correctAnswer": 1,
+    "explanation": "Adding 5 to -8 gives -3."
+  },
+  {
+    "question": "What is (-6) × (-4)?",
+    "options": ["24", "-24", "10", "0"],
+    "correctAnswer": 0,
+    "explanation": "Multiplying two negative integers results in a positive number."
+  },
+  {
+    "question": "Which number line representation is correct?",
+    "options": ["Negative numbers are on the right", "Positive numbers are on the left", "Zero is at the center", "Both 1 and -1 are on the same side"],
+    "correctAnswer": 2,
+    "explanation": "Zero is at the center, with negative numbers on the left and positive on the right."
+  },
+  {
+    "question": "If a + b = 0, then b is called:",
+    "options": ["Additive inverse of a", "Multiplicative inverse of a", "Zero element", "Positive number"],
+    "correctAnswer": 0,
+    "explanation": "If a + b = 0, b is the additive inverse of a."
+  },
+  {
+    "question": "Which of the following numbers belongs to all three sets: natural, whole, and integers?",
+    "options": ["-1", "0", "1", "2"],
+    "correctAnswer": 2,
+    "explanation": "1 is common to all three sets: natural, whole, and integers."
+  }
+]
