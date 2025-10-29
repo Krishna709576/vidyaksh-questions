@@ -1,152 +1,152 @@
 [
   {
-    "question": "Find the odd one out: 3, 5, 7, 9",
-    "options": ["3", "5", "7", "9"],
+    "question": "Hand is to Glove as Foot is to ___?",
+    "options": ["Sock", "Shoe", "Slipper", "Boot"],
+    "correctAnswer": 0,
+    "explanation": "A glove covers a hand just as a sock covers a foot."
+  },
+  {
+    "question": "Fish is to Water as Bird is to ___?",
+    "options": ["Sky", "Nest", "Tree", "Wind"],
+    "correctAnswer": 0,
+    "explanation": "Fish lives in water, just as a bird lives in the sky."
+  },
+  {
+    "question": "Doctor is to Hospital as Teacher is to ___?",
+    "options": ["Classroom", "Book", "Student", "School"],
     "correctAnswer": 3,
-    "explanation": "9 is not a prime number."
+    "explanation": "A doctor works in a hospital, a teacher works in a school."
   },
   {
-    "question": "If CAT = 24, BAT = 14, then RAT = ?",
-    "options": ["25", "26", "27", "28"],
+    "question": "Pencil is to Write as Knife is to ___?",
+    "options": ["Cut", "Sharpen", "Peel", "Slice"],
+    "correctAnswer": 0,
+    "explanation": "A pencil is used to write; a knife is used to cut."
+  },
+  {
+    "question": "Ear is to Hear as Eye is to ___?",
+    "options": ["See", "Watch", "Look", "View"],
+    "correctAnswer": 0,
+    "explanation": "The ear is used for hearing; the eye is used for seeing."
+  },
+  {
+    "question": "King is to Throne as Judge is to ___?",
+    "options": ["Court", "Chair", "Bench", "Crown"],
     "correctAnswer": 2,
-    "explanation": "C=3, A=1, T=20 ⇒ 3+1+20=24; Similarly 18+1+20=39→3+9=12."
+    "explanation": "A king sits on a throne; a judge sits on a bench."
   },
   {
-    "question": "Which number will complete the series: 2, 6, 12, 20, ?",
-    "options": ["28", "30", "32", "34"],
+    "question": "Fire is to Hot as Ice is to ___?",
+    "options": ["Cold", "Cool", "Freeze", "Solid"],
+    "correctAnswer": 0,
+    "explanation": "Fire is hot; ice is cold."
+  },
+  {
+    "question": "Bird is to Fly as Fish is to ___?",
+    "options": ["Swim", "Float", "Dive", "Crawl"],
+    "correctAnswer": 0,
+    "explanation": "Birds fly in the air; fish swim in water."
+  },
+  {
+    "question": "Book is to Reading as Food is to ___?",
+    "options": ["Cooking", "Eating", "Serving", "Drinking"],
     "correctAnswer": 1,
-    "explanation": "Pattern: +4, +6, +8, +10 ⇒ next is 30."
+    "explanation": "Books are for reading; food is for eating."
   },
   {
-    "question": "Find the missing term: 4, 16, 36, ?, 100",
-    "options": ["48", "49", "64", "81"],
-    "correctAnswer": 2,
-    "explanation": "Squares of even numbers: 2², 4², 6², 8², 10²."
-  },
-  {
-    "question": "‘Book’ is related to ‘Reading’ as ‘Fork’ is related to?",
-    "options": ["Drawing", "Writing", "Eating", "Cooking"],
-    "correctAnswer": 2,
-    "explanation": "Book → Reading; Fork → Eating."
-  },
-  {
-    "question": "If SOUTH = 12345, then THOUS = ?",
-    "options": ["45123", "34512", "51234", "23451"],
-    "correctAnswer": 0,
-    "explanation": "Rearranged mapping as per code."
-  },
-  {
-    "question": "Find the odd one: Apple, Banana, Carrot, Mango",
-    "options": ["Apple", "Banana", "Carrot", "Mango"],
-    "correctAnswer": 2,
-    "explanation": "Carrot is a vegetable; others are fruits."
-  },
-  {
-    "question": "Select the correct analogy: 8 : 64 :: 6 : ?",
-    "options": ["36", "42", "48", "216"],
-    "correctAnswer": 3,
-    "explanation": "8³=512; 6³=216."
-  },
-  {
-    "question": "If ALL = 25, then BALL = ?",
-    "options": ["27", "28", "30", "29"],
-    "correctAnswer": 2,
-    "explanation": "A=1, L=12 ⇒ 1+12+12=25; Add B=2 ⇒ 27."
-  },
-  {
-    "question": "If ‘PAPER’ is coded as ‘OZODQ’, then ‘PEN’ is coded as?",
-    "options": ["ODM", "ODL", "OEN", "OEM"],
-    "correctAnswer": 0,
-    "explanation": "Each letter shifted back by 1 alphabet."
-  },
-  {
-    "question": "Find the next term: A1, B2, C3, D4, ?",
-    "options": ["E4", "E5", "F5", "E6"],
+    "question": "Painter is to Brush as Writer is to ___?",
+    "options": ["Book", "Pen", "Paper", "Ink"],
     "correctAnswer": 1,
-    "explanation": "Pattern: next letter and next number ⇒ E5."
+    "explanation": "A painter uses a brush; a writer uses a pen."
   },
   {
-    "question": "Which word cannot be formed from ‘COMPUTER’?",
-    "options": ["COME", "CURE", "TERM", "PURE"],
-    "correctAnswer": 2,
-    "explanation": "Letter ‘T’ and ‘M’ together not available."
-  },
-  {
-    "question": "If A=1, Z=26, find the sum of letters in ‘CAB’.",
-    "options": ["5", "6", "7", "8"],
-    "correctAnswer": 2,
-    "explanation": "C=3, A=1, B=2 ⇒ total 6."
-  },
-  {
-    "question": "If in a code, CAT = DBU, then DOG = ?",
-    "options": ["EPI", "EHP", "EPH", "EOG"],
-    "correctAnswer": 0,
-    "explanation": "Each letter +1 alphabet."
-  },
-  {
-    "question": "Find the missing number: 4, 8, 16, 32, ?",
-    "options": ["48", "60", "64", "80"],
-    "correctAnswer": 2,
-    "explanation": "Each term ×2 ⇒ 64."
-  },
-  {
-    "question": "Which pair is different: (2,4), (3,9), (4,16), (5,25), (6,30)",
-    "options": ["(2,4)", "(3,9)", "(4,16)", "(6,30)"],
-    "correctAnswer": 3,
-    "explanation": "All are squares except (6,30)."
-  },
-  {
-    "question": "Arrange in dictionary order: Apple, Apricot, Ant, Anchor",
-    "options": ["Anchor, Ant, Apple, Apricot", "Ant, Anchor, Apple, Apricot", "Anchor, Apple, Ant, Apricot", "Ant, Apple, Anchor, Apricot"],
-    "correctAnswer": 0,
-    "explanation": "A + n → earliest letters come first."
-  },
-  {
-    "question": "Complete the series: 5, 10, 20, 40, ?",
-    "options": ["50", "60", "70", "80"],
-    "correctAnswer": 3,
-    "explanation": "Each term doubled ⇒ 80."
-  },
-  {
-    "question": "Find the odd letters: ABC, DEF, GHI, JKL, MNO",
-    "options": ["ABC", "DEF", "GHI", "MNO"],
-    "correctAnswer": 3,
-    "explanation": "All groups are consecutive triples; MNO breaks pattern end range."
-  },
-  {
-    "question": "Which number replaces question mark: 9, 16, 25, ?, 49",
-    "options": ["30", "32", "36", "40"],
-    "correctAnswer": 2,
-    "explanation": "Squares: 3²,4²,5²,6²,7²."
-  },
-  {
-    "question": "Find missing letter: ACE, BDF, CEG, DFH, ?",
-    "options": ["EGI", "EHI", "EFG", "FGI"],
+    "question": "Cup is to Tea as Bowl is to ___?",
+    "options": ["Rice", "Soup", "Spoon", "Food"],
     "correctAnswer": 1,
-    "explanation": "Each next starts with next alphabet; middle and last letters follow same increment."
+    "explanation": "Tea is served in a cup; soup is served in a bowl."
   },
   {
-    "question": "Odd one out: Circle, Triangle, Square, Rectangle",
-    "options": ["Circle", "Triangle", "Square", "Rectangle"],
-    "correctAnswer": 0,
-    "explanation": "Circle has no sides."
-  },
-  {
-    "question": "If NORTH is coded as MPSUI, how is SOUTH coded?",
-    "options": ["RPTVI", "RPSVI", "RPTUI", "RPTSI"],
-    "correctAnswer": 0,
-    "explanation": "Each letter +1 alphabet from previous coding pattern."
-  },
-  {
-    "question": "Choose the correct mirror image of ‘PQ’.",
-    "options": ["QP", "bQ", "bd", "None"],
-    "correctAnswer": 0,
-    "explanation": "Mirror swaps left and right positions."
-  },
-  {
-    "question": "If CLOCK = 40, then WATCH = ?",
-    "options": ["52", "50", "48", "54"],
+    "question": "Night is to Moon as Day is to ___?",
+    "options": ["Light", "Sun", "Heat", "Sky"],
     "correctAnswer": 1,
-    "explanation": "Alphabet positions summed to code value."
+    "explanation": "The moon is seen at night; the sun is seen during the day."
+  },
+  {
+    "question": "Word is to Sentence as Page is to ___?",
+    "options": ["Book", "Paper", "Notebook", "Chapter"],
+    "correctAnswer": 0,
+    "explanation": "Words make a sentence; pages make a book."
+  },
+  {
+    "question": "Heart is to Body as Engine is to ___?",
+    "options": ["Car", "Machine", "Vehicle", "Motor"],
+    "correctAnswer": 0,
+    "explanation": "The heart powers the body; the engine powers the car."
+  },
+  {
+    "question": "Lock is to Key as Problem is to ___?",
+    "options": ["Answer", "Question", "Solution", "Clue"],
+    "correctAnswer": 2,
+    "explanation": "A key opens a lock; a solution resolves a problem."
+  },
+  {
+    "question": "River is to Water as Road is to ___?",
+    "options": ["Vehicle", "Journey", "Travel", "Traffic"],
+    "correctAnswer": 3,
+    "explanation": "A river carries water; a road carries traffic."
+  },
+  {
+    "question": "Smile is to Happiness as Cry is to ___?",
+    "options": ["Sadness", "Tears", "Pain", "Emotion"],
+    "correctAnswer": 0,
+    "explanation": "We smile when happy and cry when sad."
+  },
+  {
+    "question": "Seed is to Plant as Egg is to ___?",
+    "options": ["Bird", "Nest", "Feather", "Shell"],
+    "correctAnswer": 0,
+    "explanation": "A seed grows into a plant; an egg develops into a bird."
+  },
+  {
+    "question": "Knife is to Sharp as Cotton is to ___?",
+    "options": ["Soft", "White", "Light", "Smooth"],
+    "correctAnswer": 0,
+    "explanation": "A knife is sharp; cotton is soft."
+  },
+  {
+    "question": "Clock is to Time as Thermometer is to ___?",
+    "options": ["Heat", "Temperature", "Weather", "Pressure"],
+    "correctAnswer": 1,
+    "explanation": "A clock measures time; a thermometer measures temperature."
+  },
+  {
+    "question": "Bee is to Honey as Cow is to ___?",
+    "options": ["Milk", "Butter", "Grass", "Farm"],
+    "correctAnswer": 0,
+    "explanation": "A bee produces honey; a cow produces milk."
+  },
+  {
+    "question": "Author is to Book as Composer is to ___?",
+    "options": ["Song", "Music", "Poem", "Tune"],
+    "correctAnswer": 1,
+    "explanation": "An author writes a book; a composer creates music."
+  },
+  {
+    "question": "Ship is to Sea as Train is to ___?",
+    "options": ["Track", "Station", "Bridge", "Tunnel"],
+    "correctAnswer": 0,
+    "explanation": "A ship travels on sea; a train runs on tracks."
+  },
+  {
+    "question": "Doctor is to Patient as Lawyer is to ___?",
+    "options": ["Client", "Court", "Judge", "Law"],
+    "correctAnswer": 0,
+    "explanation": "A doctor treats patients; a lawyer represents clients."
+  },
+  {
+    "question": "Tree is to Forest as Star is to ___?",
+    "options": ["Galaxy", "Sky", "Planet", "Moon"],
+    "correctAnswer": 0,
+    "explanation": "Many trees make a forest; many stars form a galaxy."
   }
 ]
