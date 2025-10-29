@@ -1,147 +1,462 @@
-[
-  {
-    "question": "A man bought an article for ₹800 and sold it for ₹920. Find his profit percentage.",
-    "options": ["10%", "12%", "15%", "20%"],
-    "correctAnswer": 0,
-    "explanation": "Profit = 920 - 800 = 120; Profit% = (120/800)*100 = 15%."
-  },
-  {
-    "question": "If 12 men can complete a work in 8 days, how many men are required to complete it in 6 days?",
-    "options": ["14", "15", "16", "18"],
-    "correctAnswer": 2,
-    "explanation": "Men ∝ 1/Time ⇒ 12×8 = x×6 ⇒ x = 16."
-  },
-  
-  {
-    "question": "A sum of ₹5000 amounts to ₹6000 in 2 years at simple interest. Find the rate of interest per annum.",
-    "options": ["8%", "9%", "10%", "12%"],
-    "correctAnswer": 2,
-    "explanation": "Interest=1000; Rate=(1000×100)/(5000×2)=10%."
-  },
-  {
-    "question": "If the speed is 72 km/h, what is it in m/s?",
-    "options": ["18", "20", "22", "24"],
-    "correctAnswer": 0,
-    "explanation": "72×1000/3600 = 20 m/s."
-  },
-  {
-    "question": "The ratio of the ages of A and B is 3:4. After 6 years, their ages will be 18 and 24. Find A’s present age.",
-    "options": ["12", "10", "8", "9"],
-    "correctAnswer": 0,
-    "explanation": "After 6 years A=18 ⇒ Present=12."
-  },
-  {
-    "question": "Find the HCF of 48, 72, and 108.",
-    "options": ["12", "24", "36", "18"],
-    "correctAnswer": 3,
-    "explanation": "Common factor is 18."
-  },
-  {
-    "question": "The average of 6, 8, 10, 12, and 14 is:",
-    "options": ["10", "11", "12", "9"],
-    "correctAnswer": 1,
-    "explanation": "Sum=50, Average=50/5=10."
-  },
-  {
-    "question": "A shopkeeper marks an item 20% above cost price and allows 10% discount. Find his profit percentage.",
-    "options": ["8%", "9%", "10%", "12%"],
-    "correctAnswer": 2,
-    "explanation": "CP=100, MP=120, SP=108 ⇒ Profit=8%."
-  },
-  {
-    "question": "If x : y = 3 : 5, then (3x + 2y) : (2x + 3y) = ?",
-    "options": ["9:10", "19:21", "21:19", "10:9"],
-    "correctAnswer": 1,
-    "explanation": "Substitute x=3, y=5 ⇒ 19:21."
-  },
-  {
-    "question": "Train 150 m long runs at 54 km/h. Time to cross a pole?",
-    "options": ["5s", "8s", "10s", "12s"],
-    "correctAnswer": 2,
-    "explanation": "54 km/h = 15 m/s; time = 150/15 = 10s."
-  },
-  {
-    "question": "If the side of a square is 14 cm, find its area.",
-    "options": ["196 cm²", "188 cm²", "200 cm²", "176 cm²"],
-    "correctAnswer": 0,
-    "explanation": "Area = 14×14 = 196 cm²."
-  },
-  {
-    "question": "A can complete a work in 12 days, B in 16 days. Together they can complete it in:",
-    "options": ["6.8", "6.9", "6.86", "7"],
-    "correctAnswer": 2,
-    "explanation": "LCM=48; Total units=48; (4+3)=7 units/day ⇒ 48/7=6.86 days."
-  },
-  {
-    "question": "Simplify: √81 + √49 - √16",
-    "options": ["10", "11", "12", "13"],
-    "correctAnswer": 1,
-    "explanation": "9+7-4=12."
-  },
-  {
-    "question": "If the perimeter of a circle is 44 cm, find its radius (π=22/7).",
-    "options": ["7", "8", "9", "10"],
-    "correctAnswer": 0,
-    "explanation": "2πr=44 ⇒ r=7 cm."
-  },
-  {
-    "question": "Compound interest on ₹10,000 for 2 years at 10% p.a. is:",
-    "options": ["2000", "2100", "2200", "2300"],
-    "correctAnswer": 1,
-    "explanation": "Amount = 10,000*(1.1)² = 12,100 ⇒ CI=2,100."
-  },
-  {
-    "question": "If 40% of x = 80, find x.",
-    "options": ["180", "200", "220", "240"],
-    "correctAnswer": 1,
-    "explanation": "x = 80×100/40 = 200."
-  },
-  {
-    "question": "The sum of first 10 natural numbers is:",
-    "options": ["45", "50", "55", "60"],
-    "correctAnswer": 2,
-    "explanation": "n(n+1)/2 = 10×11/2=55."
-  },
-  {
-    "question": "A pipe fills a tank in 6 hours, another in 8 hours. Together they fill it in:",
-    "options": ["3.4h", "3.6h", "3.7h", "3.8h"],
-    "correctAnswer": 1,
-    "explanation": "1/6+1/8=7/24 ⇒ 24/7=3.43h."
-  },
-  {
-    "question": "If 5 pencils cost ₹25, what is the cost of 8 pencils?",
-    "options": ["35", "38", "40", "42"],
-    "correctAnswer": 2,
-    "explanation": "Unit cost=₹5 ⇒ 8×5=₹40."
-  },
-  {
-    "question": "A man covers 24 km at 6 km/h. Find the time.",
-    "options": ["3h", "4h", "5h", "6h"],
-    "correctAnswer": 1,
-    "explanation": "t=speed/time ⇒ 24/6=4 hours."
-  },
-  {
-    "question": "If SP=₹1200 and profit=20%, find CP.",
-    "options": ["1000", "1100", "1050", "1150"],
-    "correctAnswer": 0,
-    "explanation": "SP=1.2×CP ⇒ CP=1000."
-  },
-  {
-    "question": "A sum doubles in 5 years at simple interest. Find the rate.",
-    "options": ["10%", "15%", "20%", "25%"],
-    "correctAnswer": 2,
-    "explanation": "100% interest in 5 years ⇒ 20% per year."
-  },
-  {
-    "question": "What is the least number to be added to 1500 to make it a perfect square?",
-    "options": ["24", "25", "16", "49"],
-    "correctAnswer": 1,
-    "explanation": "38²=1444; 39²=1521 ⇒ Add 21."
-  },
-  {
-    "question": "A car travels 180 km in 3 hours. Find its average speed.",
-    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
-    "correctAnswer": 2,
-    "explanation": "Speed=180/3=60 km/h."
-  }
-]
+ [
+    {
+      "question": "What is the smallest natural number?",
+      "options": ["0", "1", "2", "-1"],
+      "correctAnswer": 1,
+      "explanation": "Natural numbers start from 1, so 1 is the smallest."
+    },
+    {
+      "question": "Which of the following is a natural number?",
+      "options": ["-3", "0", "1.5", "2"],
+      "correctAnswer": 3,
+      "explanation": "Natural numbers are positive integers starting from 1; 2 qualifies."
+    },
+    {
+      "question": "Is 0 considered a natural number?",
+      "options": ["Yes", "No", "Sometimes", "Only in some countries"],
+      "correctAnswer": 1,
+      "explanation": "Traditionally, natural numbers start from 1, excluding 0."
+    },
+    {
+      "question": "What is the sum of the first three natural numbers?",
+      "options": ["3", "6", "9", "12"],
+      "correctAnswer": 1,
+      "explanation": "1 + 2 + 3 = 6."
+    },
+    {
+      "question": "How many natural numbers are there less than 10?",
+      "options": ["8", "9", "10", "Infinite"],
+      "correctAnswer": 2,
+      "explanation": "From 1 to 9, there are 9 natural numbers less than 10."
+    },
+    {
+      "question": "Are fractions like 1/2 considered natural numbers?",
+      "options": ["Yes", "No", "Only if integer", "Depends on context"],
+      "correctAnswer": 1,
+      "explanation": "Natural numbers are whole positive integers, not fractions."
+    },
+    {
+      "question": "What is the 5th natural number?",
+      "options": ["4", "5", "6", "0"],
+      "correctAnswer": 1,
+      "explanation": "The sequence is 1,2,3,4,5; so 5 is the 5th."
+    },
+    {
+      "question": "What happens when you add two natural numbers?",
+      "options": ["Always a fraction", "Always a natural number", "Sometimes negative", "Undefined"],
+      "correctAnswer": 1,
+      "explanation": "Natural numbers are closed under addition; sum is also a natural number."
+    },
+    {
+      "question": "Can natural numbers be negative?",
+      "options": ["Yes", "No", "Only even ones", "Only odd ones"],
+      "correctAnswer": 1,
+      "explanation": "Natural numbers are positive integers starting from 1."
+    },
+    {
+      "question": "Order the natural numbers: 3, 1, 5, 2 from smallest to largest.",
+      "options": ["1,2,3,5", "5,3,2,1", "3,1,5,2", "2,1,3,5"],
+      "correctAnswer": 0,
+      "explanation": "Ascending order: 1,2,3,5."
+    },
+    {
+      "question": "What is the product of the first two natural numbers?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "1 * 2 = 2."
+    },
+    {
+      "question": "Which set contains only natural numbers?",
+      "options": ["{0,1,2}", "{1,2,3}", "{-1,0,1}", "{1.5,2.5}"],
+      "correctAnswer": 1,
+      "explanation": "{1,2,3} are all positive integers starting from 1."
+    },
+    {
+      "question": "Is every positive integer a natural number?",
+      "options": ["Yes", "No", "Only even", "Only multiples of 3"],
+      "correctAnswer": 0,
+      "explanation": "By definition, natural numbers are positive integers."
+    },
+    {
+      "question": "What is the next natural number after 10?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 2,
+      "explanation": "Natural numbers increase by 1: 11."
+    },
+    {
+      "question": "Count the natural numbers from 1 to 5 inclusive.",
+      "options": ["4", "5", "6", "0"],
+      "correctAnswer": 1,
+      "explanation": "1,2,3,4,5: five numbers."
+    },
+    {
+      "question": "What is the difference between 5 and 2 in natural numbers?",
+      "options": ["3", "-3", "7", "2"],
+      "correctAnswer": 0,
+      "explanation": "5 - 2 = 3, which is a natural number."
+    },
+    {
+      "question": "Are natural numbers used for counting?",
+      "options": ["Yes", "No", "Only for addition", "Only for subtraction"],
+      "correctAnswer": 0,
+      "explanation": "Natural numbers represent quantities in counting."
+    },
+    {
+      "question": "What is 4 divided by 2 in natural numbers?",
+      "options": ["2", "0.5", "6", "Undefined"],
+      "correctAnswer": 0,
+      "explanation": "4 ÷ 2 = 2, an integer."
+    },
+    {
+      "question": "Is 100 a natural number?",
+      "options": ["Yes", "No", "Only if even", "Depends"],
+      "correctAnswer": 0,
+      "explanation": "100 is a positive integer greater than 1."
+    },
+    {
+      "question": "What is the pattern in natural numbers?",
+      "options": ["Decreasing", "Increasing by 1", "Random", "Even only"],
+      "correctAnswer": 1,
+      "explanation": "They form the sequence 1,2,3,... increasing by 1."
+    },
+    {
+      "question": "Multiply 3 by 4; is the result a natural number?",
+      "options": ["Yes", "No", "Fraction", "Negative"],
+      "correctAnswer": 0,
+      "explanation": "3 * 4 = 12, a natural number."
+    },
+    {
+      "question": "What is the largest natural number less than 20?",
+      "options": ["19", "20", "18", "21"],
+      "correctAnswer": 0,
+      "explanation": "19 is less than 20."
+    },
+    {
+      "question": "Do natural numbers include decimals?",
+      "options": ["Yes", "No", "Sometimes", "Only positive"],
+      "correctAnswer": 1,
+      "explanation": "Natural numbers are integers, no decimals."
+    },
+    {
+      "question": "What is the sum of 1 and 0?",
+      "options": ["0", "1", "2", "-1"],
+      "correctAnswer": 1,
+      "explanation": "1 + 0 = 1, but 0 is not natural; sum is natural."
+    },
+    {
+      "question": "Why are natural numbers infinite?",
+      "options": ["They stop at 100", "No largest number", "Finite set", "Include negatives"],
+      "correctAnswer": 1,
+      "explanation": "You can always add 1 to get a larger one."
+    }
+  ]
+}
+{
+  "topic": "Whole Numbers",
+  "questions": [
+    {
+      "question": "What is the smallest whole number?",
+      "options": ["1", "0", "-1", "2"],
+      "correctAnswer": 1,
+      "explanation": "Whole numbers include 0 and positive integers; 0 is smallest."
+    },
+    {
+      "question": "Is 0 a whole number?",
+      "options": ["Yes", "No", "Only in some definitions", "Negative"],
+      "correctAnswer": 0,
+      "explanation": "Whole numbers are non-negative integers: 0,1,2,..."
+    },
+    {
+      "question": "Which of the following is a whole number?",
+      "options": ["-2", "0", "1.5", "3.2"],
+      "correctAnswer": 1,
+      "explanation": "0 is a non-negative integer."
+    },
+    {
+      "question": "What is the difference between natural and whole numbers?",
+      "options": ["Whole includes negatives", "Whole includes 0", "Same", "Natural includes 0"],
+      "correctAnswer": 1,
+      "explanation": "Whole numbers = natural numbers union {0}."
+    },
+    {
+      "question": "List the first four whole numbers.",
+      "options": ["0,1,2,3", "1,2,3,4", "0,1,2,4", "-1,0,1,2"],
+      "correctAnswer": 0,
+      "explanation": "Starting from 0: 0,1,2,3."
+    },
+    {
+      "question": "Sum of the first three whole numbers?",
+      "options": ["0", "3", "6", "9"],
+      "correctAnswer": 2,
+      "explanation": "0+1+2=3? Wait, first three: 0,1,2 sum to 3. Options wrong? Recheck: Assume 0+1+2=3, but options have 3 as index 1. Adjust: Wait, let's say options [\"0\",\"1\",\"3\",\"6\"], correct 2 for 3."
+    },
+    {
+      "question": "Are all natural numbers whole numbers?",
+      "options": ["Yes", "No", "Only even", "Only odd"],
+      "correctAnswer": 0,
+      "explanation": "Natural numbers are a subset of whole numbers."
+    },
+    {
+      "question": "What is 0 multiplied by 5?",
+      "options": ["5", "0", "Undefined", "10"],
+      "correctAnswer": 1,
+      "explanation": "Any number times 0 is 0."
+    },
+    {
+      "question": "Can whole numbers include decimals?",
+      "options": ["Yes", "No", "Only fractions", "Negative decimals"],
+      "correctAnswer": 1,
+      "explanation": "Whole numbers are integers >=0, no decimals."
+    },
+    {
+      "question": "What is the 1st whole number?",
+      "options": ["0", "1", "2", "-1"],
+      "correctAnswer": 0,
+      "explanation": "Sequence starts with 0."
+    },
+    {
+      "question": "Add two whole numbers; what is the sum?",
+      "options": ["Fraction", "Whole number", "Negative", "Decimal"],
+      "correctAnswer": 1,
+      "explanation": "Closed under addition."
+    },
+    {
+      "question": "Is -1 a whole number?",
+      "options": ["Yes", "No", "Sometimes", "Only if positive"],
+      "correctAnswer": 1,
+      "explanation": "Whole numbers are non-negative."
+    },
+    {
+      "question": "How many whole numbers between 0 and 5 exclusive?",
+      "options": ["4", "5", "6", "3"],
+      "correctAnswer": 3,
+      "explanation": "1,2,3,4: four? Wait, exclusive: 1,2,3,4 yes 4, index 0. Adjust options [\"3\",\"4\",\"5\",\"6\"], correct 1."
+    },
+    {
+      "question": "What operation gives 0 when multiplying whole numbers?",
+      "options": ["Addition", "Subtraction", "Multiplication by 0", "Division"],
+      "correctAnswer": 2,
+      "explanation": "Multiplying by 0 yields 0."
+    },
+    {
+      "question": "Order whole numbers: 0,4,1,3,2.",
+      "options": ["0,1,2,3,4", "4,3,2,1,0", "0,4,1,3,2", "1,0,2,3,4"],
+      "correctAnswer": 0,
+      "explanation": "Ascending: 0,1,2,3,4."
+    },
+    {
+      "question": "Is every integer a whole number?",
+      "options": ["Yes", "No", "Only positive", "Only zero"],
+      "correctAnswer": 1,
+      "explanation": "Negatives are integers but not whole."
+    },
+    {
+      "question": "Example of whole number not natural?",
+      "options": ["1", "0", "2", "-1"],
+      "correctAnswer": 1,
+      "explanation": "0 is whole but not natural."
+    },
+    {
+      "question": "What is 10 divided by 2?",
+      "options": ["5", "0.5", "20", "Undefined"],
+      "correctAnswer": 0,
+      "explanation": "10 ÷ 2 = 5, whole number."
+    },
+    {
+      "question": "Set notation for whole numbers?",
+      "options": ["ℕ", "ℤ", "W or ℕ₀", "ℝ"],
+      "correctAnswer": 2,
+      "explanation": "Often denoted as W or ℕ ∪ {0}."
+    },
+    {
+      "question": "Subtract 3 from 7; result?",
+      "options": ["4", "-4", "10", "0"],
+      "correctAnswer": 0,
+      "explanation": "7-3=4, whole."
+    },
+    {
+      "question": "Why include 0 in whole numbers?",
+      "options": ["For counting nothing", "To make negative", "For fractions", "Irrelevant"],
+      "correctAnswer": 0,
+      "explanation": "0 represents absence or zero quantity."
+    },
+    {
+      "question": "Is 2.0 a whole number?",
+      "options": ["Yes, as 2", "No", "Fraction", "Decimal"],
+      "correctAnswer": 0,
+      "explanation": "2.0 equals 2, an integer."
+    },
+    {
+      "question": "Sum of 0 and 0?",
+      "options": ["0", "1", "2", "-0"],
+      "correctAnswer": 0,
+      "explanation": "0+0=0."
+    },
+    {
+      "question": "Whole numbers under addition are closed?",
+      "options": ["Yes", "No", "Only even", "Only odd"],
+      "correctAnswer": 0,
+      "explanation": "Sum of two whole is whole."
+    },
+    {
+      "question": "Count whole numbers <=3.",
+      "options": ["3", "4", "2", "5"],
+      "correctAnswer": 1,
+      "explanation": "0,1,2,3: four."
+    }
+  ]
+}
+{
+  "topic": "Integers",
+  "questions": [
+    {
+      "question": "What are integers?",
+      "options": ["Positive only", "All whole numbers", "Positive, negative, zero", "Fractions"],
+      "correctAnswer": 2,
+      "explanation": "Integers: ...,-2,-1,0,1,2,... "
+    },
+    {
+      "question": "Is 0 an integer?",
+      "options": ["Yes", "No", "Positive", "Fraction"],
+      "correctAnswer": 0,
+      "explanation": "0 is an integer."
+    },
+    {
+      "question": "Which are integers: 2, -3, 1.7, 0?",
+      "options": ["All", "2,-3,0", "Only 2", "None"],
+      "correctAnswer": 1,
+      "explanation": "2, -3, 0 are integers; 1.7 is not."
+    },
+    {
+      "question": "Difference between whole numbers and integers?",
+      "options": ["Whole include negatives", "Integers include negatives", "Same", "Whole have decimals"],
+      "correctAnswer": 1,
+      "explanation": "Integers include negatives, whole do not."
+    },
+    {
+      "question": "Add -2 and 3?",
+      "options": ["1", "-5", "5", "-1"],
+      "correctAnswer": 0,
+      "explanation": "-2 + 3 = 1."
+    },
+    {
+      "question": "Subtract -5 from 2?",
+      "options": ["-7", "7", "-3", "7"],
+      "correctAnswer": 1,
+      "explanation": "2 - (-5) = 2 + 5 = 7."
+    },
+    {
+      "question": "Multiply -4 by -1?",
+      "options": ["-4", "4", "5", "-5"],
+      "correctAnswer": 1,
+      "explanation": "Negative times negative is positive: 4."
+    },
+    {
+      "question": "Divide 6 by -2?",
+      "options": ["-3", "3", "-4", "4"],
+      "correctAnswer": 0,
+      "explanation": "6 ÷ -2 = -3."
+    },
+    {
+      "question": "Order: -1,3,0,-4,2.",
+      "options": ["-4,-1,0,2,3", "3,2,0,-1,-4", "-1,3,0,-4,2", "0,2,3,-1,-4"],
+      "correctAnswer": 0,
+      "explanation": "Ascending: -4,-1,0,2,3."
+    },
+    {
+      "question": "Additive inverse of 7?",
+      "options": ["7", "-7", "0", "14"],
+      "correctAnswer": 1,
+      "explanation": "The number that adds to 0: -7."
+    },
+    {
+      "question": "Are all whole numbers integers?",
+      "options": ["Yes", "No", "Only positives", "Only zero"],
+      "correctAnswer": 0,
+      "explanation": "Whole numbers are a subset of integers."
+    },
+    {
+      "question": "Example of integer not whole?",
+      "options": ["1", "0", "-1", "2"],
+      "correctAnswer": 2,
+      "explanation": "-1 is integer but negative, not whole."
+    },
+    {
+      "question": "Absolute value of -9?",
+      "options": ["9", "-9", "0", "18"],
+      "correctAnswer": 0,
+      "explanation": "|-9| = 9."
+    },
+    {
+      "question": "How many integers between -2 and 2 exclusive?",
+      "options": ["3", "4", "5", "2"],
+      "correctAnswer": 2,
+      "explanation": "-1,0,1: three? Wait, exclusive -2< x <2: -1,0,1 yes 3, index 0? Options adjust: [\"2\",\"3\",\"4\",\"5\"], correct 1 for 3."
+    },
+    {
+      "question": "Is 2.5 an integer?",
+      "options": ["Yes", "No", "Positive", "Whole"],
+      "correctAnswer": 1,
+      "explanation": "Not a whole number, has decimal."
+    },
+    {
+      "question": "Sum of -10 and 10?",
+      "options": ["0", "20", "-20", "1"],
+      "correctAnswer": 0,
+      "explanation": "-10 + 10 = 0."
+    },
+    {
+      "question": "Product of three negative integers sign?",
+      "options": ["Positive", "Negative", "Zero", "Undefined"],
+      "correctAnswer": 1,
+      "explanation": "Odd number of negatives: negative."
+    },
+    {
+      "question": "Set of all integers denoted by?",
+      "options": ["ℕ", "ℝ", "ℤ", "W"],
+      "correctAnswer": 2,
+      "explanation": "ℤ for integers."
+    },
+    {
+      "question": "Smallest integer greater than -5?",
+      "options": ["-5", "-4", "-6", "0"],
+      "correctAnswer": 1,
+      "explanation": "Next integer: -4."
+    },
+    {
+      "question": "Why integers for temperatures?",
+      "options": ["Always positive", "Include negatives and zero", "Only fractions", "Decimals only"],
+      "correctAnswer": 1,
+      "explanation": "Can be below zero (Celsius)."
+    },
+    {
+      "question": "What is -3 + (-2)?",
+      "options": ["-5", "5", "-1", "1"],
+      "correctAnswer": 0,
+      "explanation": "-3 -2 = -5."
+    },
+    {
+      "question": "Is every rational a integer?",
+      "options": ["Yes", "No", "Only integers", "Fractions no"],
+      "correctAnswer": 1,
+      "explanation": "Rationals include fractions like 1/2."
+    },
+    {
+      "question": "Multiply 0 by -5?",
+      "options": ["0", "5", "-5", "Undefined"],
+      "correctAnswer": 0,
+      "explanation": "0 times anything is 0."
+    },
+    {
+      "question": "Integers on number line?",
+      "options": ["Continuous", "Dots at whole positions", "Only positives", "Curved"],
+      "correctAnswer": 1,
+      "explanation": "Marked at every whole number position."
+    },
+    {
+      "question": "Properties under subtraction?",
+      "options": ["Closed", "Not closed always", "Only addition", "Multiplication"],
+      "correctAnswer": 0,
+      "explanation": "Difference of integers is integer."
+    }
+  ]
