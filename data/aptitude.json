@@ -1,152 +1,146 @@
 [
   {
-    "question": "Which of the following is the smallest natural number?",
-    "options": ["0", "1", "2", "3"],
-    "correctAnswer": 1,
-    "explanation": "The set of natural numbers starts from 1, so 1 is the smallest natural number."
+    "question": "If 5x + 3 = 23, what is the value of x?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": 2,
+    "explanation": "5x + 3 = 23 => 5x = 20 => x = 4."
   },
   {
-    "question": "Which of the following numbers is NOT a natural number?",
-    "options": ["5", "0", "12", "25"],
+    "question": "What is 20% of 150?",
+    "options": ["20", "30", "25", "35"],
     "correctAnswer": 1,
-    "explanation": "Natural numbers start from 1, so 0 is not a natural number."
+    "explanation": "20% of 150 = 0.20 × 150 = 30."
   },
   {
-    "question": "What is the smallest whole number?",
-    "options": ["0", "1", "2", "3"],
+    "question": "A and B are in the ratio 3:4. If their total is 28, what is A?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": 1,
+    "explanation": "Total parts = 3 + 4 = 7. A = (3/7) × 28 = 12."
+  },
+  {
+    "question": "Simple interest on a principal of 1000 at 5% per annum for 2 years is:",
+    "options": ["100", "150", "200", "250"],
     "correctAnswer": 0,
-    "explanation": "Whole numbers start from 0 and include all natural numbers."
+    "explanation": "Simple interest = P × R × T / 100 = 1000 × 5 × 2 / 100 = 100."
   },
   {
-    "question": "Which of the following represents the set of whole numbers?",
-    "options": ["{1,2,3,...}", "{0,1,2,3,...}", "{-1,0,1,2,...}", "{-3,-2,-1,0,1,...}"],
+    "question": "A can do a job in 10 days and B in 15 days. How long will they take together?",
+    "options": ["5", "6", "7", "8"],
     "correctAnswer": 1,
-    "explanation": "Whole numbers include 0 and all natural numbers."
+    "explanation": "Combined rate = 1/10 + 1/15 = 1/6, so time = 6 days."
   },
   {
-    "question": "Which number is an integer but not a whole number?",
-    "options": ["2", "0", "-3", "4"],
+    "question": "A car covers 180 km in 3 hours. What is its average speed?",
+    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
     "correctAnswer": 2,
-    "explanation": "Negative numbers like -3 are integers but not whole numbers."
+    "explanation": "Speed = distance / time = 180 / 3 = 60 km/h."
   },
   {
-    "question": "The set of integers includes:",
-    "options": ["Only positive numbers", "Positive and negative numbers including 0", "Only negative numbers", "Only whole numbers"],
+    "question": "If a commodity costs 200 and is sold at 250, what is the profit percent?",
+    "options": ["10%", "20%", "25%", "30%"],
+    "correctAnswer": 2,
+    "explanation": "Profit = 50. Profit% = (50/200) × 100 = 25%."
+  },
+  {
+    "question": "The average of five numbers 10, 12, 15, 17 and x is 13. Find x.",
+    "options": ["9", "11", "13", "15"],
     "correctAnswer": 1,
-    "explanation": "Integers include positive numbers, negative numbers, and zero."
+    "explanation": "Sum = average × 5 = 65. So 10+12+15+17+x = 65 => x = 11."
   },
   {
-    "question": "Which of the following is NOT an integer?",
-    "options": ["-2", "0", "3.5", "7"],
+    "question": "What is the angle between the hour and minute hands of a clock at 3:00?",
+    "options": ["0°", "60°", "90°", "120°"],
     "correctAnswer": 2,
-    "explanation": "3.5 is not an integer because it is a decimal number."
+    "explanation": "At 3:00 the minute hand is at 12 and hour hand at 3; angle = 90°."
   },
   {
-    "question": "Which symbol represents the set of integers?",
-    "options": ["N", "W", "Z", "Q"],
-    "correctAnswer": 2,
-    "explanation": "The letter Z is used to denote the set of integers."
-  },
-  {
-    "question": "What is the successor of 99?",
-    "options": ["98", "99", "100", "101"],
-    "correctAnswer": 2,
-    "explanation": "Successor of a number means the next number, so 99 + 1 = 100."
-  },
-  {
-    "question": "What is the predecessor of 350?",
-    "options": ["349", "351", "352", "348"],
-    "correctAnswer": 0,
-    "explanation": "Predecessor means the number before it, so 350 - 1 = 349."
-  },
-  {
-    "question": "Which of the following statements is TRUE?",
-    "options": ["Every whole number is a natural number", "Every natural number is a whole number", "Every integer is a natural number", "All negative numbers are whole numbers"],
+    "question": "If a single card is drawn from a standard 52-card deck, the probability of drawing an Ace is:",
+    "options": ["1/52", "1/13", "1/4", "1/26"],
     "correctAnswer": 1,
-    "explanation": "All natural numbers are included in whole numbers, but 0 makes whole numbers larger."
+    "explanation": "There are 4 Aces out of 52 cards, probability = 4/52 = 1/13."
   },
   {
-    "question": "Which of the following is a negative integer?",
-    "options": ["0", "3", "-5", "5"],
-    "correctAnswer": 2,
-    "explanation": "Negative integers are less than zero, such as -5."
-  },
-  {
-    "question": "Which integer lies between -2 and 0?",
-    "options": ["-1", "1", "2", "-3"],
-    "correctAnswer": 0,
-    "explanation": "-1 is between -2 and 0 on the number line."
-  },
-  {
-    "question": "The sum of two negative integers is always:",
-    "options": ["Positive", "Negative", "Zero", "Undefined"],
-    "correctAnswer": 1,
-    "explanation": "Adding two negative integers results in a negative integer."
-  },
-  {
-    "question": "The additive inverse of 7 is:",
-    "options": ["-7", "7", "0", "1"],
-    "correctAnswer": 0,
-    "explanation": "The additive inverse of a number is its negative."
-  },
-  {
-    "question": "The additive inverse of -12 is:",
-    "options": ["-12", "0", "12", "1"],
-    "correctAnswer": 2,
-    "explanation": "The additive inverse of -12 is 12, because -12 + 12 = 0."
-  },
-  {
-    "question": "Which of the following is true for every integer n?",
-    "options": ["n + 0 = 0", "n + 0 = n", "n - n = n", "0 - n = n"],
-    "correctAnswer": 1,
-    "explanation": "Adding zero to any integer gives the same integer."
-  },
-  {
-    "question": "Which of the following is NOT a property of addition of integers?",
-    "options": ["Closure", "Commutativity", "Associativity", "Division"],
+    "question": "The least common multiple (LCM) of 12 and 18 is:",
+    "options": ["6", "12", "18", "36"],
     "correctAnswer": 3,
-    "explanation": "Division is not a property of addition."
+    "explanation": "Prime factors: 12 = 2^2×3, 18 = 2×3^2; LCM = 2^2×3^2 = 36."
   },
   {
-    "question": "If you multiply a negative number by a positive number, the result is:",
-    "options": ["Positive", "Negative", "Zero", "Undefined"],
-    "correctAnswer": 1,
-    "explanation": "Product of a negative and a positive number is negative."
-  },
-  {
-    "question": "Which integer is neither positive nor negative?",
-    "options": ["1", "0", "-1", "2"],
-    "correctAnswer": 1,
-    "explanation": "Zero is neither positive nor negative."
-  },
-  {
-    "question": "What is the result of (-8) + 5?",
-    "options": ["13", "-3", "3", "-13"],
-    "correctAnswer": 1,
-    "explanation": "Adding 5 to -8 gives -3."
-  },
-  {
-    "question": "What is (-6) × (-4)?",
-    "options": ["24", "-24", "10", "0"],
-    "correctAnswer": 0,
-    "explanation": "Multiplying two negative integers results in a positive number."
-  },
-  {
-    "question": "Which number line representation is correct?",
-    "options": ["Negative numbers are on the right", "Positive numbers are on the left", "Zero is at the center", "Both 1 and -1 are on the same side"],
+    "question": "The greatest common divisor (GCD) of 24 and 36 is:",
+    "options": ["6", "8", "12", "18"],
     "correctAnswer": 2,
-    "explanation": "Zero is at the center, with negative numbers on the left and positive on the right."
+    "explanation": "Common factors: 24 = 2^3×3, 36 = 2^2×3^2; GCD = 2^2×3 = 12."
   },
   {
-    "question": "If a + b = 0, then b is called:",
-    "options": ["Additive inverse of a", "Multiplicative inverse of a", "Zero element", "Positive number"],
+    "question": "Compound interest on 1000 at 10% for one year (compounded annually) is:",
+    "options": ["90", "100", "110", "120"],
+    "correctAnswer": 1,
+    "explanation": "Amount = 1000 × 1.10 = 1100, CI = 1100 - 1000 = 100."
+  },
+  {
+    "question": "Find the next number in the series: 2, 4, 8, 16, ...",
+    "options": ["20", "24", "30", "32"],
+    "correctAnswer": 3,
+    "explanation": "This is a geometric sequence ×2 each time; next = 16 × 2 = 32."
+  },
+  {
+    "question": "In how many ways can the letters A, B and C be arranged?",
+    "options": ["3", "6", "9", "12"],
+    "correctAnswer": 1,
+    "explanation": "Number of permutations of 3 distinct items = 3! = 6."
+  },
+  {
+    "question": "Which is greater: 0.2 or 1/6?",
+    "options": ["0.2", "1/6", "Equal", "Cannot say"],
     "correctAnswer": 0,
-    "explanation": "If a + b = 0, b is the additive inverse of a."
+    "explanation": "0.2 = 1/5 = 0.2; 1/6 ≈ 0.1667. So 0.2 is greater."
   },
   {
-    "question": "Which of the following numbers belongs to all three sets: natural, whole, and integers?",
-    "options": ["-1", "0", "1", "2"],
+    "question": "If 5 men can complete a task in 10 days, how many days will 10 men take (assuming same daily work)?",
+    "options": ["4", "5", "6", "8"],
+    "correctAnswer": 1,
+    "explanation": "Work ∝ men × days. 5×10 = 10×days => days = 5."
+  },
+  {
+    "question": "A mixture has milk and water in ratio 3:2. If total is 25 liters, how many liters of milk?",
+    "options": ["10", "12", "15", "18"],
     "correctAnswer": 2,
-    "explanation": "1 is common to all three sets: natural, whole, and integers."
+    "explanation": "Milk part = 3/(3+2) × 25 = 3/5 × 25 = 15 liters."
+  },
+  {
+    "question": "A is twice as old as B. If A is 30 years old, what is B's age?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": 1,
+    "explanation": "If A = 2×B and A = 30, then B = 30 / 2 = 15."
+  },
+  {
+    "question": "If today is Monday, what day will it be after 100 days?",
+    "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+    "correctAnswer": 1,
+    "explanation": "100 mod 7 = 2, so 2 days after Monday is Wednesday."
+  },
+  {
+    "question": "A person faces North, turns right 90°, then right 90° again. Which direction does he face now?",
+    "options": ["North", "East", "South", "West"],
+    "correctAnswer": 2,
+    "explanation": "North → right 90° = East → right 90° = South."
+  },
+  {
+    "question": "John's mother is Lisa. Lisa's brother is Mark. Mark is Tom's father. How is Tom related to John?",
+    "options": ["Brother", "Uncle", "Cousin", "Nephew"],
+    "correctAnswer": 2,
+    "explanation": "Lisa and Mark are siblings; Mark's son Tom is John's cousin."
+  },
+  {
+    "question": "If a value rises from 200 to 250, what is the percent increase?",
+    "options": ["20%", "25%", "30%", "35%"],
+    "correctAnswer": 1,
+    "explanation": "Increase = 50; percent increase = (50/200) × 100 = 25%."
+  },
+  {
+    "question": "What is the decimal value of binary 1010?",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = 1×2^3 + 0×2^2 + 1×2^1 + 0×2^0 = 8 + 0 + 2 + 0 = 10."
   }
 ]
