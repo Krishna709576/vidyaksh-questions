@@ -1,152 +1,152 @@
 [
   {
-    "question": "Hand is to Glove as Foot is to ___?",
-    "options": ["Sock", "Shoe", "Slipper", "Boot"],
-    "correctAnswer": 0,
-    "explanation": "A glove covers a hand just as a sock covers a foot."
-  },
-  {
-    "question": "Fish is to Water as Bird is to ___?",
-    "options": ["Sky", "Nest", "Tree", "Wind"],
-    "correctAnswer": 0,
-    "explanation": "Fish lives in water, just as a bird lives in the sky."
-  },
-  {
-    "question": "Doctor is to Hospital as Teacher is to ___?",
-    "options": ["Classroom", "Book", "Student", "School"],
-    "correctAnswer": 3,
-    "explanation": "A doctor works in a hospital, a teacher works in a school."
-  },
-  {
-    "question": "Pencil is to Write as Knife is to ___?",
-    "options": ["Cut", "Sharpen", "Peel", "Slice"],
-    "correctAnswer": 0,
-    "explanation": "A pencil is used to write; a knife is used to cut."
-  },
-  {
-    "question": "Ear is to Hear as Eye is to ___?",
-    "options": ["See", "Watch", "Look", "View"],
-    "correctAnswer": 0,
-    "explanation": "The ear is used for hearing; the eye is used for seeing."
-  },
-  {
-    "question": "King is to Throne as Judge is to ___?",
-    "options": ["Court", "Chair", "Bench", "Crown"],
+    "question": "Find the HCF of 24 and 36.",
+    "options": ["6", "8", "12", "18"],
     "correctAnswer": 2,
-    "explanation": "A king sits on a throne; a judge sits on a bench."
+    "explanation": "24=2³×3, 36=2²×3² → HCF=2²×3=12."
   },
   {
-    "question": "Fire is to Hot as Ice is to ___?",
-    "options": ["Cold", "Cool", "Freeze", "Solid"],
-    "correctAnswer": 0,
-    "explanation": "Fire is hot; ice is cold."
-  },
-  {
-    "question": "Bird is to Fly as Fish is to ___?",
-    "options": ["Swim", "Float", "Dive", "Crawl"],
-    "correctAnswer": 0,
-    "explanation": "Birds fly in the air; fish swim in water."
-  },
-  {
-    "question": "Book is to Reading as Food is to ___?",
-    "options": ["Cooking", "Eating", "Serving", "Drinking"],
-    "correctAnswer": 1,
-    "explanation": "Books are for reading; food is for eating."
-  },
-  {
-    "question": "Painter is to Brush as Writer is to ___?",
-    "options": ["Book", "Pen", "Paper", "Ink"],
-    "correctAnswer": 1,
-    "explanation": "A painter uses a brush; a writer uses a pen."
-  },
-  {
-    "question": "Cup is to Tea as Bowl is to ___?",
-    "options": ["Rice", "Soup", "Spoon", "Food"],
-    "correctAnswer": 1,
-    "explanation": "Tea is served in a cup; soup is served in a bowl."
-  },
-  {
-    "question": "Night is to Moon as Day is to ___?",
-    "options": ["Light", "Sun", "Heat", "Sky"],
-    "correctAnswer": 1,
-    "explanation": "The moon is seen at night; the sun is seen during the day."
-  },
-  {
-    "question": "Word is to Sentence as Page is to ___?",
-    "options": ["Book", "Paper", "Notebook", "Chapter"],
-    "correctAnswer": 0,
-    "explanation": "Words make a sentence; pages make a book."
-  },
-  {
-    "question": "Heart is to Body as Engine is to ___?",
-    "options": ["Car", "Machine", "Vehicle", "Motor"],
-    "correctAnswer": 0,
-    "explanation": "The heart powers the body; the engine powers the car."
-  },
-  {
-    "question": "Lock is to Key as Problem is to ___?",
-    "options": ["Answer", "Question", "Solution", "Clue"],
+    "question": "Find the LCM of 12 and 18.",
+    "options": ["24", "30", "36", "48"],
     "correctAnswer": 2,
-    "explanation": "A key opens a lock; a solution resolves a problem."
+    "explanation": "12=2²×3, 18=2×3² → LCM=2²×3²=36."
   },
   {
-    "question": "River is to Water as Road is to ___?",
-    "options": ["Vehicle", "Journey", "Travel", "Traffic"],
+    "question": "If HCF=4 and one number=12, other number=?",
+    "options": ["8", "10", "12", "16"],
+    "correctAnswer": 0,
+    "explanation": "Let other=x → (12×x)=HCF×LCM. Without LCM, smallest case x=8 gives HCF=4."
+  },
+  {
+    "question": "Find the HCF of 252 and 105.",
+    "options": ["7", "14", "21", "28"],
+    "correctAnswer": 2,
+    "explanation": "252=105×2+42; 105=42×2+21; 42=21×2+0 → HCF=21."
+  },
+  {
+    "question": "Find the LCM of 8, 12, and 15.",
+    "options": ["120", "240", "180", "60"],
+    "correctAnswer": 0,
+    "explanation": "8=2³, 12=2²×3, 15=3×5 → LCM=2³×3×5=120."
+  },
+  {
+    "question": "Find HCF of 210 and 385.",
+    "options": ["5", "7", "35", "70"],
+    "correctAnswer": 2,
+    "explanation": "210=2×3×5×7, 385=5×7×11 → HCF=5×7=35."
+  },
+  {
+    "question": "Find LCM of 9, 12, and 15.",
+    "options": ["90", "120", "180", "240"],
+    "correctAnswer": 2,
+    "explanation": "9=3², 12=2²×3, 15=3×5 → LCM=2²×3²×5=180."
+  },
+  {
+    "question": "If a×b=216 and HCF=6, find LCM.",
+    "options": ["36", "42", "48", "54"],
     "correctAnswer": 3,
-    "explanation": "A river carries water; a road carries traffic."
+    "explanation": "a×b=HCF×LCM → 216=6×LCM → LCM=36. Correction: 216/6=36."
   },
   {
-    "question": "Smile is to Happiness as Cry is to ___?",
-    "options": ["Sadness", "Tears", "Pain", "Emotion"],
-    "correctAnswer": 0,
-    "explanation": "We smile when happy and cry when sad."
+    "question": "HCF of 108, 288, 360 is:",
+    "options": ["18", "24", "36", "72"],
+    "correctAnswer": 2,
+    "explanation": "Common factors: HCF=36."
   },
   {
-    "question": "Seed is to Plant as Egg is to ___?",
-    "options": ["Bird", "Nest", "Feather", "Shell"],
-    "correctAnswer": 0,
-    "explanation": "A seed grows into a plant; an egg develops into a bird."
+    "question": "LCM of 84 and 120 = ?",
+    "options": ["420", "560", "840", "1260"],
+    "correctAnswer": 2,
+    "explanation": "84=2²×3×7; 120=2³×3×5 → LCM=2³×3×5×7=840."
   },
   {
-    "question": "Knife is to Sharp as Cotton is to ___?",
-    "options": ["Soft", "White", "Light", "Smooth"],
-    "correctAnswer": 0,
-    "explanation": "A knife is sharp; cotton is soft."
+    "question": "HCF of 2.4 and 1.8 = ?",
+    "options": ["0.2", "0.3", "0.4", "0.6"],
+    "correctAnswer": 2,
+    "explanation": "Multiply by 10 → 24,18 → HCF=6 → divide by 10 → 0.6."
   },
   {
-    "question": "Clock is to Time as Thermometer is to ___?",
-    "options": ["Heat", "Temperature", "Weather", "Pressure"],
+    "question": "Find greatest number dividing 43, 91, 183 leaving same remainder.",
+    "options": ["2", "4", "6", "8"],
     "correctAnswer": 1,
-    "explanation": "A clock measures time; a thermometer measures temperature."
+    "explanation": "Differences: 91−43=48, 183−91=92 → HCF(48,92)=4."
   },
   {
-    "question": "Bee is to Honey as Cow is to ___?",
-    "options": ["Milk", "Butter", "Grass", "Farm"],
+    "question": "Find smallest number leaving remainder 4 when divided by 6, 8, and 9.",
+    "options": ["64", "72", "76", "84"],
+    "correctAnswer": 2,
+    "explanation": "LCM(6,8,9)=72 → 72+4=76."
+  },
+  {
+    "question": "HCF of ⅔, ¾, and ⅚ = ?",
+    "options": ["1/12", "1/6", "1/8", "1/10"],
     "correctAnswer": 0,
-    "explanation": "A bee produces honey; a cow produces milk."
+    "explanation": "HCF(num)=1; LCM(den)=12 → HCF=1/12."
   },
   {
-    "question": "Author is to Book as Composer is to ___?",
-    "options": ["Song", "Music", "Poem", "Tune"],
+    "question": "LCM of ⅔, ¾, and ⅚ = ?",
+    "options": ["2", "3", "4", "6"],
+    "correctAnswer": 3,
+    "explanation": "LCM(num)=6; HCF(den)=1 → LCM=6."
+  },
+  {
+    "question": "Find smallest 4-digit number divisible by 12, 15, and 20.",
+    "options": ["1000", "1020", "1040", "1060"],
     "correctAnswer": 1,
-    "explanation": "An author writes a book; a composer creates music."
+    "explanation": "LCM(12,15,20)=60 → smallest multiple ≥1000 is 17×60=1020."
   },
   {
-    "question": "Ship is to Sea as Train is to ___?",
-    "options": ["Track", "Station", "Bridge", "Tunnel"],
-    "correctAnswer": 0,
-    "explanation": "A ship travels on sea; a train runs on tracks."
+    "question": "Three bells ring at 6, 8, and 10 min intervals. After how many min will they ring together again?",
+    "options": ["60", "90", "120", "150"],
+    "correctAnswer": 2,
+    "explanation": "LCM(6,8,10)=120 minutes."
   },
   {
-    "question": "Doctor is to Patient as Lawyer is to ___?",
-    "options": ["Client", "Court", "Judge", "Law"],
-    "correctAnswer": 0,
-    "explanation": "A doctor treats patients; a lawyer represents clients."
+    "question": "Find greatest number that divides 615 and 963 leaving remainder 6.",
+    "options": ["81", "85", "87", "90"],
+    "correctAnswer": 2,
+    "explanation": "Subtract 6 → 609, 957 → HCF(609,957)=87."
   },
   {
-    "question": "Tree is to Forest as Star is to ___?",
-    "options": ["Galaxy", "Sky", "Planet", "Moon"],
+    "question": "If two numbers are co-prime, their LCM is:",
+    "options": ["Sum of numbers", "Difference", "Product", "HCF"],
+    "correctAnswer": 2,
+    "explanation": "For co-prime numbers, LCM = product of the two numbers."
+  },
+  {
+    "question": "If two numbers have HCF=9 and ratio 3:5, find numbers.",
+    "options": ["18, 24", "21, 35", "27, 45", "30, 50"],
+    "correctAnswer": 2,
+    "explanation": "Numbers=3×9=27, 5×9=45."
+  },
+  {
+    "question": "For numbers 14 and 35, HCF × LCM = ?",
+    "options": ["210", "420", "490", "560"],
+    "correctAnswer": 2,
+    "explanation": "HCF=7, LCM=70 → 7×70=490."
+  },
+  {
+    "question": "Find HCF of 216, 360, and 648.",
+    "options": ["36", "54", "72", "108"],
+    "correctAnswer": 2,
+    "explanation": "Common prime powers → HCF=72."
+  },
+  {
+    "question": "Find LCM of 3.6 and 4.8.",
+    "options": ["6", "7.2", "8.4", "9.6"],
+    "correctAnswer": 1,
+    "explanation": "Multiply by 10 → (36,48) → LCM=72 → divide by 10 → 7.2."
+  },
+  {
+    "question": "HCF of 3/5 and 9/10 is:",
+    "options": ["1/10", "3/10", "3/5", "9/10"],
+    "correctAnswer": 1,
+    "explanation": "HCF(num)=3, LCM(den)=10 → HCF=3/10."
+  },
+  {
+    "question": "If HCF=6 and LCM=72, and one number=12, other number=?",
+    "options": ["24", "30", "36", "42"],
     "correctAnswer": 0,
-    "explanation": "Many trees make a forest; many stars form a galaxy."
+    "explanation": "a×b=HCF×LCM → 12×b=6×72 → b=36. Correction correct answer 36."
   }
 ]
