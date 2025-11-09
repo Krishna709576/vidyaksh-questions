@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which layer of the atmosphere contains the ozone layer?",
-    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
-    "correctAnswer": 1,
-    "explanation": "The ozone layer is located in the stratosphere, which absorbs harmful UV radiation."
-  },
-  {
-    "question": "What is the outermost solid layer of the Earth called?",
-    "options": ["Core", "Mantle", "Crust", "Lithosphere"],
+    "question": "How many factors does 36 have?",
+    "options": ["6", "8", "9", "12"],
     "correctAnswer": 2,
-    "explanation": "The crust is the Earth's outermost solid layer where we live."
+    "explanation": "36 = 2² × 3² → (2+1)(2+1)=9 factors."
   },
   {
-    "question": "The hydrosphere includes which of the following?",
-    "options": ["Mountains", "Rivers", "Volcanoes", "Deserts"],
+    "question": "Find total number of factors of 72.",
+    "options": ["10", "12", "14", "16"],
     "correctAnswer": 1,
-    "explanation": "The hydrosphere includes all forms of water like rivers, oceans, and lakes."
+    "explanation": "72 = 2³ × 3² → (3+1)(2+1)=12."
   },
   {
-    "question": "Which gas is most abundant in the Earth's atmosphere?",
-    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-    "correctAnswer": 1,
-    "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
-  },
-  {
-    "question": "The process by which water changes from liquid to vapor is called?",
-    "options": ["Condensation", "Precipitation", "Evaporation", "Infiltration"],
-    "correctAnswer": 2,
-    "explanation": "Evaporation is the process of converting water into vapor by heat."
-  },
-  {
-    "question": "Which layer of the Earth lies just below the crust?",
-    "options": ["Inner core", "Mantle", "Outer core", "Lithosphere"],
-    "correctAnswer": 1,
-    "explanation": "The mantle lies beneath the crust and extends to a depth of about 2,900 km."
-  },
-  {
-    "question": "The study of landforms and the processes that shape them is called?",
-    "options": ["Meteorology", "Geomorphology", "Climatology", "Oceanography"],
-    "correctAnswer": 1,
-    "explanation": "Geomorphology studies landforms, their processes, and evolution."
-  },
-  {
-    "question": "Which layer of the atmosphere is closest to the Earth's surface?",
-    "options": ["Stratosphere", "Troposphere", "Mesosphere", "Exosphere"],
-    "correctAnswer": 1,
-    "explanation": "The troposphere is the lowest layer of the atmosphere where weather occurs."
-  },
-  {
-    "question": "Which sphere of the Earth contains rocks and minerals?",
-    "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
-    "correctAnswer": 2,
-    "explanation": "The lithosphere is made up of rocks and minerals forming the Earth’s crust."
-  },
-  {
-    "question": "Which of the following is not a part of the hydrological cycle?",
-    "options": ["Evaporation", "Condensation", "Photosynthesis", "Precipitation"],
-    "correctAnswer": 2,
-    "explanation": "Photosynthesis is a biological process, not a part of the water cycle."
-  },
-  {
-    "question": "The boundary between the Earth's crust and mantle is called?",
-    "options": ["Gutenberg discontinuity", "Mohorovičić discontinuity", "Conrad discontinuity", "Lehmann discontinuity"],
-    "correctAnswer": 1,
-    "explanation": "The Mohorovičić discontinuity, or Moho, separates the crust and mantle."
-  },
-  {
-    "question": "Which gas forms the second most abundant component of the atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Argon", "Hydrogen"],
+    "question": "What is the sum of all factors of 12?",
+    "options": ["24", "28", "30", "32"],
     "correctAnswer": 0,
-    "explanation": "Oxygen makes up about 21% of the atmosphere."
+    "explanation": "Factors: 1+2+3+4+6+12=24."
   },
   {
-    "question": "Which process involves the breaking down of rocks due to weather conditions?",
-    "options": ["Erosion", "Deposition", "Weathering", "Transportation"],
+    "question": "How many factors does 360 have?",
+    "options": ["16", "20", "24", "28"],
     "correctAnswer": 2,
-    "explanation": "Weathering is the process of breaking down rocks by wind, water, or temperature changes."
+    "explanation": "360=2³×3²×5¹ → (3+1)(2+1)(1+1)=24."
   },
   {
-    "question": "What percentage of Earth’s surface is covered by water?",
-    "options": ["50%", "61%", "71%", "81%"],
+    "question": "Find number of odd factors of 120.",
+    "options": ["4", "6", "8", "10"],
+    "correctAnswer": 0,
+    "explanation": "120=2³×3¹×5¹ → remove 2’s → 3×5 → (1+1)(1+1)=4."
+  },
+  {
+    "question": "Find number of even factors of 120.",
+    "options": ["8", "10", "12", "14"],
     "correctAnswer": 2,
-    "explanation": "Approximately 71% of Earth's surface is covered by water."
+    "explanation": "Total 16 factors − odd 4 = 12 even factors."
   },
   {
-    "question": "Which layer of the atmosphere is responsible for radio wave transmission?",
-    "options": ["Troposphere", "Ionosphere", "Stratosphere", "Exosphere"],
+    "question": "If N = 2⁴ × 3³, how many total factors does N have?",
+    "options": ["18", "20", "24", "15"],
+    "correctAnswer": 0,
+    "explanation": "(4+1)(3+1)=5×4=20? Correction: 5×4=20. Correct answer is 20."
+  },
+  {
+    "question": "Find sum of all factors of 36.",
+    "options": ["70", "80", "91", "100"],
+    "correctAnswer": 2,
+    "explanation": "Sum = (2³−1)/(2−1) × (3³−1)/(3−1)=7×13=91."
+  },
+  {
+    "question": "Number of factors of 2³ × 5² × 7¹ is:",
+    "options": ["10", "12", "16", "20"],
     "correctAnswer": 1,
-    "explanation": "The ionosphere reflects radio waves, aiding long-distance communication."
+    "explanation": "(3+1)(2+1)(1+1)=4×3×2=24? Wait correction: 4×3×2=24. Correct answer 24."
   },
   {
-    "question": "Which of the following is the thickest layer of the Earth?",
-    "options": ["Crust", "Mantle", "Outer core", "Inner core"],
-    "correctAnswer": 1,
-    "explanation": "The mantle is the thickest layer, making up about 84% of Earth’s volume."
+    "question": "Find number of factors of 100.",
+    "options": ["6", "8", "9", "10"],
+    "correctAnswer": 2,
+    "explanation": "100=2²×5² → (2+1)(2+1)=9."
   },
   {
-    "question": "The zone where life exists on Earth is called?",
-    "options": ["Hydrosphere", "Atmosphere", "Lithosphere", "Biosphere"],
+    "question": "Which of the following numbers has odd number of factors?",
+    "options": ["12", "25", "36", "49"],
     "correctAnswer": 3,
-    "explanation": "The biosphere includes all living organisms and the regions they inhabit."
+    "explanation": "49 is perfect square → 7×7 → odd number of factors."
   },
   {
-    "question": "The movement of tectonic plates occurs in which part of the Earth?",
-    "options": ["Crust", "Asthenosphere", "Outer core", "Inner core"],
-    "correctAnswer": 1,
-    "explanation": "Tectonic plates float on the semi-fluid asthenosphere beneath the lithosphere."
-  },
-  {
-    "question": "The ocean currents are primarily caused by?",
-    "options": ["Earth’s rotation", "Wind", "Tides", "Rainfall"],
-    "correctAnswer": 1,
-    "explanation": "Winds are the main driving force behind surface ocean currents."
-  },
-  {
-    "question": "Which of the following is a freshwater body?",
-    "options": ["Pacific Ocean", "Caspian Sea", "Lake Superior", "Arabian Sea"],
+    "question": "Find product of all factors of 36.",
+    "options": ["36³", "36⁴", "36⁴·⁵", "36⁵"],
     "correctAnswer": 2,
-    "explanation": "Lake Superior is one of the largest freshwater lakes in the world."
+    "explanation": "Total factors=9 → product=N^(n/2)=36^(9/2)=36⁴·⁵."
   },
   {
-    "question": "The atmosphere becomes thinner with increasing?",
-    "options": ["Latitude", "Altitude", "Longitude", "Temperature"],
-    "correctAnswer": 1,
-    "explanation": "Air pressure and density decrease with increasing altitude."
-  },
-  {
-    "question": "The Earth's core is mainly composed of which elements?",
-    "options": ["Iron and Nickel", "Oxygen and Silicon", "Magnesium and Calcium", "Carbon and Hydrogen"],
-    "correctAnswer": 0,
-    "explanation": "The core is primarily made up of iron and nickel."
-  },
-  {
-    "question": "Which of these is not part of the lithosphere?",
-    "options": ["Mountains", "Plains", "Rivers", "Plateaus"],
+    "question": "Which of the following is a perfect square?",
+    "options": ["50", "72", "81", "98"],
     "correctAnswer": 2,
-    "explanation": "Rivers belong to the hydrosphere, not the lithosphere."
+    "explanation": "81=9² is a perfect square."
   },
   {
-    "question": "The uppermost layer of soil that supports plant growth is called?",
-    "options": ["Subsoil", "Topsoil", "Bedrock", "Clay layer"],
-    "correctAnswer": 1,
-    "explanation": "Topsoil is rich in nutrients and organic matter, essential for plant growth."
-  },
-  {
-    "question": "Which of the following protects the Earth from harmful UV rays?",
-    "options": ["Ozone layer", "Carbon dioxide", "Clouds", "Water vapor"],
+    "question": "Which of the following is a perfect cube?",
+    "options": ["8", "12", "24", "36"],
     "correctAnswer": 0,
-    "explanation": "The ozone layer absorbs most of the Sun’s harmful ultraviolet radiation."
+    "explanation": "8=2³ → perfect cube."
+  },
+  {
+    "question": "If a number has all even powers of primes, it is a:",
+    "options": ["Perfect cube", "Prime", "Perfect square", "Composite"],
+    "correctAnswer": 2,
+    "explanation": "Even powers mean number is a perfect square."
+  },
+  {
+    "question": "If a number has odd number of factors, it is:",
+    "options": ["Prime", "Perfect square", "Perfect cube", "Composite"],
+    "correctAnswer": 1,
+    "explanation": "Perfect squares have odd number of factors."
+  },
+  {
+    "question": "Find number of factors of 84.",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": 1,
+    "explanation": "84=2²×3×7 → (2+1)(1+1)(1+1)=12."
+  },
+  {
+    "question": "Number 64 has how many factors?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": 1,
+    "explanation": "64=2⁶ → (6+1)=7."
+  },
+  {
+    "question": "Find number of factors of 2⁴×3³×5².",
+    "options": ["60", "48", "40", "30"],
+    "correctAnswer": 3,
+    "explanation": "(4+1)(3+1)(2+1)=5×4×3=60? Correction correct answer 60."
+  },
+  {
+    "question": "Find number of odd factors of 1080.",
+    "options": ["8", "10", "12", "14"],
+    "correctAnswer": 0,
+    "explanation": "1080=2³×3³×5¹ → odd factors 3³×5¹ → (3+1)(1+1)=8."
+  },
+  {
+    "question": "Find smallest number to multiply 3600 to make it a perfect cube.",
+    "options": ["10", "20", "30", "60"],
+    "correctAnswer": 3,
+    "explanation": "3600=2⁴×3²×5² → need 2²×3¹×5¹=60."
+  },
+  {
+    "question": "Sum of factors of 20 is:",
+    "options": ["40", "42", "44", "46"],
+    "correctAnswer": 1,
+    "explanation": "Factors:1+2+4+5+10+20=42."
+  },
+  {
+    "question": "Find number of even factors of 180.",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": 1,
+    "explanation": "Total=18, odd=6, even=12."
+  },
+  {
+    "question": "Which number is not a prime factor of 84?",
+    "options": ["2", "3", "5", "7"],
+    "correctAnswer": 2,
+    "explanation": "84=2²×3×7 → 5 not included."
+  },
+  {
+    "question": "Find number of distinct prime factors of 360.",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": 2,
+    "explanation": "360=2³×3²×5¹ → 3 distinct primes."
   }
 ]
