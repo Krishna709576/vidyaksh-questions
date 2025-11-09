@@ -1,146 +1,152 @@
 [
   {
-    "question": "If 5x + 3 = 23, what is the value of x?",
-    "options": ["2", "3", "4", "5"],
+    "question": "Which of the following is a natural number?",
+    "options": ["0", "-1", "1", "-5"],
     "correctAnswer": 2,
-    "explanation": "5x + 3 = 23 => 5x = 20 => x = 4."
+    "explanation": "Natural numbers start from 1,2,3,... so 1 is a natural number."
   },
   {
-    "question": "What is 20% of 150?",
-    "options": ["20", "30", "25", "35"],
+    "question": "What is the smallest whole number?",
+    "options": ["1", "0", "-1", "2"],
     "correctAnswer": 1,
-    "explanation": "20% of 150 = 0.20 × 150 = 30."
+    "explanation": "Whole numbers start from 0,1,2,3,... hence 0 is smallest."
   },
   {
-    "question": "A and B are in the ratio 3:4. If their total is 28, what is A?",
-    "options": ["10", "12", "14", "16"],
+    "question": "Which of the following is an integer?",
+    "options": ["2.5", "3", "√2", "π"],
     "correctAnswer": 1,
-    "explanation": "Total parts = 3 + 4 = 7. A = (3/7) × 28 = 12."
+    "explanation": "Integers include negative, zero, and positive whole numbers like -2,0,1,2,3."
   },
   {
-    "question": "Simple interest on a principal of 1000 at 5% per annum for 2 years is:",
-    "options": ["100", "150", "200", "250"],
+    "question": "Which number is not a rational number?",
+    "options": ["3/4", "2", "√2", "-5/2"],
+    "correctAnswer": 2,
+    "explanation": "√2 cannot be expressed as p/q, hence it is irrational."
+  },
+  {
+    "question": "Which is the only even prime number?",
+    "options": ["2", "3", "5", "7"],
     "correctAnswer": 0,
-    "explanation": "Simple interest = P × R × T / 100 = 1000 × 5 × 2 / 100 = 100."
+    "explanation": "2 is the only even prime number."
   },
   {
-    "question": "A can do a job in 10 days and B in 15 days. How long will they take together?",
-    "options": ["5", "6", "7", "8"],
+    "question": "Which of the following are co-prime numbers?",
+    "options": ["8, 12", "9, 10", "6, 9", "15, 25"],
     "correctAnswer": 1,
-    "explanation": "Combined rate = 1/10 + 1/15 = 1/6, so time = 6 days."
+    "explanation": "HCF(9,10)=1 so they are co-prime."
   },
   {
-    "question": "A car covers 180 km in 3 hours. What is its average speed?",
-    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+    "question": "What is the place value of 5 in 4521?",
+    "options": ["5", "50", "500", "5000"],
     "correctAnswer": 2,
-    "explanation": "Speed = distance / time = 180 / 3 = 60 km/h."
+    "explanation": "Place value = 5×100 = 500."
   },
   {
-    "question": "If a commodity costs 200 and is sold at 250, what is the profit percent?",
-    "options": ["10%", "20%", "25%", "30%"],
-    "correctAnswer": 2,
-    "explanation": "Profit = 50. Profit% = (50/200) × 100 = 25%."
-  },
-  {
-    "question": "The average of five numbers 10, 12, 15, 17 and x is 13. Find x.",
-    "options": ["9", "11", "13", "15"],
+    "question": "What is the face value of 7 in 7,234?",
+    "options": ["7000", "7", "70", "700"],
     "correctAnswer": 1,
-    "explanation": "Sum = average × 5 = 65. So 10+12+15+17+x = 65 => x = 11."
+    "explanation": "Face value is the digit itself = 7."
   },
   {
-    "question": "What is the angle between the hour and minute hands of a clock at 3:00?",
-    "options": ["0°", "60°", "90°", "120°"],
-    "correctAnswer": 2,
-    "explanation": "At 3:00 the minute hand is at 12 and hour hand at 3; angle = 90°."
-  },
-  {
-    "question": "If a single card is drawn from a standard 52-card deck, the probability of drawing an Ace is:",
-    "options": ["1/52", "1/13", "1/4", "1/26"],
+    "question": "Convert (1011)₂ to decimal.",
+    "options": ["10", "11", "12", "13"],
     "correctAnswer": 1,
-    "explanation": "There are 4 Aces out of 52 cards, probability = 4/52 = 1/13."
+    "explanation": "(1×8)+(0×4)+(1×2)+(1×1)=11."
   },
   {
-    "question": "The least common multiple (LCM) of 12 and 18 is:",
-    "options": ["6", "12", "18", "36"],
+    "question": "Convert 345 (base 8) to decimal.",
+    "options": ["229", "230", "231", "228"],
+    "correctAnswer": 0,
+    "explanation": "(3×8²)+(4×8)+(5)=192+32+5=229."
+  },
+  {
+    "question": "Binary of 255 is:",
+    "options": ["111111", "1111111", "11111111", "111111111"],
+    "correctAnswer": 2,
+    "explanation": "255=2⁸−1, so 8 ones → 11111111."
+  },
+  {
+    "question": "0 is a:",
+    "options": ["Natural number", "Whole number", "Negative number", "Prime number"],
+    "correctAnswer": 1,
+    "explanation": "0 is a whole number, not natural."
+  },
+  {
+    "question": "Which number is both integer and rational?",
+    "options": ["√5", "π", "−4", "√2"],
+    "correctAnswer": 2,
+    "explanation": "−4 can be written as −4/1, hence rational and integer."
+  },
+  {
+    "question": "Which of the following is a composite number?",
+    "options": ["1", "2", "3", "4"],
     "correctAnswer": 3,
-    "explanation": "Prime factors: 12 = 2^2×3, 18 = 2×3^2; LCM = 2^2×3^2 = 36."
+    "explanation": "4=2×2, has more than two factors."
   },
   {
-    "question": "The greatest common divisor (GCD) of 24 and 36 is:",
-    "options": ["6", "8", "12", "18"],
+    "question": "Is 0.375 terminating or repeating?",
+    "options": ["Terminating", "Repeating", "Non-decimal", "Undefined"],
+    "correctAnswer": 0,
+    "explanation": "0.375=3/8, denominator has only 2s → terminating."
+  },
+  {
+    "question": "Which of the following is an irrational number?",
+    "options": ["√3", "1/3", "0.5", "−2"],
+    "correctAnswer": 0,
+    "explanation": "√3 cannot be expressed as p/q."
+  },
+  {
+    "question": "Which is not a prime number?",
+    "options": ["19", "23", "25", "29"],
     "correctAnswer": 2,
-    "explanation": "Common factors: 24 = 2^3×3, 36 = 2^2×3^2; GCD = 2^2×3 = 12."
+    "explanation": "25=5×5 is composite."
   },
   {
-    "question": "Compound interest on 1000 at 10% for one year (compounded annually) is:",
-    "options": ["90", "100", "110", "120"],
-    "correctAnswer": 1,
-    "explanation": "Amount = 1000 × 1.10 = 1100, CI = 1100 - 1000 = 100."
+    "question": "Co-prime pair among the following is:",
+    "options": ["8, 14", "12, 18", "15, 28", "21, 22"],
+    "correctAnswer": 3,
+    "explanation": "HCF(21,22)=1 → co-prime."
   },
   {
-    "question": "Find the next number in the series: 2, 4, 8, 16, ...",
+    "question": "Find the next number in sequence: 2, 4, 8, 16, ?",
     "options": ["20", "24", "30", "32"],
     "correctAnswer": 3,
-    "explanation": "This is a geometric sequence ×2 each time; next = 16 × 2 = 32."
+    "explanation": "Each term ×2 → 32."
   },
   {
-    "question": "In how many ways can the letters A, B and C be arranged?",
-    "options": ["3", "6", "9", "12"],
+    "question": "Every natural number is also a:",
+    "options": ["Whole number", "Integer", "Real number", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Natural ⊂ Whole ⊂ Integer ⊂ Real."
+  },
+  {
+    "question": "Which base system uses only digits 0 and 1?",
+    "options": ["Octal", "Binary", "Decimal", "Hexadecimal"],
     "correctAnswer": 1,
-    "explanation": "Number of permutations of 3 distinct items = 3! = 6."
+    "explanation": "Binary system uses base 2 (0,1)."
   },
   {
-    "question": "Which is greater: 0.2 or 1/6?",
-    "options": ["0.2", "1/6", "Equal", "Cannot say"],
+    "question": "Find the place value of 6 in 3,652.",
+    "options": ["600", "60", "6", "6000"],
     "correctAnswer": 0,
-    "explanation": "0.2 = 1/5 = 0.2; 1/6 ≈ 0.1667. So 0.2 is greater."
+    "explanation": "6 in hundreds place → 6×100=600."
   },
   {
-    "question": "If 5 men can complete a task in 10 days, how many days will 10 men take (assuming same daily work)?",
-    "options": ["4", "5", "6", "8"],
+    "question": "Convert (1111)₂ to decimal.",
+    "options": ["15", "16", "17", "14"],
+    "correctAnswer": 0,
+    "explanation": "8+4+2+1=15."
+  },
+  {
+    "question": "Find the face value of 3 in 3,492.",
+    "options": ["3", "30", "300", "3000"],
+    "correctAnswer": 0,
+    "explanation": "Face value = 3."
+  },
+  {
+    "question": "Which number type does 0.1010010001… represent?",
+    "options": ["Rational", "Irrational", "Whole", "Natural"],
     "correctAnswer": 1,
-    "explanation": "Work ∝ men × days. 5×10 = 10×days => days = 5."
-  },
-  {
-    "question": "A mixture has milk and water in ratio 3:2. If total is 25 liters, how many liters of milk?",
-    "options": ["10", "12", "15", "18"],
-    "correctAnswer": 2,
-    "explanation": "Milk part = 3/(3+2) × 25 = 3/5 × 25 = 15 liters."
-  },
-  {
-    "question": "A is twice as old as B. If A is 30 years old, what is B's age?",
-    "options": ["10", "15", "20", "25"],
-    "correctAnswer": 1,
-    "explanation": "If A = 2×B and A = 30, then B = 30 / 2 = 15."
-  },
-  {
-    "question": "If today is Monday, what day will it be after 100 days?",
-    "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
-    "correctAnswer": 1,
-    "explanation": "100 mod 7 = 2, so 2 days after Monday is Wednesday."
-  },
-  {
-    "question": "A person faces North, turns right 90°, then right 90° again. Which direction does he face now?",
-    "options": ["North", "East", "South", "West"],
-    "correctAnswer": 2,
-    "explanation": "North → right 90° = East → right 90° = South."
-  },
-  {
-    "question": "John's mother is Lisa. Lisa's brother is Mark. Mark is Tom's father. How is Tom related to John?",
-    "options": ["Brother", "Uncle", "Cousin", "Nephew"],
-    "correctAnswer": 2,
-    "explanation": "Lisa and Mark are siblings; Mark's son Tom is John's cousin."
-  },
-  {
-    "question": "If a value rises from 200 to 250, what is the percent increase?",
-    "options": ["20%", "25%", "30%", "35%"],
-    "correctAnswer": 1,
-    "explanation": "Increase = 50; percent increase = (50/200) × 100 = 25%."
-  },
-  {
-    "question": "What is the decimal value of binary 1010?",
-    "options": ["8", "9", "10", "11"],
-    "correctAnswer": 2,
-    "explanation": "Binary 1010 = 1×2^3 + 0×2^2 + 1×2^1 + 0×2^0 = 8 + 0 + 2 + 0 = 10."
+    "explanation": "Non-terminating and non-repeating → irrational."
   }
 ]
