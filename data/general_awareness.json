@@ -1,152 +1,152 @@
 [
   {
-    "question": "How many factors does 36 have?",
-    "options": ["6", "8", "9", "12"],
+    "question": "The Earth was formed approximately how many years ago?",
+    "options": ["13.7 billion years", "10 billion years", "4.6 billion years", "2.5 billion years"],
     "correctAnswer": 2,
-    "explanation": "36 = 2² × 3² → (2+1)(2+1)=9 factors."
+    "explanation": "Modern scientific estimates place the formation of Earth at about 4.6 billion years ago.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Find total number of factors of 72.",
-    "options": ["10", "12", "14", "16"],
+    "question": "The cloud of gas and dust from which the solar system was formed is called:",
+    "options": ["Asteroid belt", "Nebula", "Galaxy", "Supernova"],
     "correctAnswer": 1,
-    "explanation": "72 = 2³ × 3² → (3+1)(2+1)=12."
+    "explanation": "According to the nebular hypothesis, the solar system formed from a rotating nebula.",
+    "difficulty": "Easy"
   },
   {
-    "question": "What is the sum of all factors of 12?",
-    "options": ["24", "28", "30", "32"],
-    "correctAnswer": 0,
-    "explanation": "Factors: 1+2+3+4+6+12=24."
-  },
-  {
-    "question": "How many factors does 360 have?",
-    "options": ["16", "20", "24", "28"],
+    "question": "Which two gases mainly composed the early solar nebula?",
+    "options": ["Oxygen and nitrogen", "Carbon dioxide and methane", "Hydrogen and helium", "Nitrogen and argon"],
     "correctAnswer": 2,
-    "explanation": "360=2³×3²×5¹ → (3+1)(2+1)(1+1)=24."
+    "explanation": "The nebula primarily consisted of hydrogen and helium, the lightest and most abundant elements.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Find number of odd factors of 120.",
-    "options": ["4", "6", "8", "10"],
-    "correctAnswer": 0,
-    "explanation": "120=2³×3¹×5¹ → remove 2’s → 3×5 → (1+1)(1+1)=4."
-  },
-  {
-    "question": "Find number of even factors of 120.",
-    "options": ["8", "10", "12", "14"],
+    "question": "The process by which small particles combined to form planets is known as:",
+    "options": ["Differentiation", "Condensation", "Accretion", "Erosion"],
     "correctAnswer": 2,
-    "explanation": "Total 16 factors − odd 4 = 12 even factors."
+    "explanation": "Accretion refers to the gradual accumulation of matter to form larger bodies like planets.",
+    "difficulty": "Easy"
   },
   {
-    "question": "If N = 2⁴ × 3³, how many total factors does N have?",
-    "options": ["18", "20", "24", "15"],
-    "correctAnswer": 0,
-    "explanation": "(4+1)(3+1)=5×4=20? Correction: 5×4=20. Correct answer is 20."
-  },
-  {
-    "question": "Find sum of all factors of 36.",
-    "options": ["70", "80", "91", "100"],
-    "correctAnswer": 2,
-    "explanation": "Sum = (2³−1)/(2−1) × (3³−1)/(3−1)=7×13=91."
-  },
-  {
-    "question": "Number of factors of 2³ × 5² × 7¹ is:",
-    "options": ["10", "12", "16", "20"],
+    "question": "Why are inner planets like Earth rocky in nature?",
+    "options": [
+      "Due to weak gravity",
+      "Because of high temperature near the Sun",
+      "Because they formed later",
+      "Due to absence of gases"
+    ],
     "correctAnswer": 1,
-    "explanation": "(3+1)(2+1)(1+1)=4×3×2=24? Wait correction: 4×3×2=24. Correct answer 24."
+    "explanation": "High temperatures near the Sun allowed only heavy materials to condense, forming rocky planets.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find number of factors of 100.",
-    "options": ["6", "8", "9", "10"],
+    "question": "The early Earth remained in a molten state mainly due to:",
+    "options": [
+      "Solar radiation alone",
+      "Chemical reactions",
+      "Accretion and radioactive decay",
+      "Atmospheric pressure"
+    ],
     "correctAnswer": 2,
-    "explanation": "100=2²×5² → (2+1)(2+1)=9."
+    "explanation": "Heat from accretion, radioactive decay, and compression kept early Earth molten.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which of the following numbers has odd number of factors?",
-    "options": ["12", "25", "36", "49"],
-    "correctAnswer": 3,
-    "explanation": "49 is perfect square → 7×7 → odd number of factors."
-  },
-  {
-    "question": "Find product of all factors of 36.",
-    "options": ["36³", "36⁴", "36⁴·⁵", "36⁵"],
+    "question": "The sinking of heavier elements like iron towards Earth’s center is called:",
+    "options": ["Accretion", "Weathering", "Differentiation", "Degassing"],
     "correctAnswer": 2,
-    "explanation": "Total factors=9 → product=N^(n/2)=36^(9/2)=36⁴·⁵."
+    "explanation": "Differentiation caused heavier elements to move inward and lighter ones outward.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which of the following is a perfect square?",
-    "options": ["50", "72", "81", "98"],
+    "question": "Which layer of the Earth is mainly responsible for generating the magnetic field?",
+    "options": ["Crust", "Upper mantle", "Outer core", "Inner core"],
     "correctAnswer": 2,
-    "explanation": "81=9² is a perfect square."
+    "explanation": "The molten iron in the outer core generates electric currents producing the magnetic field.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which of the following is a perfect cube?",
-    "options": ["8", "12", "24", "36"],
-    "correctAnswer": 0,
-    "explanation": "8=2³ → perfect cube."
-  },
-  {
-    "question": "If a number has all even powers of primes, it is a:",
-    "options": ["Perfect cube", "Prime", "Perfect square", "Composite"],
-    "correctAnswer": 2,
-    "explanation": "Even powers mean number is a perfect square."
-  },
-  {
-    "question": "If a number has odd number of factors, it is:",
-    "options": ["Prime", "Perfect square", "Perfect cube", "Composite"],
+    "question": "The second atmosphere of Earth was formed mainly due to:",
+    "options": [
+      "Solar winds",
+      "Outgassing from volcanoes",
+      "Meteorite impacts",
+      "Photosynthesis"
+    ],
     "correctAnswer": 1,
-    "explanation": "Perfect squares have odd number of factors."
+    "explanation": "Volcanic outgassing released gases like water vapour, CO₂, and nitrogen.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find number of factors of 84.",
-    "options": ["10", "12", "14", "16"],
-    "correctAnswer": 1,
-    "explanation": "84=2²×3×7 → (2+1)(1+1)(1+1)=12."
-  },
-  {
-    "question": "Number 64 has how many factors?",
-    "options": ["6", "7", "8", "9"],
-    "correctAnswer": 1,
-    "explanation": "64=2⁶ → (6+1)=7."
-  },
-  {
-    "question": "Find number of factors of 2⁴×3³×5².",
-    "options": ["60", "48", "40", "30"],
-    "correctAnswer": 3,
-    "explanation": "(4+1)(3+1)(2+1)=5×4×3=60? Correction correct answer 60."
-  },
-  {
-    "question": "Find number of odd factors of 1080.",
-    "options": ["8", "10", "12", "14"],
-    "correctAnswer": 0,
-    "explanation": "1080=2³×3³×5¹ → odd factors 3³×5¹ → (3+1)(1+1)=8."
-  },
-  {
-    "question": "Find smallest number to multiply 3600 to make it a perfect cube.",
-    "options": ["10", "20", "30", "60"],
-    "correctAnswer": 3,
-    "explanation": "3600=2⁴×3²×5² → need 2²×3¹×5¹=60."
-  },
-  {
-    "question": "Sum of factors of 20 is:",
-    "options": ["40", "42", "44", "46"],
-    "correctAnswer": 1,
-    "explanation": "Factors:1+2+4+5+10+20=42."
-  },
-  {
-    "question": "Find number of even factors of 180.",
-    "options": ["10", "12", "14", "16"],
-    "correctAnswer": 1,
-    "explanation": "Total=18, odd=6, even=12."
-  },
-  {
-    "question": "Which number is not a prime factor of 84?",
-    "options": ["2", "3", "5", "7"],
+    "question": "Free oxygen was absent in the early atmosphere of Earth because:",
+    "options": [
+      "It escaped into space",
+      "It was consumed by volcanic gases",
+      "Photosynthetic organisms had not evolved",
+      "It was dissolved in oceans"
+    ],
     "correctAnswer": 2,
-    "explanation": "84=2²×3×7 → 5 not included."
+    "explanation": "Oxygen accumulated only after the evolution of photosynthetic organisms.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find number of distinct prime factors of 360.",
-    "options": ["2", "3", "4", "5"],
+    "question": "The formation of oceans on Earth was primarily due to:",
+    "options": [
+      "Melting of glaciers",
+      "Condensation of water vapour",
+      "Impact of comets only",
+      "Subduction processes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "As Earth cooled, water vapour condensed and led to continuous rainfall forming oceans.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which process best explains the layered structure of the Earth?",
+    "options": [
+      "Accretion",
+      "Erosion",
+      "Differentiation",
+      "Plate movement"
+    ],
     "correctAnswer": 2,
-    "explanation": "360=2³×3²×5¹ → 3 distinct primes."
+    "explanation": "Differentiation caused segregation of materials based on density, forming layers.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Why did the first atmosphere of Earth not survive?",
+    "options": [
+      "Lack of oceans",
+      "Weak gravitational force and solar winds",
+      "Volcanic explosions",
+      "Meteorite collisions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Light gases escaped due to weak gravity and strong solar winds in early Earth.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The development of the ozone layer was significant because it:",
+    "options": [
+      "Increased surface temperature",
+      "Prevented volcanic eruptions",
+      "Protected life from ultraviolet radiation",
+      "Caused ocean formation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ozone layer shields Earth from harmful UV radiation, enabling complex life.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which sequence correctly represents Earth’s early evolution?",
+    "options": [
+      "Atmosphere → Differentiation → Accretion → Life",
+      "Accretion → Molten Earth → Differentiation → Atmosphere",
+      "Life → Atmosphere → Oceans → Differentiation",
+      "Molten Earth → Accretion → Nebula → Oceans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth evolved through accretion, molten state, differentiation, and then atmosphere formation.",
+    "difficulty": "Hard"
   }
 ]
