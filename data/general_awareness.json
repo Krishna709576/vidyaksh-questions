@@ -1,152 +1,177 @@
 [
   {
-    "question": "The Earth was formed approximately how many years ago?",
-    "options": ["13.7 billion years", "10 billion years", "4.6 billion years", "2.5 billion years"],
-    "correctAnswer": 2,
-    "explanation": "Modern scientific estimates place the formation of Earth at about 4.6 billion years ago.",
+    "question": "The Earth is best described as which of the following in shape?",
+    "options": ["Perfect sphere", "Oblate spheroid", "Prolate spheroid", "Flat disc"],
+    "correctAnswer": 1,
+    "explanation": "Earth is an oblate spheroid, bulged at the equator and flattened at the poles due to rotation.",
     "difficulty": "Easy"
   },
   {
-    "question": "The cloud of gas and dust from which the solar system was formed is called:",
-    "options": ["Asteroid belt", "Nebula", "Galaxy", "Supernova"],
-    "correctAnswer": 1,
-    "explanation": "According to the nebular hypothesis, the solar system formed from a rotating nebula.",
+    "question": "The bulging of the Earth at the equator is primarily due to:",
+    "options": ["Gravitational pull of the Moon", "Revolution of Earth", "Rotation of Earth", "Tectonic activity"],
+    "correctAnswer": 2,
+    "explanation": "Rotation of the Earth produces centrifugal force causing equatorial bulge.",
     "difficulty": "Easy"
   },
   {
-    "question": "Which two gases mainly composed the early solar nebula?",
-    "options": ["Oxygen and nitrogen", "Carbon dioxide and methane", "Hydrogen and helium", "Nitrogen and argon"],
-    "correctAnswer": 2,
-    "explanation": "The nebula primarily consisted of hydrogen and helium, the lightest and most abundant elements.",
+    "question": "Which motion of the Earth is responsible for day and night?",
+    "options": ["Revolution", "Rotation", "Precession", "Inclination"],
+    "correctAnswer": 1,
+    "explanation": "Day and night occur due to the rotation of Earth on its axis.",
     "difficulty": "Easy"
   },
   {
-    "question": "The process by which small particles combined to form planets is known as:",
-    "options": ["Differentiation", "Condensation", "Accretion", "Erosion"],
-    "correctAnswer": 2,
-    "explanation": "Accretion refers to the gradual accumulation of matter to form larger bodies like planets.",
+    "question": "Earth completes one rotation approximately in:",
+    "options": ["12 hours", "24 hours", "365 days", "360 days"],
+    "correctAnswer": 1,
+    "explanation": "Earth takes about 24 hours to complete one rotation on its axis.",
     "difficulty": "Easy"
   },
   {
-    "question": "Why are inner planets like Earth rocky in nature?",
-    "options": [
-      "Due to weak gravity",
-      "Because of high temperature near the Sun",
-      "Because they formed later",
-      "Due to absence of gases"
-    ],
+    "question": "The Earth’s axis is tilted at approximately:",
+    "options": ["15°", "23.5°", "30°", "66.5°"],
     "correctAnswer": 1,
-    "explanation": "High temperatures near the Sun allowed only heavy materials to condense, forming rocky planets.",
-    "difficulty": "Medium"
+    "explanation": "The Earth’s axis is tilted at about 23.5°, which is crucial for seasons.",
+    "difficulty": "Easy"
   },
   {
-    "question": "The early Earth remained in a molten state mainly due to:",
-    "options": [
-      "Solar radiation alone",
-      "Chemical reactions",
-      "Accretion and radioactive decay",
-      "Atmospheric pressure"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Heat from accretion, radioactive decay, and compression kept early Earth molten.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "The sinking of heavier elements like iron towards Earth’s center is called:",
-    "options": ["Accretion", "Weathering", "Differentiation", "Degassing"],
-    "correctAnswer": 2,
-    "explanation": "Differentiation caused heavier elements to move inward and lighter ones outward.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which layer of the Earth is mainly responsible for generating the magnetic field?",
-    "options": ["Crust", "Upper mantle", "Outer core", "Inner core"],
-    "correctAnswer": 2,
-    "explanation": "The molten iron in the outer core generates electric currents producing the magnetic field.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "The second atmosphere of Earth was formed mainly due to:",
-    "options": [
-      "Solar winds",
-      "Outgassing from volcanoes",
-      "Meteorite impacts",
-      "Photosynthesis"
-    ],
+    "question": "Seasons on Earth are primarily caused by:",
+    "options": ["Distance between Earth and Sun", "Earth’s axial tilt", "Elliptical orbit", "Earth’s rotation"],
     "correctAnswer": 1,
-    "explanation": "Volcanic outgassing released gases like water vapour, CO₂, and nitrogen.",
+    "explanation": "Axial tilt causes variation in angle of sunlight and length of day, leading to seasons.",
     "difficulty": "Medium"
   },
   {
-    "question": "Free oxygen was absent in the early atmosphere of Earth because:",
-    "options": [
-      "It escaped into space",
-      "It was consumed by volcanic gases",
-      "Photosynthetic organisms had not evolved",
-      "It was dissolved in oceans"
-    ],
+    "question": "If the Earth had no axial tilt, what would be the impact?",
+    "options": ["Extreme seasons", "No day and night", "No seasons", "Permanent winter"],
     "correctAnswer": 2,
-    "explanation": "Oxygen accumulated only after the evolution of photosynthetic organisms.",
+    "explanation": "Without axial tilt, Sun’s rays would remain fixed, resulting in no seasons.",
     "difficulty": "Medium"
   },
   {
-    "question": "The formation of oceans on Earth was primarily due to:",
-    "options": [
-      "Melting of glaciers",
-      "Condensation of water vapour",
-      "Impact of comets only",
-      "Subduction processes"
-    ],
+    "question": "Earth completes one revolution around the Sun in approximately:",
+    "options": ["360 days", "364 days", "365¼ days", "366 days"],
+    "correctAnswer": 2,
+    "explanation": "Earth takes about 365¼ days to complete one revolution, leading to leap years.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Earth is closest to the Sun during:",
+    "options": ["June", "March", "September", "January"],
+    "correctAnswer": 3,
+    "explanation": "Earth is closest to the Sun (perihelion) in early January.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The hottest regions of the Earth lie between:",
+    "options": ["Arctic Circle and North Pole", "Tropic of Cancer and Tropic of Capricorn", "Equator and Tropic of Cancer", "Prime Meridian and Equator"],
     "correctAnswer": 1,
-    "explanation": "As Earth cooled, water vapour condensed and led to continuous rainfall forming oceans.",
+    "explanation": "This region is the Torrid Zone where Sun’s rays fall vertically.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Sun can be vertically overhead only between:",
+    "options": ["Equator and poles", "Arctic Circle and Antarctic Circle", "Tropic of Cancer and Tropic of Capricorn", "Prime Meridian and IDL"],
+    "correctAnswer": 2,
+    "explanation": "Vertical rays occur only within the tropics due to Earth’s axial tilt.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Temperate zones are characterized by:",
+    "options": ["Vertical Sun rays", "Permanent ice cover", "Moderate temperatures", "No seasonal change"],
+    "correctAnswer": 2,
+    "explanation": "Temperate zones receive slanting rays and experience moderate climate with seasons.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The frigid zones receive very little heat mainly because:",
+    "options": ["They are far from the Sun", "Sun rays are extremely slanting", "Earth’s bulge blocks sunlight", "They rotate slowly"],
+    "correctAnswer": 1,
+    "explanation": "Highly slanting rays spread energy over a large area and pass through more atmosphere.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Latitude measures the angular distance of a place from:",
+    "options": ["Prime Meridian", "International Date Line", "Equator", "North Pole"],
+    "correctAnswer": 2,
+    "explanation": "Latitude measures north–south distance from the Equator.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following latitudes has nearly equal day and night throughout the year?",
+    "options": ["Tropic of Cancer", "Equator", "Arctic Circle", "Antarctic Circle"],
+    "correctAnswer": 1,
+    "explanation": "At the Equator, day and night are almost equal year-round.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The distance between two consecutive parallels of latitude is approximately:",
+    "options": ["100 km", "111 km", "150 km", "60 km"],
+    "correctAnswer": 1,
+    "explanation": "One degree of latitude equals roughly 111 km anywhere on Earth.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Longitudes differ from latitudes because longitudes:",
+    "options": ["Are parallel", "Are imaginary", "Converge at the poles", "Control climate"],
+    "correctAnswer": 2,
+    "explanation": "Longitudes are semi-circles that converge at the poles.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following controls time?",
+    "options": ["Latitude", "Longitude", "Equator", "Heat zones"],
+    "correctAnswer": 1,
+    "explanation": "Longitude determines local time due to Earth’s rotation.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Earth rotates 15° of longitude in:",
+    "options": ["15 minutes", "30 minutes", "1 hour", "4 hours"],
+    "correctAnswer": 2,
+    "explanation": "Earth rotates 360° in 24 hours, i.e., 15° per hour.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Prime Meridian passes through:",
+    "options": ["Paris", "Greenwich", "New York", "Rome"],
+    "correctAnswer": 1,
+    "explanation": "The Prime Meridian passes through Greenwich in the UK.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Indian Standard Time is based on which longitude?",
+    "options": ["75° E", "82.5° E", "90° E", "68.5° E"],
+    "correctAnswer": 1,
+    "explanation": "IST is based on 82.5° E, close to the center of India.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "International Date Line roughly follows which longitude?",
+    "options": ["0°", "90° E", "180°", "23.5°"],
+    "correctAnswer": 2,
+    "explanation": "IDL roughly follows 180° longitude with zig-zags to avoid land.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a person crosses the International Date Line from east to west, he should:",
+    "options": ["Subtract one day", "Add one day", "Change the month", "No change required"],
+    "correctAnswer": 1,
+    "explanation": "Crossing IDL from east to west requires adding one day.",
     "difficulty": "Hard"
   },
   {
-    "question": "Which process best explains the layered structure of the Earth?",
-    "options": [
-      "Accretion",
-      "Erosion",
-      "Differentiation",
-      "Plate movement"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Differentiation caused segregation of materials based on density, forming layers.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Why did the first atmosphere of Earth not survive?",
-    "options": [
-      "Lack of oceans",
-      "Weak gravitational force and solar winds",
-      "Volcanic explosions",
-      "Meteorite collisions"
-    ],
+    "question": "Why do higher latitudes experience greater seasonal contrast?",
+    "options": ["Greater distance from Sun", "Greater variation in day length and Sun angle", "Earth’s bulge", "Faster rotation"],
     "correctAnswer": 1,
-    "explanation": "Light gases escaped due to weak gravity and strong solar winds in early Earth.",
+    "explanation": "Higher latitudes have larger variation in day length and angle of solar incidence.",
     "difficulty": "Hard"
   },
   {
-    "question": "The development of the ozone layer was significant because it:",
-    "options": [
-      "Increased surface temperature",
-      "Prevented volcanic eruptions",
-      "Protected life from ultraviolet radiation",
-      "Caused ocean formation"
-    ],
+    "question": "Which of the following is a permanent division of the Earth?",
+    "options": ["Seasons", "Weather patterns", "Heat zones", "Monsoon cycles"],
     "correctAnswer": 2,
-    "explanation": "The ozone layer shields Earth from harmful UV radiation, enabling complex life.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Which sequence correctly represents Earth’s early evolution?",
-    "options": [
-      "Atmosphere → Differentiation → Accretion → Life",
-      "Accretion → Molten Earth → Differentiation → Atmosphere",
-      "Life → Atmosphere → Oceans → Differentiation",
-      "Molten Earth → Accretion → Nebula → Oceans"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Earth evolved through accretion, molten state, differentiation, and then atmosphere formation.",
+    "explanation": "Heat zones are permanent divisions based on latitude and solar angle.",
     "difficulty": "Hard"
   }
 ]
