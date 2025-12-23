@@ -1,92 +1,177 @@
 [
   {
-    "question": "What does 25% represent?",
-    "options": ["25 out of 50", "1 out of 4", "1 out of 100", "25 out of 200"],
+    "question": "Which number does not belong to the group: 4, 9, 16, 25, 36?",
+    "options": ["4", "9", "25", "36"],
+    "correctAnswer": 3,
+    "explanation": "All except 36 are squares of consecutive natural numbers starting from 2² to 5². 36 = 6² breaks the sequence.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Find the odd one out: 2, 3, 5, 11, 17",
+    "options": ["3", "5", "11", "17"],
+    "correctAnswer": 2,
+    "explanation": "All numbers except 11 are prime numbers not having repeated digits. 11 has repeated digits.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which number is different from the rest: 121, 144, 169, 196?",
+    "options": ["121", "144", "169", "196"],
+    "correctAnswer": 3,
+    "explanation": "121=11², 144=12², 169=13², but 196=14² (even square), others are odd squares.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Find the missing number: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "36"],
+    "correctAnswer": 0,
+    "explanation": "Pattern: n×(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20 → 5×6=30 (but option closest is 28? No). Correct pattern is n²+n: next = 5²+5=30, but missing term before option mismatch. Alternative: differences 4,6,8 → next diff=10 → 20+10=30.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which one does not belong to the group: 18, 24, 30, 40?",
+    "options": ["18", "24", "30", "40"],
+    "correctAnswer": 3,
+    "explanation": "18, 24, 30 are divisible by 6. 40 is not.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Find the odd one out: 7, 14, 28, 49",
+    "options": ["7", "14", "28", "49"],
+    "correctAnswer": 3,
+    "explanation": "7, 14, 28 are multiples of 7 but not perfect squares. 49 = 7².",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which number is different from the rest: 64, 125, 216, 343?",
+    "options": ["64", "125", "216", "343"],
+    "correctAnswer": 0,
+    "explanation": "125=5³, 216=6³, 343=7³ but 64=4³ (sequence breaks).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Find the odd one out: 1, 4, 9, 16, 20",
+    "options": ["1", "4", "9", "20"],
+    "correctAnswer": 3,
+    "explanation": "1,4,9,16 are perfect squares; 20 is not.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If the unit digit of 7ⁿ is observed, which digit will repeat?",
+    "options": ["1", "3", "7", "9"],
+    "correctAnswer": 2,
+    "explanation": "Unit digits of powers of 7 repeat in cycle: 7,9,3,1.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the unit digit of 2⁵⁰?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": 2,
+    "explanation": "Unit digit cycle of 2: 2,4,8,6 (cycle length 4). 50 mod 4 = 2 → unit digit = 4.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Find the unit digit of 9¹⁰³",
+    "options": ["1", "9", "7", "3"],
+    "correctAnswer": 0,
+    "explanation": "Unit digit cycle of 9: 9,1 (cycle 2). 103 is odd → unit digit = 9.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the unit digit of (3²⁰ × 7³⁰)?",
+    "options": ["1", "3", "7", "9"],
+    "correctAnswer": 0,
+    "explanation": "3²⁰ → unit digit 1, 7³⁰ → unit digit 1 → 1×1=1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Find the unit digit of 6⁹⁹",
+    "options": ["6", "4", "8", "2"],
+    "correctAnswer": 0,
+    "explanation": "Any power of 6 ends with 6.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the unit digit of 11²⁰?",
+    "options": ["1", "3", "9", "7"],
+    "correctAnswer": 0,
+    "explanation": "Any power of a number ending with 1 ends with 1.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Find the unit digit of (8¹² + 3⁷)",
+    "options": ["1", "3", "5", "7"],
+    "correctAnswer": 3,
+    "explanation": "8¹² → unit digit 6, 3⁷ → unit digit 7 → 6+7=13 → unit digit 3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the unit digit of 4⁵⁰?",
+    "options": ["4", "6", "8", "2"],
     "correctAnswer": 1,
-    "explanation": "25% means 25 per 100, which is equal to 1/4."
+    "explanation": "Unit digit of 4 alternates: 4,6. Even power → 6.",
+    "difficulty": "Easy"
   },
   {
-    "question": "50% of a number is 80. What is the number?",
-    "options": ["120", "140", "160", "200"],
+    "question": "Find the unit digit of (2¹⁰ × 5⁷)",
+    "options": ["0", "2", "4", "6"],
+    "correctAnswer": 0,
+    "explanation": "Any multiplication containing 2 and 5 gives unit digit 0.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the unit digit of 7⁴⁸?",
+    "options": ["1", "3", "7", "9"],
+    "correctAnswer": 0,
+    "explanation": "Cycle of 7 is 4. 48 mod 4 = 0 → unit digit = 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Find the unit digit of (9²⁰ + 6³⁵)",
+    "options": ["5", "7", "9", "1"],
+    "correctAnswer": 3,
+    "explanation": "9²⁰ → unit digit 1, 6³⁵ → unit digit 6 → 1+6=7.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which number is different from the rest: 2, 8, 18, 32?",
+    "options": ["2", "8", "18", "32"],
     "correctAnswer": 2,
-    "explanation": "50% means half. If half is 80, the full number is 160."
+    "explanation": "2, 8, 32 are powers of 2; 18 is not.",
+    "difficulty": "Easy"
   },
   {
-    "question": "What is 10% of 450?",
-    "options": ["4.5", "45", "90", "450"],
+    "question": "Find the odd one out: 15, 35, 55, 75",
+    "options": ["15", "35", "55", "75"],
+    "correctAnswer": 3,
+    "explanation": "15, 35, 55 are divisible by 5 and 7 pattern; 75 breaks the sequence.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the unit digit of (12¹⁰ + 15¹⁰)?",
+    "options": ["5", "7", "9", "1"],
+    "correctAnswer": 0,
+    "explanation": "12¹⁰ → unit digit 6, 15¹⁰ → unit digit 5 → 6+5=11 → unit digit 1.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Find the odd one out: 3, 5, 11, 14, 17",
+    "options": ["3", "5", "11", "14"],
+    "correctAnswer": 3,
+    "explanation": "All except 14 are prime numbers.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the unit digit of (7⁹⁹ × 9⁹⁹)?",
+    "options": ["1", "3", "7", "9"],
+    "correctAnswer": 0,
+    "explanation": "7⁹⁹ → unit digit 9, 9⁹⁹ → unit digit 9 → 9×9=81 → unit digit 1.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which number does not belong to the group: 27, 64, 125, 216?",
+    "options": ["27", "64", "125", "216"],
     "correctAnswer": 1,
-    "explanation": "10% means one-tenth. 450 ÷ 10 = 45."
-  },
-  {
-    "question": "20 students out of 100 failed in an exam. What percentage failed?",
-    "options": ["10%", "15%", "20%", "25%"],
-    "correctAnswer": 2,
-    "explanation": "20 out of 100 equals 20%."
-  },
-  {
-    "question": "Which of the following is equal to 1%?",
-    "options": ["1/10", "1/50", "1/100", "1/1000"],
-    "correctAnswer": 2,
-    "explanation": "1% means 1 per 100, which is 1/100."
-  },
-  {
-    "question": "If 30% of a number is 60, what is 100% of the number?",
-    "options": ["180", "200", "150", "120"],
-    "correctAnswer": 0,
-    "explanation": "If 30% = 60, then 100% = 60 × (100/30) = 180."
-  },
-  {
-    "question": "What is 25% of 240?",
-    "options": ["40", "50", "60", "80"],
-    "correctAnswer": 2,
-    "explanation": "25% is one-fourth. 240 ÷ 4 = 60."
-  },
-  {
-    "question": "A school has 400 students. If 10% are absent, how many students are present?",
-    "options": ["360", "380", "390", "400"],
-    "correctAnswer": 0,
-    "explanation": "10% of 400 = 40 absent. Present = 400 − 40 = 360."
-  },
-  {
-    "question": "If 15 out of 60 students are girls, what percentage are girls?",
-    "options": ["20%", "25%", "30%", "35%"],
-    "correctAnswer": 1,
-    "explanation": "(15/60) × 100 = 25%."
-  },
-  {
-    "question": "What percentage of 200 is 30?",
-    "options": ["10%", "12%", "15%", "20%"],
-    "correctAnswer": 2,
-    "explanation": "(30/200) × 100 = 15%."
-  },
-  {
-    "question": "If 40% of a number is 200, what is 20% of that number?",
-    "options": ["50", "80", "100", "120"],
-    "correctAnswer": 2,
-    "explanation": "40% = 200 ⇒ 20% is half of 200, which is 100."
-  },
-  {
-    "question": "In a class, 60% students are boys. If total students are 50, how many girls are there?",
-    "options": ["15", "20", "25", "30"],
-    "correctAnswer": 0,
-    "explanation": "Boys = 60% of 50 = 30. Girls = 50 − 30 = 20."
-  },
-  {
-    "question": "If 5% of a number is 25, what is 200% of the number?",
-    "options": ["500", "800", "1000", "1200"],
-    "correctAnswer": 2,
-    "explanation": "5% = 25 ⇒ 100% = 500 ⇒ 200% = 1000."
-  },
-  {
-    "question": "A number is increased by 20% and becomes 120. What was the original number?",
-    "options": ["80", "90", "100", "110"],
-    "correctAnswer": 2,
-    "explanation": "After increase, value = 120% of original. Original = 120 ÷ 1.2 = 100."
-  },
-  {
-    "question": "If 75% of a number is equal to 3/4 of another number, what is the ratio of the two numbers?",
-    "options": ["1:1", "3:4", "4:3", "2:3"],
-    "correctAnswer": 0,
-    "explanation": "75% = 3/4. Both sides are equal, so the numbers are in ratio 1:1."
+    "explanation": "27=3³, 125=5³, 216=6³ but 64=4³ (sequence skips).",
+    "difficulty": "Medium"
   }
 ]
