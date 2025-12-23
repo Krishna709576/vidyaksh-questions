@@ -1,107 +1,197 @@
 [
   {
-    "question": "Which of the following is a noun?",
-    "options": ["Run", "Beautiful", "Happiness", "Quickly"],
-    "correctAnswer": 2,
-    "explanation": "Happiness names a feeling, so it is an abstract noun."
-  },
-  {
-    "question": "Identify the proper noun.",
-    "options": ["city", "river", "India", "country"],
-    "correctAnswer": 2,
-    "explanation": "India is the specific name of a country, so it is a proper noun."
-  },
-  {
-    "question": "Which word is a common noun?",
-    "options": ["Ravi", "Delhi", "Boy", "Ganga"],
-    "correctAnswer": 2,
-    "explanation": "Boy is a general name and not specific, so it is a common noun."
-  },
-  {
-    "question": "Which of the following is a collective noun?",
-    "options": ["Crowd", "Stone", "Honesty", "Teacher"],
-    "correctAnswer": 0,
-    "explanation": "Crowd refers to a group of people considered as one unit."
-  },
-  {
-    "question": "Which one is a material noun?",
-    "options": ["Chair", "Gold", "Team", "Kindness"],
+    "question": "She gave me some useful ______.",
+    "options": ["advices", "advice", "advise", "advises"],
     "correctAnswer": 1,
-    "explanation": "Gold is a substance from which things are made."
+    "explanation": "Advice is an uncountable noun and does not take a plural form."
   },
   {
-    "question": "Identify the abstract noun in the sentence: 'Truth always wins.'",
-    "options": ["Truth", "Wins", "Always", "Sentence"],
-    "correctAnswer": 0,
-    "explanation": "Truth is an idea that cannot be seen or touched."
+    "question": "Which of the following is an uncountable noun?",
+    "options": ["Chair", "Bottle", "Furniture", "Student"],
+    "correctAnswer": 2,
+    "explanation": "Furniture is always uncountable and takes a singular verb."
   },
   {
-    "question": "Which sentence contains a proper noun?",
+    "question": "Choose the correct sentence.",
     "options": [
-      "She lives in a city.",
-      "He reads a book.",
-      "Delhi is crowded.",
-      "The boy is tall."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Delhi is the specific name of a city, so it is a proper noun."
-  },
-  {
-    "question": "Which of the following nouns usually does NOT have a plural form?",
-    "options": ["Book", "Chair", "Water", "Student"],
-    "correctAnswer": 2,
-    "explanation": "Water is a material noun and is generally uncountable."
-  },
-  {
-    "question": "Identify the noun type of the underlined word: 'The jury gave its decision.'",
-    "options": ["Common noun", "Proper noun", "Collective noun", "Material noun"],
-    "correctAnswer": 2,
-    "explanation": "Jury refers to a group acting as one unit, so it is a collective noun."
-  },
-  {
-    "question": "Which of the following is NOT a noun?",
-    "options": ["Freedom", "Teacher", "Quick", "Army"],
-    "correctAnswer": 2,
-    "explanation": "Quick is an adjective, not a noun."
-  },
-  {
-    "question": "Choose the abstract noun.",
-    "options": ["Table", "Pen", "Beauty", "Bottle"],
-    "correctAnswer": 2,
-    "explanation": "Beauty is a quality that cannot be touched."
-  },
-  {
-    "question": "Which option contains only nouns?",
-    "options": [
-      "Run, Jump, Play",
-      "Honesty, Gold, Team",
-      "Quick, Slow, Fast",
-      "He, She, They"
+      "The cattle is grazing.",
+      "The cattle are grazing.",
+      "The cattles are grazing.",
+      "The cattle was grazing."
     ],
     "correctAnswer": 1,
-    "explanation": "Honesty (abstract), Gold (material), Team (collective) are all nouns."
+    "explanation": "Cattle is always treated as a plural noun."
   },
   {
-    "question": "Identify the noun in the sentence: 'Knowledge is power.'",
-    "options": ["Knowledge", "Is", "Power", "Both A and C"],
-    "correctAnswer": 3,
-    "explanation": "Both Knowledge and Power are abstract nouns."
-  },
-  {
-    "question": "Which of the following is a material noun but used in a special sense?",
-    "options": ["Iron is hard.", "Gold is costly.", "The irons are ready.", "Water is pure."],
+    "question": "Identify the correct plural form of 'child'.",
+    "options": ["childs", "childes", "children", "childrens"],
     "correctAnswer": 2,
-    "explanation": "Here 'irons' refers to tools, not the substance, so plural is possible."
+    "explanation": "Child → children is an irregular plural."
   },
   {
     "question": "Which sentence is grammatically correct?",
     "options": [
-      "Honesties are valued.",
-      "Golds are expensive.",
-      "Honesty is valued.",
-      "Sugars are sweet."
+      "The news are shocking.",
+      "The news were shocking.",
+      "The news is shocking.",
+      "The news have shocked."
     ],
     "correctAnswer": 2,
-    "explanation": "Abstract and material nouns generally do not take plural forms."
+    "explanation": "News looks plural but is grammatically singular."
+  },
+  {
+    "question": "Choose the correct option: He has little ______ of economics.",
+    "options": ["knowledge", "knowledges", "knowing", "knowledge's"],
+    "correctAnswer": 0,
+    "explanation": "Knowledge is an uncountable noun."
+  },
+  {
+    "question": "Select the correct sentence.",
+    "options": [
+      "These scissors is sharp.",
+      "This scissors are sharp.",
+      "These scissors are sharp.",
+      "This scissor are sharp."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Scissors is always plural and takes a plural verb."
+  },
+  {
+    "question": "Find the error: He bought two furnitures yesterday.",
+    "options": ["He", "bought", "two furnitures", "yesterday"],
+    "correctAnswer": 2,
+    "explanation": "Furniture is uncountable and cannot be pluralized."
+  },
+  {
+    "question": "Choose the correct plural of 'knife'.",
+    "options": ["knifes", "knife", "knives", "knifves"],
+    "correctAnswer": 2,
+    "explanation": "Knife → knives (f changes to ves)."
+  },
+  {
+    "question": "Which option uses 'experience' correctly?",
+    "options": [
+      "She has many experience.",
+      "She has much experiences.",
+      "She has much experience.",
+      "She has few experience."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Experience meaning knowledge is uncountable."
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": [
+      "This pair of shoes are new.",
+      "This pair of shoes is new.",
+      "These pair of shoes is new.",
+      "These pair of shoe are new."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verb agrees with 'pair', not 'shoes'."
+  },
+  {
+    "question": "Identify the correct plural form.",
+    "options": ["deers", "deer", "deeres", "deer's"],
+    "correctAnswer": 1,
+    "explanation": "Deer has the same singular and plural form."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": [
+      "Much people were present.",
+      "Many people were present.",
+      "Many peoples were present.",
+      "Much peoples were present."
+    ],
+    "correctAnswer": 1,
+    "explanation": "People is countable and takes 'many'."
+  },
+  {
+    "question": "Choose the correct option: Two ______ of bread.",
+    "options": ["breads", "bread", "loaves", "pieces"],
+    "correctAnswer": 2,
+    "explanation": "Bread is uncountable; it is counted using loaves."
+  },
+  {
+    "question": "Find the correct sentence.",
+    "options": [
+      "The committee have taken its decision.",
+      "The committee has taken its decision.",
+      "The committee have taken their decision.",
+      "The committee has taken their decisions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Committee acting as one unit takes singular verb and pronoun."
+  },
+  {
+    "question": "Choose the correct option: The equipment ______ installed yesterday.",
+    "options": ["were", "are", "have been", "was"],
+    "correctAnswer": 3,
+    "explanation": "Equipment is uncountable and singular."
+  },
+  {
+    "question": "Identify the abstract noun.",
+    "options": ["Table", "Honesty", "Chair", "Bottle"],
+    "correctAnswer": 1,
+    "explanation": "Honesty is a quality and cannot be seen or touched."
+  },
+  {
+    "question": "Which of the following is always plural?",
+    "options": ["Furniture", "News", "Cattle", "Information"],
+    "correctAnswer": 2,
+    "explanation": "Cattle is always treated as plural."
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": [
+      "There are less books on the table.",
+      "There are fewer books on the table.",
+      "There is fewer books on the table.",
+      "There is less books on the table."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fewer is used with countable nouns."
+  },
+  {
+    "question": "Which noun can be both countable and uncountable?",
+    "options": ["Furniture", "Advice", "Experience", "Information"],
+    "correctAnswer": 2,
+    "explanation": "Experience can be knowledge (uncountable) or events (countable)."
+  },
+  {
+    "question": "Choose the correct plural form.",
+    "options": ["photos", "photoes", "photo's", "photoes"],
+    "correctAnswer": 0,
+    "explanation": "Photo takes plural by adding 's'."
+  },
+  {
+    "question": "Find the error: The news were broadcast late.",
+    "options": ["The", "news", "were", "broadcast"],
+    "correctAnswer": 2,
+    "explanation": "News is singular and takes 'was'."
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Ten thousand rupees are enough.",
+      "Ten thousand rupees is enough.",
+      "Ten thousands rupees are enough.",
+      "Ten thousand rupee is enough."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When money is considered as a sum, it takes a singular verb."
+  },
+  {
+    "question": "Identify the material noun.",
+    "options": ["Gold", "Team", "Happiness", "Child"],
+    "correctAnswer": 0,
+    "explanation": "Gold is a substance and hence a material noun."
+  },
+  {
+    "question": "Choose the correct option: Much ______ was lost in the fire.",
+    "options": ["properties", "property", "houses", "buildings"],
+    "correctAnswer": 1,
+    "explanation": "Property is uncountable when used in a general sense."
   }
 ]
