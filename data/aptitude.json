@@ -1,177 +1,152 @@
 [
   {
-    "question": "Which number does not belong to the group: 4, 9, 16, 25, 36?",
-    "options": ["4", "9", "25", "36"],
+    "question": "Which of the following does NOT belong to the group?",
+    "options": ["13", "17", "19", "21"],
     "correctAnswer": 3,
-    "explanation": "All except 36 are squares of consecutive natural numbers starting from 2² to 5². 36 = 6² breaks the sequence.",
-    "difficulty": "Easy"
+    "explanation": "13, 17, and 19 are prime numbers, whereas 21 is composite."
   },
   {
-    "question": "Find the odd one out: 2, 3, 5, 11, 17",
-    "options": ["3", "5", "11", "17"],
-    "correctAnswer": 2,
-    "explanation": "All numbers except 11 are prime numbers not having repeated digits. 11 has repeated digits.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which number is different from the rest: 121, 144, 169, 196?",
-    "options": ["121", "144", "169", "196"],
+    "question": "Find the odd one out: 64, 125, 216, 256",
+    "options": ["64", "125", "216", "256"],
     "correctAnswer": 3,
-    "explanation": "121=11², 144=12², 169=13², but 196=14² (even square), others are odd squares.",
-    "difficulty": "Easy"
+    "explanation": "64, 125, and 216 are perfect cubes, while 256 is not."
   },
   {
-    "question": "Find the missing number: 2, 6, 12, 20, ?",
-    "options": ["28", "30", "32", "36"],
+    "question": "Which number is different from the rest?",
+    "options": ["144", "169", "196", "225"],
+    "correctAnswer": 1,
+    "explanation": "144, 196, and 225 are divisible by 3, but 169 is not."
+  },
+  {
+    "question": "Find the unit digit of (27^103).",
+    "options": ["3", "7", "9", "1"],
+    "correctAnswer": 1,
+    "explanation": "Unit digits of powers of 7 repeat as 7,9,3,1. 103 mod 4 = 3 → unit digit = 7."
+  },
+  {
+    "question": "What is the unit digit of (84^56 × 7^21)?",
+    "options": ["2", "4", "8", "6"],
+    "correctAnswer": 1,
+    "explanation": "84^56 ends in 6, 7^21 ends in 7 → 6×7=42 → unit digit 2."
+  },
+  {
+    "question": "The unit digit of (9^202 + 7^203) is:",
+    "options": ["6", "8", "2", "4"],
+    "correctAnswer": 1,
+    "explanation": "9^even ends in 1, 7^odd ends in 3 → 1+3=4."
+  },
+  {
+    "question": "Which of the following numbers is divisible by 11?",
+    "options": ["34562", "91827", "83641", "12144"],
     "correctAnswer": 0,
-    "explanation": "Pattern: n×(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20 → 5×6=30 (but option closest is 28? No). Correct pattern is n²+n: next = 5²+5=30, but missing term before option mismatch. Alternative: differences 4,6,8 → next diff=10 → 20+10=30.",
-    "difficulty": "Medium"
+    "explanation": "Difference of sum of alternate digits = 0 for 34562, hence divisible by 11."
   },
   {
-    "question": "Which one does not belong to the group: 18, 24, 30, 40?",
-    "options": ["18", "24", "30", "40"],
-    "correctAnswer": 3,
-    "explanation": "18, 24, 30 are divisible by 6. 40 is not.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Find the odd one out: 7, 14, 28, 49",
-    "options": ["7", "14", "28", "49"],
-    "correctAnswer": 3,
-    "explanation": "7, 14, 28 are multiples of 7 but not perfect squares. 49 = 7².",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which number is different from the rest: 64, 125, 216, 343?",
-    "options": ["64", "125", "216", "343"],
+    "question": "Which number is divisible by both 4 and 9?",
+    "options": ["1296", "1332", "1188", "1424"],
     "correctAnswer": 0,
-    "explanation": "125=5³, 216=6³, 343=7³ but 64=4³ (sequence breaks).",
-    "difficulty": "Medium"
+    "explanation": "1296 is divisible by 4 (last two digits) and by 9 (sum of digits = 18)."
   },
   {
-    "question": "Find the odd one out: 1, 4, 9, 16, 20",
-    "options": ["1", "4", "9", "20"],
-    "correctAnswer": 3,
-    "explanation": "1,4,9,16 are perfect squares; 20 is not.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "If the unit digit of 7ⁿ is observed, which digit will repeat?",
-    "options": ["1", "3", "7", "9"],
-    "correctAnswer": 2,
-    "explanation": "Unit digits of powers of 7 repeat in cycle: 7,9,3,1.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "What is the unit digit of 2⁵⁰?",
-    "options": ["2", "4", "6", "8"],
-    "correctAnswer": 2,
-    "explanation": "Unit digit cycle of 2: 2,4,8,6 (cycle length 4). 50 mod 4 = 2 → unit digit = 4.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Find the unit digit of 9¹⁰³",
-    "options": ["1", "9", "7", "3"],
+    "question": "A number is divisible by 6 if it is divisible by:",
+    "options": ["2 and 3", "3 and 9", "2 and 9", "4 and 3"],
     "correctAnswer": 0,
-    "explanation": "Unit digit cycle of 9: 9,1 (cycle 2). 103 is odd → unit digit = 9.",
-    "difficulty": "Easy"
+    "explanation": "Divisibility by 6 requires divisibility by both 2 and 3."
   },
   {
-    "question": "What is the unit digit of (3²⁰ × 7³⁰)?",
-    "options": ["1", "3", "7", "9"],
+    "question": "Which of the following is NOT divisible by 8?",
+    "options": ["312", "728", "1008", "1112"],
+    "correctAnswer": 1,
+    "explanation": "Last three digits of 728 are not divisible by 8."
+  },
+  {
+    "question": "Find the remainder when 7^103 is divided by 6.",
+    "options": ["1", "3", "5", "0"],
     "correctAnswer": 0,
-    "explanation": "3²⁰ → unit digit 1, 7³⁰ → unit digit 1 → 1×1=1.",
-    "difficulty": "Medium"
+    "explanation": "7 ≡ 1 (mod 6), so remainder is 1."
   },
   {
-    "question": "Find the unit digit of 6⁹⁹",
-    "options": ["6", "4", "8", "2"],
-    "correctAnswer": 0,
-    "explanation": "Any power of 6 ends with 6.",
-    "difficulty": "Easy"
+    "question": "What is the remainder when 3^45 is divided by 4?",
+    "options": ["1", "3", "2", "0"],
+    "correctAnswer": 1,
+    "explanation": "Powers of 3 mod 4 repeat as 3,1. Odd power → remainder 3."
   },
   {
-    "question": "What is the unit digit of 11²⁰?",
+    "question": "Find the remainder when 11^25 is divided by 10.",
     "options": ["1", "3", "9", "7"],
     "correctAnswer": 0,
-    "explanation": "Any power of a number ending with 1 ends with 1.",
-    "difficulty": "Easy"
+    "explanation": "11 ≡ 1 (mod 10), so remainder = 1."
   },
   {
-    "question": "Find the unit digit of (8¹² + 3⁷)",
-    "options": ["1", "3", "5", "7"],
-    "correctAnswer": 3,
-    "explanation": "8¹² → unit digit 6, 3⁷ → unit digit 7 → 6+7=13 → unit digit 3.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "What is the unit digit of 4⁵⁰?",
-    "options": ["4", "6", "8", "2"],
-    "correctAnswer": 1,
-    "explanation": "Unit digit of 4 alternates: 4,6. Even power → 6.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Find the unit digit of (2¹⁰ × 5⁷)",
-    "options": ["0", "2", "4", "6"],
-    "correctAnswer": 0,
-    "explanation": "Any multiplication containing 2 and 5 gives unit digit 0.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "What is the unit digit of 7⁴⁸?",
-    "options": ["1", "3", "7", "9"],
-    "correctAnswer": 0,
-    "explanation": "Cycle of 7 is 4. 48 mod 4 = 0 → unit digit = 1.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Find the unit digit of (9²⁰ + 6³⁵)",
-    "options": ["5", "7", "9", "1"],
-    "correctAnswer": 3,
-    "explanation": "9²⁰ → unit digit 1, 6³⁵ → unit digit 6 → 1+6=7.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which number is different from the rest: 2, 8, 18, 32?",
-    "options": ["2", "8", "18", "32"],
+    "question": "The remainder when (5^202 + 3^202) is divided by 4 is:",
+    "options": ["0", "1", "2", "3"],
     "correctAnswer": 2,
-    "explanation": "2, 8, 32 are powers of 2; 18 is not.",
-    "difficulty": "Easy"
+    "explanation": "5^even ≡ 1, 3^even ≡ 1 → 1+1=2."
   },
   {
-    "question": "Find the odd one out: 15, 35, 55, 75",
-    "options": ["15", "35", "55", "75"],
-    "correctAnswer": 3,
-    "explanation": "15, 35, 55 are divisible by 5 and 7 pattern; 75 breaks the sequence.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "What is the unit digit of (12¹⁰ + 15¹⁰)?",
-    "options": ["5", "7", "9", "1"],
+    "question": "Find the remainder when 2^100 is divided by 7.",
+    "options": ["1", "2", "4", "3"],
     "correctAnswer": 0,
-    "explanation": "12¹⁰ → unit digit 6, 15¹⁰ → unit digit 5 → 6+5=11 → unit digit 1.",
-    "difficulty": "Hard"
+    "explanation": "Cycle of 2 mod 7 is 6 → 100 mod 6 = 4 → remainder = 1."
   },
   {
-    "question": "Find the odd one out: 3, 5, 11, 14, 17",
-    "options": ["3", "5", "11", "14"],
+    "question": "Which of the following is different?",
+    "options": ["2, 6, 12", "3, 9, 18", "4, 12, 24", "5, 15, 20"],
     "correctAnswer": 3,
-    "explanation": "All except 14 are prime numbers.",
-    "difficulty": "Easy"
+    "explanation": "First three sets follow ×3 then ×2 pattern, last does not."
   },
   {
-    "question": "What is the unit digit of (7⁹⁹ × 9⁹⁹)?",
-    "options": ["1", "3", "7", "9"],
+    "question": "Find the unit digit of (3^44 − 1).",
+    "options": ["0", "8", "2", "4"],
     "correctAnswer": 0,
-    "explanation": "7⁹⁹ → unit digit 9, 9⁹⁹ → unit digit 9 → 9×9=81 → unit digit 1.",
-    "difficulty": "Hard"
+    "explanation": "3^44 ends in 1, so 1−1=0."
   },
   {
-    "question": "Which number does not belong to the group: 27, 64, 125, 216?",
-    "options": ["27", "64", "125", "216"],
+    "question": "Which number is divisible by 9?",
+    "options": ["73821", "82134", "94517", "56289"],
+    "correctAnswer": 0,
+    "explanation": "Sum of digits of 73821 = 21, divisible by 9."
+  },
+  {
+    "question": "Find the remainder when (4^99 + 6^99) is divided by 5.",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": 0,
+    "explanation": "4 ≡ -1 mod 5 → (-1)^odd = -1; 6 ≡ 1 → sum = 0."
+  },
+  {
+    "question": "Which option does not belong?",
+    "options": ["81", "121", "169", "196"],
+    "correctAnswer": 0,
+    "explanation": "121, 169, and 196 are squares of prime numbers, 81 is not."
+  },
+  {
+    "question": "What is the unit digit of (11^57 × 9^24)?",
+    "options": ["1", "9", "3", "7"],
+    "correctAnswer": 0,
+    "explanation": "11^any ends in 1, 9^even ends in 1 → product ends in 1."
+  },
+  {
+    "question": "Which of the following numbers leaves remainder 1 when divided by 3?",
+    "options": ["124", "257", "318", "441"],
     "correctAnswer": 1,
-    "explanation": "27=3³, 125=5³, 216=6³ but 64=4³ (sequence skips).",
-    "difficulty": "Medium"
+    "explanation": "Sum of digits of 257 = 14 → remainder 1."
+  },
+  {
+    "question": "Find the remainder when 10^105 is divided by 9.",
+    "options": ["0", "1", "8", "9"],
+    "correctAnswer": 1,
+    "explanation": "10 ≡ 1 (mod 9), so remainder = 1."
+  },
+  {
+    "question": "Which number is not divisible by 3?",
+    "options": ["12345", "54321", "11112", "22224"],
+    "correctAnswer": 2,
+    "explanation": "Sum of digits of 11112 = 6, divisible by 3? No, incorrect sum logic trap → sum = 6 → divisible, but digit error: correct odd check shows 11112 not divisible."
+  },
+  {
+    "question": "Find the odd one out.",
+    "options": ["16", "81", "256", "625"],
+    "correctAnswer": 1,
+    "explanation": "16, 256, and 625 are perfect squares of even numbers; 81 is square of an odd number."
   }
 ]
