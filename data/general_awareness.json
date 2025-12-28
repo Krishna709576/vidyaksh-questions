@@ -1,177 +1,177 @@
 [
   {
-    "question": "The Earth is best described as which of the following in shape?",
-    "options": ["Perfect sphere", "Oblate spheroid", "Prolate spheroid", "Flat disc"],
-    "correctAnswer": 1,
-    "explanation": "Earth is an oblate spheroid, bulged at the equator and flattened at the poles due to rotation.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "The bulging of the Earth at the equator is primarily due to:",
-    "options": ["Gravitational pull of the Moon", "Revolution of Earth", "Rotation of Earth", "Tectonic activity"],
+    "question": "The Earth was formed approximately how many years ago?",
+    "options": ["13.8 billion years", "10 billion years", "4.6 billion years", "2.5 billion years"],
     "correctAnswer": 2,
-    "explanation": "Rotation of the Earth produces centrifugal force causing equatorial bulge.",
+    "explanation": "Scientific estimates place the formation of Earth at about 4.6 billion years ago.",
     "difficulty": "Easy"
   },
   {
-    "question": "Which motion of the Earth is responsible for day and night?",
-    "options": ["Revolution", "Rotation", "Precession", "Inclination"],
-    "correctAnswer": 1,
-    "explanation": "Day and night occur due to the rotation of Earth on its axis.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Earth completes one rotation approximately in:",
-    "options": ["12 hours", "24 hours", "365 days", "360 days"],
-    "correctAnswer": 1,
-    "explanation": "Earth takes about 24 hours to complete one rotation on its axis.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "The Earth’s axis is tilted at approximately:",
-    "options": ["15°", "23.5°", "30°", "66.5°"],
-    "correctAnswer": 1,
-    "explanation": "The Earth’s axis is tilted at about 23.5°, which is crucial for seasons.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Seasons on Earth are primarily caused by:",
-    "options": ["Distance between Earth and Sun", "Earth’s axial tilt", "Elliptical orbit", "Earth’s rotation"],
-    "correctAnswer": 1,
-    "explanation": "Axial tilt causes variation in angle of sunlight and length of day, leading to seasons.",
+    "question": "Which layer of the Earth is responsible for the generation of the magnetic field?",
+    "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+    "correctAnswer": 2,
+    "explanation": "The liquid outer core, rich in iron and nickel, generates Earth's magnetic field.",
     "difficulty": "Medium"
   },
   {
-    "question": "If the Earth had no axial tilt, what would be the impact?",
-    "options": ["Extreme seasons", "No day and night", "No seasons", "Permanent winter"],
-    "correctAnswer": 2,
-    "explanation": "Without axial tilt, Sun’s rays would remain fixed, resulting in no seasons.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Earth completes one revolution around the Sun in approximately:",
-    "options": ["360 days", "364 days", "365¼ days", "366 days"],
-    "correctAnswer": 2,
-    "explanation": "Earth takes about 365¼ days to complete one revolution, leading to leap years.",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "correctAnswer": 1,
+    "explanation": "Venus is visible just before sunrise and after sunset due to its proximity to Earth.",
     "difficulty": "Easy"
   },
   {
-    "question": "The Earth is closest to the Sun during:",
-    "options": ["June", "March", "September", "January"],
+    "question": "What is the average distance between the Earth and the Sun called?",
+    "options": ["Light year", "Astronomical Unit", "Parsec", "Kilometer"],
+    "correctAnswer": 1,
+    "explanation": "The Astronomical Unit (AU) is the mean distance between Earth and the Sun.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
+    "options": ["Prime Meridian", "Tropic of Cancer", "Equator", "Arctic Circle"],
+    "correctAnswer": 2,
+    "explanation": "The Equator is at 0° latitude and divides Earth into two hemispheres.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Prime Meridian passes through which place?",
+    "options": ["Paris", "Greenwich", "Rome", "New York"],
+    "correctAnswer": 1,
+    "explanation": "The Prime Meridian (0° longitude) passes through Greenwich, London.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which latitude is also known as the Tropic of Cancer?",
+    "options": ["0°", "23½° N", "23½° S", "66½° N"],
+    "correctAnswer": 1,
+    "explanation": "The Tropic of Cancer lies at 23½° North latitude.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which longitude is taken as the basis for calculating time?",
+    "options": ["180°", "90° E", "0°", "23½°"],
+    "correctAnswer": 2,
+    "explanation": "The Prime Meridian (0° longitude) is the reference for time calculation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Volcanoes are most commonly found along which tectonic feature?",
+    "options": ["Stable shields", "Mid-ocean ridges", "Plate boundaries", "River valleys"],
+    "correctAnswer": 2,
+    "explanation": "Most volcanoes occur along convergent and divergent plate boundaries.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Ring of Fire is mainly associated with which ocean?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
     "correctAnswer": 3,
-    "explanation": "Earth is closest to the Sun (perihelion) in early January.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "The hottest regions of the Earth lie between:",
-    "options": ["Arctic Circle and North Pole", "Tropic of Cancer and Tropic of Capricorn", "Equator and Tropic of Cancer", "Prime Meridian and Equator"],
-    "correctAnswer": 1,
-    "explanation": "This region is the Torrid Zone where Sun’s rays fall vertically.",
+    "explanation": "The Pacific Ring of Fire is known for intense volcanic and seismic activity.",
     "difficulty": "Easy"
   },
   {
-    "question": "The Sun can be vertically overhead only between:",
-    "options": ["Equator and poles", "Arctic Circle and Antarctic Circle", "Tropic of Cancer and Tropic of Capricorn", "Prime Meridian and IDL"],
-    "correctAnswer": 2,
-    "explanation": "Vertical rays occur only within the tropics due to Earth’s axial tilt.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Temperate zones are characterized by:",
-    "options": ["Vertical Sun rays", "Permanent ice cover", "Moderate temperatures", "No seasonal change"],
-    "correctAnswer": 2,
-    "explanation": "Temperate zones receive slanting rays and experience moderate climate with seasons.",
+    "question": "Earthquakes are measured using which scale?",
+    "options": ["Beaufort Scale", "Richter Scale", "Fujita Scale", "Mercalli is for pressure"],
+    "correctAnswer": 1,
+    "explanation": "The Richter Scale measures the magnitude of earthquakes.",
     "difficulty": "Easy"
   },
   {
-    "question": "The frigid zones receive very little heat mainly because:",
-    "options": ["They are far from the Sun", "Sun rays are extremely slanting", "Earth’s bulge blocks sunlight", "They rotate slowly"],
+    "question": "The point inside the Earth where an earthquake originates is called?",
+    "options": ["Epicenter", "Focus", "Fault", "Crater"],
     "correctAnswer": 1,
-    "explanation": "Highly slanting rays spread energy over a large area and pass through more atmosphere.",
+    "explanation": "The focus (hypocenter) is the origin point of seismic waves.",
     "difficulty": "Medium"
   },
   {
-    "question": "Latitude measures the angular distance of a place from:",
-    "options": ["Prime Meridian", "International Date Line", "Equator", "North Pole"],
+    "question": "Which type of rock is formed from molten magma?",
+    "options": ["Sedimentary", "Metamorphic", "Igneous", "Residual"],
     "correctAnswer": 2,
-    "explanation": "Latitude measures north–south distance from the Equator.",
+    "explanation": "Igneous rocks form from the cooling and solidification of magma or lava.",
     "difficulty": "Easy"
   },
   {
-    "question": "Which of the following latitudes has nearly equal day and night throughout the year?",
-    "options": ["Tropic of Cancer", "Equator", "Arctic Circle", "Antarctic Circle"],
-    "correctAnswer": 1,
-    "explanation": "At the Equator, day and night are almost equal year-round.",
+    "question": "Marble is a metamorphic form of which rock?",
+    "options": ["Granite", "Basalt", "Sandstone", "Limestone"],
+    "correctAnswer": 3,
+    "explanation": "Marble forms when limestone undergoes metamorphism.",
     "difficulty": "Medium"
   },
   {
-    "question": "The distance between two consecutive parallels of latitude is approximately:",
-    "options": ["100 km", "111 km", "150 km", "60 km"],
-    "correctAnswer": 1,
-    "explanation": "One degree of latitude equals roughly 111 km anywhere on Earth.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Longitudes differ from latitudes because longitudes:",
-    "options": ["Are parallel", "Are imaginary", "Converge at the poles", "Control climate"],
+    "question": "Which rock is mainly used in construction and formed by compaction?",
+    "options": ["Basalt", "Granite", "Sandstone", "Gneiss"],
     "correctAnswer": 2,
-    "explanation": "Longitudes are semi-circles that converge at the poles.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which of the following controls time?",
-    "options": ["Latitude", "Longitude", "Equator", "Heat zones"],
-    "correctAnswer": 1,
-    "explanation": "Longitude determines local time due to Earth’s rotation.",
+    "explanation": "Sandstone is a sedimentary rock widely used in construction.",
     "difficulty": "Easy"
   },
   {
-    "question": "The Earth rotates 15° of longitude in:",
-    "options": ["15 minutes", "30 minutes", "1 hour", "4 hours"],
+    "question": "How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
     "correctAnswer": 2,
-    "explanation": "Earth rotates 360° in 24 hours, i.e., 15° per hour.",
+    "explanation": "There are seven continents on Earth.",
     "difficulty": "Easy"
   },
   {
-    "question": "The Prime Meridian passes through:",
-    "options": ["Paris", "Greenwich", "New York", "Rome"],
-    "correctAnswer": 1,
-    "explanation": "The Prime Meridian passes through Greenwich in the UK.",
+    "question": "Which is the largest continent by area?",
+    "options": ["Africa", "Europe", "Asia", "North America"],
+    "correctAnswer": 2,
+    "explanation": "Asia is the largest continent in terms of area and population.",
     "difficulty": "Easy"
   },
   {
-    "question": "Indian Standard Time is based on which longitude?",
-    "options": ["75° E", "82.5° E", "90° E", "68.5° E"],
-    "correctAnswer": 1,
-    "explanation": "IST is based on 82.5° E, close to the center of India.",
+    "question": "Which continent is completely located in the Southern Hemisphere?",
+    "options": ["Africa", "Australia", "South America", "Antarctica"],
+    "correctAnswer": 3,
+    "explanation": "Antarctica lies entirely in the Southern Hemisphere.",
     "difficulty": "Medium"
   },
   {
-    "question": "International Date Line roughly follows which longitude?",
-    "options": ["0°", "90° E", "180°", "23.5°"],
+    "question": "Which is the smallest continent by land area?",
+    "options": ["Europe", "Australia", "Antarctica", "South America"],
+    "correctAnswer": 1,
+    "explanation": "Australia is the smallest continent by land area.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
     "correctAnswer": 2,
-    "explanation": "IDL roughly follows 180° longitude with zig-zags to avoid land.",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctAnswer": 2,
+    "explanation": "The Indian Ocean is located between Africa, Asia, and Australia.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the smallest ocean in the world?",
+    "options": ["Arctic Ocean", "Southern Ocean", "Indian Ocean", "Atlantic Ocean"],
+    "correctAnswer": 0,
+    "explanation": "The Arctic Ocean is the smallest and shallowest ocean.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Southern Ocean surrounds which continent?",
+    "options": ["Australia", "Africa", "Antarctica", "South America"],
+    "correctAnswer": 2,
+    "explanation": "The Southern Ocean encircles Antarctica.",
     "difficulty": "Medium"
   },
   {
-    "question": "When a person crosses the International Date Line from east to west, he should:",
-    "options": ["Subtract one day", "Add one day", "Change the month", "No change required"],
+    "question": "Which ocean is also known as the 'Herring Pond'?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
     "correctAnswer": 1,
-    "explanation": "Crossing IDL from east to west requires adding one day.",
+    "explanation": "The Atlantic Ocean is sometimes referred to as the 'Herring Pond'.",
     "difficulty": "Hard"
   },
   {
-    "question": "Why do higher latitudes experience greater seasonal contrast?",
-    "options": ["Greater distance from Sun", "Greater variation in day length and Sun angle", "Earth’s bulge", "Faster rotation"],
-    "correctAnswer": 1,
-    "explanation": "Higher latitudes have larger variation in day length and angle of solar incidence.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Which of the following is a permanent division of the Earth?",
-    "options": ["Seasons", "Weather patterns", "Heat zones", "Monsoon cycles"],
-    "correctAnswer": 2,
-    "explanation": "Heat zones are permanent divisions based on latitude and solar angle.",
+    "question": "Which continent has the longest coastline?",
+    "options": ["Asia", "Africa", "Europe", "Antarctica"],
+    "correctAnswer": 3,
+    "explanation": "Antarctica has the longest coastline due to its circular shape around the South Pole.",
     "difficulty": "Hard"
   }
 ]
