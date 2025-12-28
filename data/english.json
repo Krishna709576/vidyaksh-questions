@@ -1,197 +1,272 @@
 [
   {
-    "question": "She gave me some useful ______.",
-    "options": ["advices", "advice", "advise", "advises"],
-    "correctAnswer": 1,
-    "explanation": "Advice is an uncountable noun and does not take a plural form."
+    "question": "Which option correctly identifies the type of noun used in the sentence: 'Honesty is valued in leadership.'?",
+    "options": ["Abstract noun", "Collective noun", "Material noun", "Proper noun"],
+    "correctAnswer": 0,
+    "explanation": "‘Honesty’ denotes a quality that cannot be perceived by senses, hence an abstract noun.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Which of the following is an uncountable noun?",
-    "options": ["Chair", "Bottle", "Furniture", "Student"],
-    "correctAnswer": 2,
-    "explanation": "Furniture is always uncountable and takes a singular verb."
-  },
-  {
-    "question": "Choose the correct sentence.",
+    "question": "Choose the correct sentence based on noun–verb agreement.",
     "options": [
-      "The cattle is grazing.",
-      "The cattle are grazing.",
-      "The cattles are grazing.",
-      "The cattle was grazing."
+      "A group of students are waiting outside.",
+      "A group of students is waiting outside.",
+      "A group of student are waiting outside.",
+      "A group students is waiting outside."
     ],
     "correctAnswer": 1,
-    "explanation": "Cattle is always treated as a plural noun."
+    "explanation": "The subject ‘group’ is singular; hence singular verb ‘is’ is used.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Identify the correct plural form of 'child'.",
-    "options": ["childs", "childes", "children", "childrens"],
-    "correctAnswer": 2,
-    "explanation": "Child → children is an irregular plural."
-  },
-  {
-    "question": "Which sentence is grammatically correct?",
+    "question": "Identify the incorrect usage of a noun.",
     "options": [
-      "The news are shocking.",
-      "The news were shocking.",
       "The news is shocking.",
-      "The news have shocked."
+      "The furniture was expensive.",
+      "The police has arrived.",
+      "The information is correct."
     ],
     "correctAnswer": 2,
-    "explanation": "News looks plural but is grammatically singular."
+    "explanation": "‘Police’ is a plural noun and takes a plural verb: ‘have arrived’.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Choose the correct option: He has little ______ of economics.",
-    "options": ["knowledge", "knowledges", "knowing", "knowledge's"],
+    "question": "Which sentence uses a material noun?",
+    "options": [
+      "Gold is a precious metal.",
+      "Justice was delivered.",
+      "The crowd was restless.",
+      "Her bravery inspired many."
+    ],
     "correctAnswer": 0,
-    "explanation": "Knowledge is an uncountable noun."
+    "explanation": "‘Gold’ is a substance and hence a material noun.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Select the correct sentence.",
+    "question": "Identify the sentence with a collective noun.",
     "options": [
-      "These scissors is sharp.",
-      "This scissors are sharp.",
-      "These scissors are sharp.",
-      "This scissor are sharp."
+      "The jury gave its verdict.",
+      "She bought a necklace.",
+      "Kindness is important.",
+      "Water is essential."
     ],
-    "correctAnswer": 2,
-    "explanation": "Scissors is always plural and takes a plural verb."
+    "correctAnswer": 0,
+    "explanation": "‘Jury’ refers to a group acting as a unit.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Find the error: He bought two furnitures yesterday.",
-    "options": ["He", "bought", "two furnitures", "yesterday"],
-    "correctAnswer": 2,
-    "explanation": "Furniture is uncountable and cannot be pluralized."
+    "question": "Choose the correct pronoun to fill the blank: Everyone must submit ___ ID card.",
+    "options": ["their", "his", "her", "its"],
+    "correctAnswer": 0,
+    "explanation": "‘Everyone’ is singular but takes plural pronoun ‘their’ in modern usage.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Choose the correct plural of 'knife'.",
-    "options": ["knifes", "knife", "knives", "knifves"],
-    "correctAnswer": 2,
-    "explanation": "Knife → knives (f changes to ves)."
-  },
-  {
-    "question": "Which option uses 'experience' correctly?",
+    "question": "Which sentence shows correct pronoun–antecedent agreement?",
     "options": [
-      "She has many experience.",
-      "She has much experiences.",
-      "She has much experience.",
-      "She has few experience."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Experience meaning knowledge is uncountable."
-  },
-  {
-    "question": "Choose the correct sentence.",
-    "options": [
-      "This pair of shoes are new.",
-      "This pair of shoes is new.",
-      "These pair of shoes is new.",
-      "These pair of shoe are new."
+      "Each of the boys forgot their book.",
+      "Each of the boys forgot his book.",
+      "Each of the boys forgot her book.",
+      "Each of the boys forgot its book."
     ],
     "correctAnswer": 1,
-    "explanation": "Verb agrees with 'pair', not 'shoes'."
+    "explanation": "‘Each’ is singular and traditionally takes ‘his’.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Identify the correct plural form.",
-    "options": ["deers", "deer", "deeres", "deer's"],
-    "correctAnswer": 1,
-    "explanation": "Deer has the same singular and plural form."
+    "question": "Identify the type of pronoun used in the sentence: 'They blamed themselves for the failure.'",
+    "options": ["Reflexive pronoun", "Reciprocal pronoun", "Relative pronoun", "Demonstrative pronoun"],
+    "correctAnswer": 0,
+    "explanation": "‘Themselves’ reflects back to the subject ‘they’.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Which sentence is correct?",
+    "question": "Choose the sentence with correct case of pronoun.",
     "options": [
-      "Much people were present.",
-      "Many people were present.",
-      "Many peoples were present.",
-      "Much peoples were present."
+      "Between you and I, this is confidential.",
+      "Between you and me, this is confidential.",
+      "Between I and you, this is confidential.",
+      "Between me and I, this is confidential."
     ],
     "correctAnswer": 1,
-    "explanation": "People is countable and takes 'many'."
+    "explanation": "A preposition like ‘between’ requires an objective case pronoun.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Choose the correct option: Two ______ of bread.",
-    "options": ["breads", "bread", "loaves", "pieces"],
-    "correctAnswer": 2,
-    "explanation": "Bread is uncountable; it is counted using loaves."
-  },
-  {
-    "question": "Find the correct sentence.",
+    "question": "Which option correctly uses a reciprocal pronoun?",
     "options": [
-      "The committee have taken its decision.",
-      "The committee has taken its decision.",
-      "The committee have taken their decision.",
-      "The committee has taken their decisions."
+      "The two friends helped themselves.",
+      "The two friends helped each other.",
+      "The two friends helped him.",
+      "The two friends helped one."
     ],
     "correctAnswer": 1,
-    "explanation": "Committee acting as one unit takes singular verb and pronoun."
+    "explanation": "‘Each other’ is used when two people are involved.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Choose the correct option: The equipment ______ installed yesterday.",
-    "options": ["were", "are", "have been", "was"],
+    "question": "Identify the error in the sentence: 'Neither of the answers are correct.'",
+    "options": [
+      "Neither",
+      "of the",
+      "answers",
+      "are"
+    ],
     "correctAnswer": 3,
-    "explanation": "Equipment is uncountable and singular."
+    "explanation": "‘Neither’ is singular; the verb should be ‘is’.",
+    "difficulty": "Hard"
   },
   {
-    "question": "Identify the abstract noun.",
-    "options": ["Table", "Honesty", "Chair", "Bottle"],
-    "correctAnswer": 1,
-    "explanation": "Honesty is a quality and cannot be seen or touched."
-  },
-  {
-    "question": "Which of the following is always plural?",
-    "options": ["Furniture", "News", "Cattle", "Information"],
+    "question": "Which pronoun correctly completes the sentence: The manager and the clerk blamed ___ for the mistake.",
+    "options": ["himself", "herself", "themselves", "each other"],
     "correctAnswer": 2,
-    "explanation": "Cattle is always treated as plural."
+    "explanation": "More than one subject requires the reflexive pronoun ‘themselves’.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Identify the sentence where a noun is wrongly pluralized.",
+    "options": [
+      "She gave me some advices.",
+      "He bought two books.",
+      "The children were playing.",
+      "I lost my spectacles."
+    ],
+    "correctAnswer": 0,
+    "explanation": "‘Advice’ is an uncountable noun and does not take plural form.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which sentence correctly uses an indefinite pronoun?",
+    "options": [
+      "Anyone of the answers are correct.",
+      "Anyone of the answers is correct.",
+      "Anyone of the answer are correct.",
+      "Anyone answers is correct."
+    ],
+    "correctAnswer": 1,
+    "explanation": "‘Anyone’ is singular and takes a singular verb.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Choose the sentence with correct demonstrative pronoun usage.",
+    "options": [
+      "These kind of mistakes are common.",
+      "This kind of mistakes are common.",
+      "This kind of mistake is common.",
+      "These kind of mistake is common."
+    ],
+    "correctAnswer": 2,
+    "explanation": "‘Kind’ is singular; hence ‘this’ and ‘is’ are correct.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which option correctly identifies the noun clause?",
+    "options": [
+      "What he said surprised everyone.",
+      "He spoke loudly in class.",
+      "The tall building collapsed.",
+      "She arrived late."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The clause ‘What he said’ functions as a noun.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Identify the correct pronoun: It was ___ who solved the puzzle.",
+    "options": ["him", "he", "his", "them"],
+    "correctAnswer": 1,
+    "explanation": "‘He’ is used as the subject complement after ‘it was’.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which sentence shows correct use of possessive pronoun?",
+    "options": [
+      "This book is her.",
+      "This book is hers.",
+      "This book is she's.",
+      "This book is she."
+    ],
+    "correctAnswer": 1,
+    "explanation": "‘Hers’ is a possessive pronoun used without a noun.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Identify the sentence with a common noun.",
+    "options": [
+      "Mount Everest is tall.",
+      "The river flows swiftly.",
+      "India is diverse.",
+      "Monday is busy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "‘River’ is a general name, hence a common noun.",
+    "difficulty": "Easy"
   },
   {
     "question": "Choose the correct sentence.",
     "options": [
-      "There are less books on the table.",
-      "There are fewer books on the table.",
-      "There is fewer books on the table.",
-      "There is less books on the table."
+      "None of the students have completed his work.",
+      "None of the students has completed their work.",
+      "None of the students have completed their work.",
+      "None of the student have completed their works."
     ],
-    "correctAnswer": 1,
-    "explanation": "Fewer is used with countable nouns."
-  },
-  {
-    "question": "Which noun can be both countable and uncountable?",
-    "options": ["Furniture", "Advice", "Experience", "Information"],
     "correctAnswer": 2,
-    "explanation": "Experience can be knowledge (uncountable) or events (countable)."
+    "explanation": "‘None’ with plural noun can take a plural verb; ‘their work’ is correct.",
+    "difficulty": "Hard"
   },
   {
-    "question": "Choose the correct plural form.",
-    "options": ["photos", "photoes", "photo's", "photoes"],
-    "correctAnswer": 0,
-    "explanation": "Photo takes plural by adding 's'."
-  },
-  {
-    "question": "Find the error: The news were broadcast late.",
-    "options": ["The", "news", "were", "broadcast"],
-    "correctAnswer": 2,
-    "explanation": "News is singular and takes 'was'."
-  },
-  {
-    "question": "Choose the correct sentence.",
+    "question": "Which option correctly uses a relative pronoun?",
     "options": [
-      "Ten thousand rupees are enough.",
-      "Ten thousand rupees is enough.",
-      "Ten thousands rupees are enough.",
-      "Ten thousand rupee is enough."
+      "This is the man which won the award.",
+      "This is the man who won the award.",
+      "This is the man whom won the award.",
+      "This is the man whose won the award."
     ],
     "correctAnswer": 1,
-    "explanation": "When money is considered as a sum, it takes a singular verb."
+    "explanation": "‘Who’ is used for a subject referring to a person.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Identify the material noun.",
-    "options": ["Gold", "Team", "Happiness", "Child"],
+    "question": "Identify the noun form in the sentence: 'The decision was unanimous.'",
+    "options": ["Decision", "Was", "Unanimous", "The"],
     "correctAnswer": 0,
-    "explanation": "Gold is a substance and hence a material noun."
+    "explanation": "‘Decision’ is a noun derived from the verb ‘decide’.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Choose the correct option: Much ______ was lost in the fire.",
-    "options": ["properties", "property", "houses", "buildings"],
+    "question": "Choose the sentence with correct usage of ‘one’.",
+    "options": [
+      "One should respect one's elders.",
+      "One should respect his elders.",
+      "One should respect their elders.",
+      "One should respect him elders."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pronoun reference must remain consistent with ‘one’.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which sentence correctly avoids repetition using a pronoun?",
+    "options": [
+      "When Ravi met Ravi, Ravi smiled.",
+      "When Ravi met him, Ravi smiled.",
+      "When Ravi met Ravi, he smiled.",
+      "When Ravi met him, he smiled."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Proper pronoun substitution avoids unnecessary repetition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Identify the incorrect pronoun usage.",
+    "options": [
+      "She is senior to me.",
+      "He is taller than I.",
+      "They invited my friend and me.",
+      "This gift is for her."
+    ],
     "correctAnswer": 1,
-    "explanation": "Property is uncountable when used in a general sense."
+    "explanation": "It should be ‘taller than me’ as ‘than’ acts as a preposition here.",
+    "difficulty": "Hard"
   }
 ]
