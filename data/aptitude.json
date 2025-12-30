@@ -1,152 +1,177 @@
 [
   {
-    "question": "Which of the following does NOT belong to the group?",
-    "options": ["13", "17", "19", "21"],
+    "question": "Simplify: 12 + 8 ÷ 4",
+    "options": ["5", "14", "20", "8"],
+    "correctAnswer": 1,
+    "explanation": "According to BODMAS/PEMDAS, division comes before addition. 8 ÷ 4 = 2. Then, 12 + 2 = 14.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the prime factorization of 60?",
+    "options": ["2 x 3 x 5", "2 x 2 x 3 x 5", "2 x 3 x 10", "4 x 3 x 5"],
+    "correctAnswer": 1,
+    "explanation": "60 = 6 x 10 = (2 x 3) x (2 x 5) = 2 x 2 x 3 x 5 (or 2² x 3 x 5).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the HCF (Highest Common Factor) of 12 and 18?",
+    "options": ["3", "6", "12", "36"],
+    "correctAnswer": 1,
+    "explanation": "Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18: 1, 2, 3, 6, 9, 18. The highest common factor is 6.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Evaluate: 50 - 5 × (4 + 2)",
+    "options": ["20", "270", "30", "40"],
+    "correctAnswer": 0,
+    "explanation": "First, solve the brackets: (4 + 2) = 6. Then multiply: 5 × 6 = 30. Finally, subtract: 50 - 30 = 20.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following is NOT a prime number?",
+    "options": ["2", "19", "29", "51"],
     "correctAnswer": 3,
-    "explanation": "13, 17, and 19 are prime numbers, whereas 21 is composite."
+    "explanation": "51 is divisible by 3 and 17 (3 x 17 = 51). The others are prime.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find the odd one out: 64, 125, 216, 256",
-    "options": ["64", "125", "216", "256"],
-    "correctAnswer": 3,
-    "explanation": "64, 125, and 216 are perfect cubes, while 256 is not."
-  },
-  {
-    "question": "Which number is different from the rest?",
-    "options": ["144", "169", "196", "225"],
+    "question": "Find the LCM (Least Common Multiple) of 4, 6, and 8.",
+    "options": ["12", "24", "48", "16"],
     "correctAnswer": 1,
-    "explanation": "144, 196, and 225 are divisible by 3, but 169 is not."
+    "explanation": "Multiples of 8: 8, 16, 24... Multiples of 6: 6, 12, 18, 24... Multiples of 4: 4, 8, 12, 16, 20, 24... The lowest common multiple is 24.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find the unit digit of (27^103).",
-    "options": ["3", "7", "9", "1"],
+    "question": "Simplify: 100 ÷ 10 × 10",
+    "options": ["1", "10", "100", "20"],
+    "correctAnswer": 2,
+    "explanation": "Division and Multiplication are equal in precedence and are performed left to right. 100 ÷ 10 = 10. Then 10 × 10 = 100.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "How many factors does the number 24 have?",
+    "options": ["6", "8", "10", "12"],
     "correctAnswer": 1,
-    "explanation": "Unit digits of powers of 7 repeat as 7,9,3,1. 103 mod 4 = 3 → unit digit = 7."
+    "explanation": "The factors of 24 are 1, 2, 3, 4, 6, 8, 12, 24. There are 8 total factors.",
+    "difficulty": "Medium"
   },
   {
-    "question": "What is the unit digit of (84^56 × 7^21)?",
-    "options": ["2", "4", "8", "6"],
-    "correctAnswer": 1,
-    "explanation": "84^56 ends in 6, 7^21 ends in 7 → 6×7=42 → unit digit 2."
-  },
-  {
-    "question": "The unit digit of (9^202 + 7^203) is:",
-    "options": ["6", "8", "2", "4"],
-    "correctAnswer": 1,
-    "explanation": "9^even ends in 1, 7^odd ends in 3 → 1+3=4."
-  },
-  {
-    "question": "Which of the following numbers is divisible by 11?",
-    "options": ["34562", "91827", "83641", "12144"],
+    "question": "What is the prime factorization of 144?",
+    "options": ["2⁴ x 3²", "2³ x 3³", "2⁴ x 3", "2² x 3⁴"],
     "correctAnswer": 0,
-    "explanation": "Difference of sum of alternate digits = 0 for 34562, hence divisible by 11."
+    "explanation": "144 = 12 x 12 = (2² x 3) x (2² x 3) = 2⁴ x 3².",
+    "difficulty": "Hard"
   },
   {
-    "question": "Which number is divisible by both 4 and 9?",
-    "options": ["1296", "1332", "1188", "1424"],
+    "question": "Simplify: 5 + 5 × 5 - 5",
+    "options": ["25", "45", "0", "50"],
     "correctAnswer": 0,
-    "explanation": "1296 is divisible by 4 (last two digits) and by 9 (sum of digits = 18)."
+    "explanation": "Order of operations (Multiplication first): 5 x 5 = 25. Then 5 + 25 - 5 = 30 - 5 = 25.",
+    "difficulty": "Medium"
   },
   {
-    "question": "A number is divisible by 6 if it is divisible by:",
-    "options": ["2 and 3", "3 and 9", "2 and 9", "4 and 3"],
-    "correctAnswer": 0,
-    "explanation": "Divisibility by 6 requires divisibility by both 2 and 3."
+    "question": "Which of these pairs are 'Co-prime' numbers?",
+    "options": ["8 and 12", "9 and 15", "15 and 32", "14 and 21"],
+    "correctAnswer": 2,
+    "explanation": "Co-prime numbers have an HCF of 1. 8 & 12 share 4. 9 & 15 share 3. 14 & 21 share 7. 15 (3x5) and 32 (2⁵) share no common factors.",
+    "difficulty": "Hard"
   },
   {
-    "question": "Which of the following is NOT divisible by 8?",
-    "options": ["312", "728", "1008", "1112"],
-    "correctAnswer": 1,
-    "explanation": "Last three digits of 728 are not divisible by 8."
-  },
-  {
-    "question": "Find the remainder when 7^103 is divided by 6.",
-    "options": ["1", "3", "5", "0"],
-    "correctAnswer": 0,
-    "explanation": "7 ≡ 1 (mod 6), so remainder is 1."
-  },
-  {
-    "question": "What is the remainder when 3^45 is divided by 4?",
-    "options": ["1", "3", "2", "0"],
-    "correctAnswer": 1,
-    "explanation": "Powers of 3 mod 4 repeat as 3,1. Odd power → remainder 3."
-  },
-  {
-    "question": "Find the remainder when 11^25 is divided by 10.",
-    "options": ["1", "3", "9", "7"],
-    "correctAnswer": 0,
-    "explanation": "11 ≡ 1 (mod 10), so remainder = 1."
-  },
-  {
-    "question": "The remainder when (5^202 + 3^202) is divided by 4 is:",
+    "question": "What is the smallest prime number?",
     "options": ["0", "1", "2", "3"],
     "correctAnswer": 2,
-    "explanation": "5^even ≡ 1, 3^even ≡ 1 → 1+1=2."
+    "explanation": "0 and 1 are not prime numbers. 2 is the smallest prime number (and the only even prime).",
+    "difficulty": "Easy"
   },
   {
-    "question": "Find the remainder when 2^100 is divided by 7.",
-    "options": ["1", "2", "4", "3"],
-    "correctAnswer": 0,
-    "explanation": "Cycle of 2 mod 7 is 6 → 100 mod 6 = 4 → remainder = 1."
-  },
-  {
-    "question": "Which of the following is different?",
-    "options": ["2, 6, 12", "3, 9, 18", "4, 12, 24", "5, 15, 20"],
-    "correctAnswer": 3,
-    "explanation": "First three sets follow ×3 then ×2 pattern, last does not."
-  },
-  {
-    "question": "Find the unit digit of (3^44 − 1).",
-    "options": ["0", "8", "2", "4"],
-    "correctAnswer": 0,
-    "explanation": "3^44 ends in 1, so 1−1=0."
-  },
-  {
-    "question": "Which number is divisible by 9?",
-    "options": ["73821", "82134", "94517", "56289"],
-    "correctAnswer": 0,
-    "explanation": "Sum of digits of 73821 = 21, divisible by 9."
-  },
-  {
-    "question": "Find the remainder when (4^99 + 6^99) is divided by 5.",
-    "options": ["0", "1", "2", "3"],
-    "correctAnswer": 0,
-    "explanation": "4 ≡ -1 mod 5 → (-1)^odd = -1; 6 ≡ 1 → sum = 0."
-  },
-  {
-    "question": "Which option does not belong?",
-    "options": ["81", "121", "169", "196"],
-    "correctAnswer": 0,
-    "explanation": "121, 169, and 196 are squares of prime numbers, 81 is not."
-  },
-  {
-    "question": "What is the unit digit of (11^57 × 9^24)?",
-    "options": ["1", "9", "3", "7"],
-    "correctAnswer": 0,
-    "explanation": "11^any ends in 1, 9^even ends in 1 → product ends in 1."
-  },
-  {
-    "question": "Which of the following numbers leaves remainder 1 when divided by 3?",
-    "options": ["124", "257", "318", "441"],
-    "correctAnswer": 1,
-    "explanation": "Sum of digits of 257 = 14 → remainder 1."
-  },
-  {
-    "question": "Find the remainder when 10^105 is divided by 9.",
-    "options": ["0", "1", "8", "9"],
-    "correctAnswer": 1,
-    "explanation": "10 ≡ 1 (mod 9), so remainder = 1."
-  },
-  {
-    "question": "Which number is not divisible by 3?",
-    "options": ["12345", "54321", "11112", "22224"],
+    "question": "Simplify: 3³ + 2⁴",
+    "options": ["17", "35", "43", "59"],
     "correctAnswer": 2,
-    "explanation": "Sum of digits of 11112 = 6, divisible by 3? No, incorrect sum logic trap → sum = 6 → divisible, but digit error: correct odd check shows 11112 not divisible."
+    "explanation": "3³ = 27. 2⁴ = 16. 27 + 16 = 43.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Find the odd one out.",
-    "options": ["16", "81", "256", "625"],
+    "question": "The LCM of two prime numbers is always equal to:",
+    "options": ["Their sum", "Their difference", "Their product", "Cannot be determined"],
+    "correctAnswer": 2,
+    "explanation": "Since prime numbers have no common factors other than 1, their LCM is simply their product.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Evaluate: 18 - [6 - {4 - (8 - 6 + 3)}]",
+    "options": ["7", "11", "15", "18"],
     "correctAnswer": 1,
-    "explanation": "16, 256, and 625 are perfect squares of even numbers; 81 is square of an odd number."
+    "explanation": "Innermost bracket: 8 - 6 + 3 = 2 + 3 = 5. Curly braces: 4 - 5 = -1. Square bracket: 6 - (-1) = 6 + 1 = 7. Finally: 18 - 7 = 11.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following is a multiple of both 3 and 5?",
+    "options": ["20", "25", "35", "45"],
+    "correctAnswer": 3,
+    "explanation": "For a number to be a multiple of both 3 and 5, it must be a multiple of 15. 45 is divisible by 15.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the HCF of two consecutive even numbers?",
+    "options": ["1", "2", "4", "8"],
+    "correctAnswer": 1,
+    "explanation": "Consecutive even numbers are always 2 apart (e.g., 2 and 4, 10 and 12). Their largest common divisor is always 2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Simplify: 7 x 9 + 12 ÷ 3 - 6",
+    "options": ["63", "61", "59", "25"],
+    "correctAnswer": 1,
+    "explanation": "Multiplication/Division first: 7x9=63 and 12÷3=4. Equation becomes 63 + 4 - 6. Then 67 - 6 = 61.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Find the total number of factors for the number 36.",
+    "options": ["8", "9", "10", "6"],
+    "correctAnswer": 1,
+    "explanation": "Prime factorization of 36 is 2² x 3². To find total factors, add 1 to the exponents and multiply: (2+1) x (2+1) = 3 x 3 = 9 factors.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Identify the factors of 15.",
+    "options": ["1, 3, 5, 15", "3, 5", "1, 3, 5", "1, 5, 15"],
+    "correctAnswer": 0,
+    "explanation": "The numbers that divide 15 without a remainder are 1, 3, 5, and 15.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Simplify: 12 ÷ 2(3)",
+    "options": ["2", "18", "6", "1"],
+    "correctAnswer": 1,
+    "explanation": "This is treated as 12 ÷ 2 x 3. Operations go left to right. 12 ÷ 2 = 6. Then 6 x 3 = 18.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the prime factorization of 98?",
+    "options": ["2 x 49", "2 x 7 x 7", "14 x 7", "2 x 7 x 9"],
+    "correctAnswer": 1,
+    "explanation": "98 = 2 x 49. Since 49 = 7 x 7, the prime factorization is 2 x 7 x 7 (or 2 x 7²).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The product of the HCF and LCM of two numbers is equal to:",
+    "options": ["Sum of the numbers", "Difference of the numbers", "Product of the numbers", "Quotient of the numbers"],
+    "correctAnswer": 2,
+    "explanation": "This is a fundamental property of numbers: HCF(a,b) x LCM(a,b) = a x b.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of these is a factor of every number?",
+    "options": ["0", "1", "2", "The number itself"],
+    "correctAnswer": 1,
+    "explanation": "1 divides every integer without leaving a remainder.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Simplify: (10² - 8²) ÷ 6",
+    "options": ["36", "6", "12", "2"],
+    "correctAnswer": 1,
+    "explanation": "10² = 100, 8² = 64. 100 - 64 = 36. Then 36 ÷ 6 = 6.",
+    "difficulty": "Medium"
   }
 ]
