@@ -1,177 +1,177 @@
 [
   {
-    "question": "The Earth was formed approximately how many years ago?",
-    "options": ["13.8 billion years", "10 billion years", "4.6 billion years", "2.5 billion years"],
-    "correctAnswer": 2,
-    "explanation": "Scientific estimates place the formation of Earth at about 4.6 billion years ago.",
+    "question": "Which layer of the atmosphere contains the ozone layer, which absorbs the majority of the sun's ultraviolet radiation?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": 1,
+    "explanation": "The ozone layer is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation.",
     "difficulty": "Easy"
   },
   {
-    "question": "Which layer of the Earth is responsible for the generation of the magnetic field?",
-    "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
-    "correctAnswer": 2,
-    "explanation": "The liquid outer core, rich in iron and nickel, generates Earth's magnetic field.",
+    "question": "What is the most abundant gas in the Earth's atmosphere by volume?",
+    "options": ["Oxygen", "Argon", "Carbon Dioxide", "Nitrogen"],
+    "correctAnswer": 3,
+    "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere by volume.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The concept of 'Sea Floor Spreading' was proposed by whom?",
+    "options": ["Alfred Wegener", "Harry Hess", "Arthur Holmes", "Tuzo Wilson"],
+    "correctAnswer": 1,
+    "explanation": "Harry Hess proposed the theory of Sea Floor Spreading in the 1960s, explaining how new oceanic crust is formed at mid-ocean ridges.",
     "difficulty": "Medium"
   },
   {
-    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
-    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "question": "Which of the following landforms is created by wind erosion in deserts?",
+    "options": ["Stalagmites", "Mushroom Rocks", "Moraines", "Levees"],
     "correctAnswer": 1,
-    "explanation": "Venus is visible just before sunrise and after sunset due to its proximity to Earth.",
+    "explanation": "Mushroom rocks (or rock pedestals) are formed by the abrasive action of wind-blown sand, which erodes the lower part of a rock mass more than the top.",
     "difficulty": "Easy"
   },
   {
-    "question": "What is the average distance between the Earth and the Sun called?",
-    "options": ["Light year", "Astronomical Unit", "Parsec", "Kilometer"],
-    "correctAnswer": 1,
-    "explanation": "The Astronomical Unit (AU) is the mean distance between Earth and the Sun.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
-    "options": ["Prime Meridian", "Tropic of Cancer", "Equator", "Arctic Circle"],
-    "correctAnswer": 2,
-    "explanation": "The Equator is at 0° latitude and divides Earth into two hemispheres.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "The Prime Meridian passes through which place?",
-    "options": ["Paris", "Greenwich", "Rome", "New York"],
-    "correctAnswer": 1,
-    "explanation": "The Prime Meridian (0° longitude) passes through Greenwich, London.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which latitude is also known as the Tropic of Cancer?",
-    "options": ["0°", "23½° N", "23½° S", "66½° N"],
-    "correctAnswer": 1,
-    "explanation": "The Tropic of Cancer lies at 23½° North latitude.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which longitude is taken as the basis for calculating time?",
-    "options": ["180°", "90° E", "0°", "23½°"],
-    "correctAnswer": 2,
-    "explanation": "The Prime Meridian (0° longitude) is the reference for time calculation.",
+    "question": "The Mohorovicic discontinuity (Moho) separates which two layers of the Earth?",
+    "options": ["Crust and Mantle", "Outer Core and Inner Core", "Mantle and Core", "Upper Mantle and Lower Mantle"],
+    "correctAnswer": 0,
+    "explanation": "The Mohorovicic discontinuity marks the boundary between the Earth's crust and the mantle.",
     "difficulty": "Medium"
   },
   {
-    "question": "Volcanoes are most commonly found along which tectonic feature?",
-    "options": ["Stable shields", "Mid-ocean ridges", "Plate boundaries", "River valleys"],
+    "question": "Which atmospheric layer reflects radio waves back to Earth, facilitating long-distance communication?",
+    "options": ["Exosphere", "Stratosphere", "Ionosphere", "Troposphere"],
     "correctAnswer": 2,
-    "explanation": "Most volcanoes occur along convergent and divergent plate boundaries.",
+    "explanation": "The Ionosphere contains ions and free electrons that reflect radio waves, allowing them to travel around the curvature of the Earth.",
     "difficulty": "Medium"
   },
   {
-    "question": "The Ring of Fire is mainly associated with which ocean?",
+    "question": "What term describes the reflectivity of a surface, such as snow or ice, to incoming solar radiation?",
+    "options": ["Insolation", "Albedo", "Convection", "Advection"],
+    "correctAnswer": 1,
+    "explanation": "Albedo is the measure of the diffuse reflection of solar radiation out of the total solar radiation received by a body.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which type of rock is formed by the cooling and solidification of magma or lava?",
+    "options": ["Sedimentary", "Metamorphic", "Igneous", "Conglomerate"],
+    "correctAnswer": 2,
+    "explanation": "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The 'Ring of Fire', known for frequent volcanic eruptions and earthquakes, is located around which ocean?",
     "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
     "correctAnswer": 3,
-    "explanation": "The Pacific Ring of Fire is known for intense volcanic and seismic activity.",
+    "explanation": "The Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur.",
     "difficulty": "Easy"
   },
   {
-    "question": "Earthquakes are measured using which scale?",
-    "options": ["Beaufort Scale", "Richter Scale", "Fujita Scale", "Mercalli is for pressure"],
-    "correctAnswer": 1,
-    "explanation": "The Richter Scale measures the magnitude of earthquakes.",
-    "difficulty": "Easy"
+    "question": "What is the process by which water vapor turns directly into ice without becoming liquid first?",
+    "options": ["Condensation", "Sublimation", "Deposition", "Evaporation"],
+    "correctAnswer": 2,
+    "explanation": "Deposition is the phase transition in which gas transforms into solid without passing through the liquid phase. (Note: Sublimation is solid to gas).",
+    "difficulty": "Hard"
   },
   {
-    "question": "The point inside the Earth where an earthquake originates is called?",
-    "options": ["Epicenter", "Focus", "Fault", "Crater"],
+    "question": "Which of the following is a depositional landform created by glaciers?",
+    "options": ["Cirque", "Arete", "Drumlin", "Hanging Valley"],
+    "correctAnswer": 2,
+    "explanation": "Drumlins are elongated, tear-drop shaped hills of rock, sand, and gravel that formed under moving glacier ice.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The Coriolis force, which deflects wind direction, is zero at which location?",
+    "options": ["The Poles", "The Equator", "The Tropic of Cancer", "The Tropic of Capricorn"],
     "correctAnswer": 1,
-    "explanation": "The focus (hypocenter) is the origin point of seismic waves.",
+    "explanation": "The Coriolis force is caused by Earth's rotation and is zero at the Equator, increasing towards the poles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Which type of rock is formed from molten magma?",
-    "options": ["Sedimentary", "Metamorphic", "Igneous", "Residual"],
+    "question": "Which type of seismic wave is the fastest and arrives first at a recording station?",
+    "options": ["S-waves", "Surface waves", "P-waves", "Love waves"],
     "correctAnswer": 2,
-    "explanation": "Igneous rocks form from the cooling and solidification of magma or lava.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Marble is a metamorphic form of which rock?",
-    "options": ["Granite", "Basalt", "Sandstone", "Limestone"],
-    "correctAnswer": 3,
-    "explanation": "Marble forms when limestone undergoes metamorphism.",
+    "explanation": "Primary waves (P-waves) are longitudinal waves and travel faster than other seismic waves through the Earth.",
     "difficulty": "Medium"
   },
   {
-    "question": "Which rock is mainly used in construction and formed by compaction?",
-    "options": ["Basalt", "Granite", "Sandstone", "Gneiss"],
-    "correctAnswer": 2,
-    "explanation": "Sandstone is a sedimentary rock widely used in construction.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "How many continents are there in the world?",
-    "options": ["5", "6", "7", "8"],
-    "correctAnswer": 2,
-    "explanation": "There are seven continents on Earth.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which is the largest continent by area?",
-    "options": ["Africa", "Europe", "Asia", "North America"],
-    "correctAnswer": 2,
-    "explanation": "Asia is the largest continent in terms of area and population.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Which continent is completely located in the Southern Hemisphere?",
-    "options": ["Africa", "Australia", "South America", "Antarctica"],
-    "correctAnswer": 3,
-    "explanation": "Antarctica lies entirely in the Southern Hemisphere.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which is the smallest continent by land area?",
-    "options": ["Europe", "Australia", "Antarctica", "South America"],
+    "question": "In the context of Karst topography, what are 'Stalactites'?",
+    "options": ["Deposits growing from the cave floor", "Deposits hanging from the cave roof", "Underground rivers", "Collapse sinks"],
     "correctAnswer": 1,
-    "explanation": "Australia is the smallest continent by land area.",
-    "difficulty": "Easy"
+    "explanation": "Stalactites are icicle-shaped formations that hang from the ceiling of a cave, produced by the precipitation of minerals from water dripping through the cave ceiling.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which is the largest ocean in the world?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "question": "What is the primary cause of the movement of tectonic plates?",
+    "options": ["Ocean currents", "Earth's rotation", "Convection currents in the mantle", "Gravitational pull of the Moon"],
     "correctAnswer": 2,
-    "explanation": "The Pacific Ocean is the largest and deepest ocean.",
-    "difficulty": "Easy"
+    "explanation": "The movement of tectonic plates is primarily driven by convection currents within the molten rock of Earth's mantle.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which ocean lies between Africa and Australia?",
-    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "question": "Which local wind is known as the 'Snow Eater' because it melts snow rapidly on the eastern slopes of the Rockies?",
+    "options": ["Mistral", "Chinook", "Sirocco", "Harmattan"],
+    "correctAnswer": 1,
+    "explanation": "The Chinook is a warm, dry wind that blows down the eastern slopes of the Rocky Mountains, often melting snow rapidly.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ox-bow lakes are typically associated with which stage of a river's course?",
+    "options": ["Upper course (Youth)", "Middle course (Maturity)", "Lower course (Old Age)", "Source"],
     "correctAnswer": 2,
-    "explanation": "The Indian Ocean is located between Africa, Asia, and Australia.",
-    "difficulty": "Easy"
+    "explanation": "Ox-bow lakes are formed in the lower course of a river when a meander is cut off from the main stream.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Which is the smallest ocean in the world?",
-    "options": ["Arctic Ocean", "Southern Ocean", "Indian Ocean", "Atlantic Ocean"],
+    "question": "Identify the discontinuous zone that separates the crust and the upper mantle from the rest of the mantle, essentially defining the lithospheric plates.",
+    "options": ["Asthenosphere", "Lithosphere", "Mesosphere", "Barysphere"],
     "correctAnswer": 0,
-    "explanation": "The Arctic Ocean is the smallest and shallowest ocean.",
+    "explanation": "The Asthenosphere is the highly viscous, mechanically weak, and ductile region of the upper mantle on which the tectonic plates move.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which gas is primarily responsible for the Greenhouse Effect on Earth?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "correctAnswer": 2,
+    "explanation": "Carbon Dioxide (along with Methane and Water Vapor) is a major greenhouse gas that traps heat in the atmosphere.",
     "difficulty": "Easy"
   },
   {
-    "question": "The Southern Ocean surrounds which continent?",
-    "options": ["Australia", "Africa", "Antarctica", "South America"],
+    "question": "The boundary where two tectonic plates move away from each other is called?",
+    "options": ["Convergent boundary", "Divergent boundary", "Transform boundary", "Subduction zone"],
+    "correctAnswer": 1,
+    "explanation": "Divergent boundaries occur where plates move apart, leading to the creation of new crust (e.g., Mid-Atlantic Ridge).",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the term for the temperature at which air becomes saturated with water vapor and condensation begins?",
+    "options": ["Freezing point", "Boiling point", "Dew point", "Critical point"],
     "correctAnswer": 2,
-    "explanation": "The Southern Ocean encircles Antarctica.",
+    "explanation": "The dew point is the temperature to which air must be cooled to become saturated with water vapor.",
     "difficulty": "Medium"
   },
   {
-    "question": "Which ocean is also known as the 'Herring Pond'?",
-    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "question": "Which scale is used to measure the magnitude (energy released) of an earthquake?",
+    "options": ["Mercalli Scale", "Richter Scale", "Beaufort Scale", "Mohs Scale"],
     "correctAnswer": 1,
-    "explanation": "The Atlantic Ocean is sometimes referred to as the 'Herring Pond'.",
-    "difficulty": "Hard"
+    "explanation": "The Richter Scale (and the Moment Magnitude Scale) measures the magnitude or energy released by an earthquake, whereas Mercalli measures intensity/damage.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Which continent has the longest coastline?",
-    "options": ["Asia", "Africa", "Europe", "Antarctica"],
+    "question": "In the atmosphere, temperature decreases with altitude in the troposphere. What is this rate of decrease called?",
+    "options": ["Inversion Rate", "Normal Lapse Rate", "Adiabatic Rate", "Isothermal Rate"],
+    "correctAnswer": 1,
+    "explanation": "The Normal Lapse Rate is the average rate at which temperature decreases with an increase in altitude in the troposphere (approx 6.5°C per km).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following is an example of a chemical weathering process?",
+    "options": ["Frost wedging", "Thermal expansion", "Oxidation", "Exfoliation"],
+    "correctAnswer": 2,
+    "explanation": "Oxidation is a chemical reaction where minerals react with oxygen (e.g., rusting), changing the chemical composition of the rock.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The collision of the Indian Plate and the Eurasian Plate formed which mountain range?",
+    "options": ["The Andes", "The Rockies", "The Alps", "The Himalayas"],
     "correctAnswer": 3,
-    "explanation": "Antarctica has the longest coastline due to its circular shape around the South Pole.",
-    "difficulty": "Hard"
+    "explanation": "The Himalayas were formed (and are still rising) due to the collision between the Indian Plate and the Eurasian Plate.",
+    "difficulty": "Easy"
   }
 ]
