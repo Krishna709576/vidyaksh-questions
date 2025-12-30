@@ -1,272 +1,177 @@
 [
   {
-    "question": "Which option correctly identifies the type of noun used in the sentence: 'Honesty is valued in leadership.'?",
-    "options": ["Abstract noun", "Collective noun", "Material noun", "Proper noun"],
-    "correctAnswer": 0,
-    "explanation": "‘Honesty’ denotes a quality that cannot be perceived by senses, hence an abstract noun.",
+    "question": "Which of the following is a collective noun?",
+    "options": ["Soldier", "Army", "Uniform", "March"],
+    "correctAnswer": 1,
+    "explanation": "'Army' is a collective noun because it refers to a group of soldiers as a single unit.",
     "difficulty": "Easy"
   },
   {
-    "question": "Choose the correct sentence based on noun–verb agreement.",
-    "options": [
-      "A group of students are waiting outside.",
-      "A group of students is waiting outside.",
-      "A group of student are waiting outside.",
-      "A group students is waiting outside."
-    ],
+    "question": "Identify the proper noun in the sentence: 'The city of Paris is beautiful in the spring.'",
+    "options": ["city", "Paris", "beautiful", "spring"],
     "correctAnswer": 1,
-    "explanation": "The subject ‘group’ is singular; hence singular verb ‘is’ is used.",
-    "difficulty": "Medium"
+    "explanation": "'Paris' is a proper noun because it is the specific name of a particular city.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Identify the incorrect usage of a noun.",
-    "options": [
-      "The news is shocking.",
-      "The furniture was expensive.",
-      "The police has arrived.",
-      "The information is correct."
-    ],
+    "question": "Choose the correct past participle form of the verb 'swim'.",
+    "options": ["Swam", "Swimmed", "Swum", "Swimming"],
     "correctAnswer": 2,
-    "explanation": "‘Police’ is a plural noun and takes a plural verb: ‘have arrived’.",
+    "explanation": "The verb 'swim' is irregular. The forms are: swim (base), swam (past), swum (past participle).",
     "difficulty": "Medium"
   },
   {
-    "question": "Which sentence uses a material noun?",
-    "options": [
-      "Gold is a precious metal.",
-      "Justice was delivered.",
-      "The crowd was restless.",
-      "Her bravery inspired many."
-    ],
-    "correctAnswer": 0,
-    "explanation": "‘Gold’ is a substance and hence a material noun.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Identify the sentence with a collective noun.",
-    "options": [
-      "The jury gave its verdict.",
-      "She bought a necklace.",
-      "Kindness is important.",
-      "Water is essential."
-    ],
-    "correctAnswer": 0,
-    "explanation": "‘Jury’ refers to a group acting as a unit.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Choose the correct pronoun to fill the blank: Everyone must submit ___ ID card.",
-    "options": ["their", "his", "her", "its"],
-    "correctAnswer": 0,
-    "explanation": "‘Everyone’ is singular but takes plural pronoun ‘their’ in modern usage.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which sentence shows correct pronoun–antecedent agreement?",
-    "options": [
-      "Each of the boys forgot their book.",
-      "Each of the boys forgot his book.",
-      "Each of the boys forgot her book.",
-      "Each of the boys forgot its book."
-    ],
+    "question": "Which sentence correctly uses a reflexive pronoun?",
+    "options": ["He bought him a new shirt.", "She made herself a sandwich.", "They saw we at the park.", "I gave me a gift."],
     "correctAnswer": 1,
-    "explanation": "‘Each’ is singular and traditionally takes ‘his’.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Identify the type of pronoun used in the sentence: 'They blamed themselves for the failure.'",
-    "options": ["Reflexive pronoun", "Reciprocal pronoun", "Relative pronoun", "Demonstrative pronoun"],
-    "correctAnswer": 0,
-    "explanation": "‘Themselves’ reflects back to the subject ‘they’.",
+    "explanation": "'Herself' reflects back to the subject 'She'. The other sentences use object pronouns incorrectly or awkwardly.",
     "difficulty": "Easy"
   },
   {
-    "question": "Choose the sentence with correct case of pronoun.",
-    "options": [
-      "Between you and I, this is confidential.",
-      "Between you and me, this is confidential.",
-      "Between I and you, this is confidential.",
-      "Between me and I, this is confidential."
-    ],
+    "question": "What is the plural form of the noun 'criterion'?",
+    "options": ["Criterions", "Criteria", "Criterias", "Criterion"],
     "correctAnswer": 1,
-    "explanation": "A preposition like ‘between’ requires an objective case pronoun.",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which option correctly uses a reciprocal pronoun?",
-    "options": [
-      "The two friends helped themselves.",
-      "The two friends helped each other.",
-      "The two friends helped him.",
-      "The two friends helped one."
-    ],
-    "correctAnswer": 1,
-    "explanation": "‘Each other’ is used when two people are involved.",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Identify the error in the sentence: 'Neither of the answers are correct.'",
-    "options": [
-      "Neither",
-      "of the",
-      "answers",
-      "are"
-    ],
-    "correctAnswer": 3,
-    "explanation": "‘Neither’ is singular; the verb should be ‘is’.",
+    "explanation": "'Criterion' is of Greek origin; its plural form is 'criteria'.",
     "difficulty": "Hard"
   },
   {
-    "question": "Which pronoun correctly completes the sentence: The manager and the clerk blamed ___ for the mistake.",
-    "options": ["himself", "herself", "themselves", "each other"],
+    "question": "Identify the verb in the sentence: 'The cat sleeps on the sofa.'",
+    "options": ["The", "cat", "sleeps", "sofa"],
     "correctAnswer": 2,
-    "explanation": "More than one subject requires the reflexive pronoun ‘themselves’.",
-    "difficulty": "Medium"
+    "explanation": "'Sleeps' expresses the action or state of being of the subject.",
+    "difficulty": "Easy"
   },
   {
-    "question": "Identify the sentence where a noun is wrongly pluralized.",
-    "options": [
-      "She gave me some advices.",
-      "He bought two books.",
-      "The children were playing.",
-      "I lost my spectacles."
-    ],
-    "correctAnswer": 0,
-    "explanation": "‘Advice’ is an uncountable noun and does not take plural form.",
+    "question": "Which pronoun correctly completes the sentence? 'Between you and ___, I think this is a bad idea.'",
+    "options": ["I", "me", "my", "mine"],
+    "correctAnswer": 1,
+    "explanation": "The preposition 'between' requires the object case pronoun 'me', not the subject case 'I'.",
     "difficulty": "Hard"
   },
   {
-    "question": "Which sentence correctly uses an indefinite pronoun?",
-    "options": [
-      "Anyone of the answers are correct.",
-      "Anyone of the answers is correct.",
-      "Anyone of the answer are correct.",
-      "Anyone answers is correct."
-    ],
+    "question": "Which of the following is an abstract noun?",
+    "options": ["Table", "Courage", "Doctor", "London"],
     "correctAnswer": 1,
-    "explanation": "‘Anyone’ is singular and takes a singular verb.",
+    "explanation": "'Courage' is an abstract noun because it represents an idea, quality, or state, not a physical object.",
     "difficulty": "Medium"
   },
   {
-    "question": "Choose the sentence with correct demonstrative pronoun usage.",
-    "options": [
-      "These kind of mistakes are common.",
-      "This kind of mistakes are common.",
-      "This kind of mistake is common.",
-      "These kind of mistake is common."
-    ],
+    "question": "Choose the correct verb form: 'Neither of the boys ___ to go to school.'",
+    "options": ["want", "wants", "wanting", "have wanted"],
+    "correctAnswer": 1,
+    "explanation": "When 'neither' is the subject, it is treated as singular, so it requires the singular verb 'wants'.",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What type of noun is the word 'gold'?",
+    "options": ["Countable noun", "Material noun", "Collective noun", "Proper noun"],
+    "correctAnswer": 1,
+    "explanation": "'Gold' is a material noun (and uncountable) as it refers to a substance out of which things are made.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Identify the transitive verb in the options below.",
+    "options": ["Sleep", "Arrive", "Kick", "Go"],
     "correctAnswer": 2,
-    "explanation": "‘Kind’ is singular; hence ‘this’ and ‘is’ are correct.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Which option correctly identifies the noun clause?",
-    "options": [
-      "What he said surprised everyone.",
-      "He spoke loudly in class.",
-      "The tall building collapsed.",
-      "She arrived late."
-    ],
-    "correctAnswer": 0,
-    "explanation": "The clause ‘What he said’ functions as a noun.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Identify the correct pronoun: It was ___ who solved the puzzle.",
-    "options": ["him", "he", "his", "them"],
-    "correctAnswer": 1,
-    "explanation": "‘He’ is used as the subject complement after ‘it was’.",
+    "explanation": "'Kick' is transitive because it requires a direct object (e.g., Kick the ball). The others are typically intransitive.",
     "difficulty": "Medium"
   },
   {
-    "question": "Which sentence shows correct use of possessive pronoun?",
-    "options": [
-      "This book is her.",
-      "This book is hers.",
-      "This book is she's.",
-      "This book is she."
-    ],
+    "question": "Which word is an indefinite pronoun?",
+    "options": ["He", "Everyone", "Which", "Myself"],
     "correctAnswer": 1,
-    "explanation": "‘Hers’ is a possessive pronoun used without a noun.",
-    "difficulty": "Easy"
+    "explanation": "'Everyone' is an indefinite pronoun because it does not refer to any specific person, thing, or amount.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Identify the sentence with a common noun.",
-    "options": [
-      "Mount Everest is tall.",
-      "The river flows swiftly.",
-      "India is diverse.",
-      "Monday is busy."
-    ],
+    "question": "Select the correct plural form of the compound noun 'mother-in-law'.",
+    "options": ["Mother-in-laws", "Mothers-in-law", "Mothers-in-laws", "Mother-in-law"],
     "correctAnswer": 1,
-    "explanation": "‘River’ is a general name, hence a common noun.",
-    "difficulty": "Easy"
+    "explanation": "In compound nouns, you pluralize the principal word. Therefore, 'mother' becomes 'mothers'.",
+    "difficulty": "Medium"
   },
   {
-    "question": "Choose the correct sentence.",
-    "options": [
-      "None of the students have completed his work.",
-      "None of the students has completed their work.",
-      "None of the students have completed their work.",
-      "None of the student have completed their works."
-    ],
+    "question": "Choose the correct form of the verb: 'If I ___ you, I would accept the offer.'",
+    "options": ["was", "am", "were", "be"],
     "correctAnswer": 2,
-    "explanation": "‘None’ with plural noun can take a plural verb; ‘their work’ is correct.",
+    "explanation": "In the subjunctive mood (hypothetical situations), 'were' is used instead of 'was' for all subjects.",
     "difficulty": "Hard"
   },
   {
-    "question": "Which option correctly uses a relative pronoun?",
-    "options": [
-      "This is the man which won the award.",
-      "This is the man who won the award.",
-      "This is the man whom won the award.",
-      "This is the man whose won the award."
-    ],
-    "correctAnswer": 1,
-    "explanation": "‘Who’ is used for a subject referring to a person.",
+    "question": "Which of the following is a possessive pronoun?",
+    "options": ["My", "Your", "Hers", "Their"],
+    "correctAnswer": 2,
+    "explanation": "'Hers' is a possessive pronoun (e.g., 'This is hers'). 'My', 'Your', and 'Their' are possessive adjectives because they modify nouns.",
     "difficulty": "Medium"
   },
   {
-    "question": "Identify the noun form in the sentence: 'The decision was unanimous.'",
-    "options": ["Decision", "Was", "Unanimous", "The"],
+    "question": "The word 'team' takes which type of verb when acting as a single unit?",
+    "options": ["Singular", "Plural", "Future", "Participle"],
     "correctAnswer": 0,
-    "explanation": "‘Decision’ is a noun derived from the verb ‘decide’.",
+    "explanation": "Collective nouns like 'team' take a singular verb when the group is acting as a single unit.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the past tense of the verb 'buy'?",
+    "options": ["Buyed", "Bought", "Brought", "Buying"],
+    "correctAnswer": 1,
+    "explanation": "'Buy' is an irregular verb. Its past tense is 'bought'. ('Brought' is the past tense of 'bring').",
     "difficulty": "Easy"
   },
   {
-    "question": "Choose the sentence with correct usage of ‘one’.",
-    "options": [
-      "One should respect one's elders.",
-      "One should respect his elders.",
-      "One should respect their elders.",
-      "One should respect him elders."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pronoun reference must remain consistent with ‘one’.",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Which sentence correctly avoids repetition using a pronoun?",
-    "options": [
-      "When Ravi met Ravi, Ravi smiled.",
-      "When Ravi met him, Ravi smiled.",
-      "When Ravi met Ravi, he smiled.",
-      "When Ravi met him, he smiled."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Proper pronoun substitution avoids unnecessary repetition.",
+    "question": "Identify the relative pronoun: 'The man ___ called yesterday is here.'",
+    "options": ["which", "who", "whom", "whose"],
+    "correctAnswer": 1,
+    "explanation": "'Who' is the correct relative pronoun as it acts as the subject of the clause 'called yesterday'.",
     "difficulty": "Medium"
   },
   {
-    "question": "Identify the incorrect pronoun usage.",
-    "options": [
-      "She is senior to me.",
-      "He is taller than I.",
-      "They invited my friend and me.",
-      "This gift is for her."
-    ],
+    "question": "Which of these nouns is always plural?",
+    "options": ["News", "Mathematics", "Scissors", "Information"],
+    "correctAnswer": 2,
+    "explanation": "'Scissors' is always plural (used with a plural verb) because it has two parts. 'News' and 'Mathematics' end in 's' but are singular.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which sentence uses an auxiliary (helping) verb?",
+    "options": ["I run fast.", "She is eating lunch.", "They play soccer.", "He saw a movie."],
     "correctAnswer": 1,
-    "explanation": "It should be ‘taller than me’ as ‘than’ acts as a preposition here.",
+    "explanation": "In 'She is eating', 'is' acts as an auxiliary verb helping the main participle 'eating'.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Select the correct demonstrative pronoun to point to something far away.",
+    "options": ["This", "That", "These", "Here"],
+    "correctAnswer": 1,
+    "explanation": "'That' is used to point to a singular item that is far from the speaker.",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Identify the gerund in the sentence: 'Swimming is good exercise.'",
+    "options": ["Swimming", "is", "good", "exercise"],
+    "correctAnswer": 0,
+    "explanation": "A gerund is a verb ending in -ing that functions as a noun. Here, 'Swimming' is the subject.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the correct pronoun for the antecedent 'Everyone'?",
+    "options": ["They", "Their", "His or Her", "Them"],
+    "correctAnswer": 2,
+    "explanation": "In formal grammar, singular indefinite pronouns like 'everyone' traditionally take singular possessives 'his or her', though 'their' is becoming common in informal usage.",
     "difficulty": "Hard"
+  },
+  {
+    "question": "Which category does the verb 'seem' belong to?",
+    "options": ["Action verb", "Linking verb", "Transitive verb", "Passive verb"],
+    "correctAnswer": 1,
+    "explanation": "'Seem' connects the subject to an adjective or complement, making it a linking verb (or copular verb).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following nouns is uncountable?",
+    "options": ["Bottle", "Water", "Cup", "Coin"],
+    "correctAnswer": 1,
+    "explanation": "'Water' is a mass/uncountable noun; you cannot say 'one water, two waters' in standard contexts.",
+    "difficulty": "Easy"
   }
 ]
